@@ -1,0 +1,1001 @@
+﻿id,name,neighborhood,address,city,state,postal_code,latitude,longitude,stars,review_count,is_open,business_id,name,value
+--cZ6Hhc9F7VkKXxHMVZSQ,Pio Pio,Dilworth,1408 E Blvd,Charlotte,NC,28203,35.1999,-80.8448,4,299,1,--cZ6Hhc9F7VkKXxHMVZSQ,Alcohol,beer_and_wine
+--cZ6Hhc9F7VkKXxHMVZSQ,Pio Pio,Dilworth,1408 E Blvd,Charlotte,NC,28203,35.1999,-80.8448,4,299,1,--cZ6Hhc9F7VkKXxHMVZSQ,Ambience,"{""romantic"": false, ""intimate"": false, ""classy"": false, ""hipster"": false, ""divey"": false, ""touristy"": false, ""trendy"": false, ""upscale"": false, ""casual"": true}"
+--cZ6Hhc9F7VkKXxHMVZSQ,Pio Pio,Dilworth,1408 E Blvd,Charlotte,NC,28203,35.1999,-80.8448,4,299,1,--cZ6Hhc9F7VkKXxHMVZSQ,BikeParking,1
+--cZ6Hhc9F7VkKXxHMVZSQ,Pio Pio,Dilworth,1408 E Blvd,Charlotte,NC,28203,35.1999,-80.8448,4,299,1,--cZ6Hhc9F7VkKXxHMVZSQ,BusinessAcceptsCreditCards,1
+--cZ6Hhc9F7VkKXxHMVZSQ,Pio Pio,Dilworth,1408 E Blvd,Charlotte,NC,28203,35.1999,-80.8448,4,299,1,--cZ6Hhc9F7VkKXxHMVZSQ,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": true, ""valet"": false}"
+--cZ6Hhc9F7VkKXxHMVZSQ,Pio Pio,Dilworth,1408 E Blvd,Charlotte,NC,28203,35.1999,-80.8448,4,299,1,--cZ6Hhc9F7VkKXxHMVZSQ,Caters,1
+--cZ6Hhc9F7VkKXxHMVZSQ,Pio Pio,Dilworth,1408 E Blvd,Charlotte,NC,28203,35.1999,-80.8448,4,299,1,--cZ6Hhc9F7VkKXxHMVZSQ,GoodForKids,1
+--cZ6Hhc9F7VkKXxHMVZSQ,Pio Pio,Dilworth,1408 E Blvd,Charlotte,NC,28203,35.1999,-80.8448,4,299,1,--cZ6Hhc9F7VkKXxHMVZSQ,GoodForMeal,"{""dessert"": false, ""latenight"": false, ""lunch"": true, ""dinner"": true, ""breakfast"": false, ""brunch"": false}"
+--cZ6Hhc9F7VkKXxHMVZSQ,Pio Pio,Dilworth,1408 E Blvd,Charlotte,NC,28203,35.1999,-80.8448,4,299,1,--cZ6Hhc9F7VkKXxHMVZSQ,HasTV,1
+--cZ6Hhc9F7VkKXxHMVZSQ,Pio Pio,Dilworth,1408 E Blvd,Charlotte,NC,28203,35.1999,-80.8448,4,299,1,--cZ6Hhc9F7VkKXxHMVZSQ,NoiseLevel,average
+--cZ6Hhc9F7VkKXxHMVZSQ,Pio Pio,Dilworth,1408 E Blvd,Charlotte,NC,28203,35.1999,-80.8448,4,299,1,--cZ6Hhc9F7VkKXxHMVZSQ,OutdoorSeating,1
+--cZ6Hhc9F7VkKXxHMVZSQ,Pio Pio,Dilworth,1408 E Blvd,Charlotte,NC,28203,35.1999,-80.8448,4,299,1,--cZ6Hhc9F7VkKXxHMVZSQ,RestaurantsAttire,casual
+--cZ6Hhc9F7VkKXxHMVZSQ,Pio Pio,Dilworth,1408 E Blvd,Charlotte,NC,28203,35.1999,-80.8448,4,299,1,--cZ6Hhc9F7VkKXxHMVZSQ,RestaurantsDelivery,1
+--cZ6Hhc9F7VkKXxHMVZSQ,Pio Pio,Dilworth,1408 E Blvd,Charlotte,NC,28203,35.1999,-80.8448,4,299,1,--cZ6Hhc9F7VkKXxHMVZSQ,RestaurantsGoodForGroups,1
+--cZ6Hhc9F7VkKXxHMVZSQ,Pio Pio,Dilworth,1408 E Blvd,Charlotte,NC,28203,35.1999,-80.8448,4,299,1,--cZ6Hhc9F7VkKXxHMVZSQ,RestaurantsPriceRange2,2
+--cZ6Hhc9F7VkKXxHMVZSQ,Pio Pio,Dilworth,1408 E Blvd,Charlotte,NC,28203,35.1999,-80.8448,4,299,1,--cZ6Hhc9F7VkKXxHMVZSQ,RestaurantsReservations,1
+--cZ6Hhc9F7VkKXxHMVZSQ,Pio Pio,Dilworth,1408 E Blvd,Charlotte,NC,28203,35.1999,-80.8448,4,299,1,--cZ6Hhc9F7VkKXxHMVZSQ,RestaurantsTableService,1
+--cZ6Hhc9F7VkKXxHMVZSQ,Pio Pio,Dilworth,1408 E Blvd,Charlotte,NC,28203,35.1999,-80.8448,4,299,1,--cZ6Hhc9F7VkKXxHMVZSQ,RestaurantsTakeOut,1
+--cZ6Hhc9F7VkKXxHMVZSQ,Pio Pio,Dilworth,1408 E Blvd,Charlotte,NC,28203,35.1999,-80.8448,4,299,1,--cZ6Hhc9F7VkKXxHMVZSQ,WheelchairAccessible,1
+--cZ6Hhc9F7VkKXxHMVZSQ,Pio Pio,Dilworth,1408 E Blvd,Charlotte,NC,28203,35.1999,-80.8448,4,299,1,--cZ6Hhc9F7VkKXxHMVZSQ,WiFi,no
+--EX4rRznJrltyn-34Jz1w,Bath & Body Works,,"6801 Northlake Mall Dr, Ste 172",Charlotte,NC,28216,35.3521,-80.8512,4,3,1,--EX4rRznJrltyn-34Jz1w,BusinessAcceptsCreditCards,1
+--EX4rRznJrltyn-34Jz1w,Bath & Body Works,,"6801 Northlake Mall Dr, Ste 172",Charlotte,NC,28216,35.3521,-80.8512,4,3,1,--EX4rRznJrltyn-34Jz1w,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": false, ""valet"": false}"
+--EX4rRznJrltyn-34Jz1w,Bath & Body Works,,"6801 Northlake Mall Dr, Ste 172",Charlotte,NC,28216,35.3521,-80.8512,4,3,1,--EX4rRznJrltyn-34Jz1w,ByAppointmentOnly,0
+--j-kaNMCo1-DYzddCsA5Q,Q's Nails,Eastland,"3039 S Blvd, Ste C",Charlotte,NC,28209,35.2739,-80.7293,3.5,3,1,--j-kaNMCo1-DYzddCsA5Q,BusinessAcceptsCreditCards,1
+--j-kaNMCo1-DYzddCsA5Q,Q's Nails,Eastland,"3039 S Blvd, Ste C",Charlotte,NC,28209,35.2739,-80.7293,3.5,3,1,--j-kaNMCo1-DYzddCsA5Q,ByAppointmentOnly,0
+--KCl2FvVQpvjzmZSPyviA,Hungry Howie's Pizza,,"6426 W Sugar Creek Rd, Unit A",Charlotte,NC,28269,35.3335,-80.7962,3,12,1,--KCl2FvVQpvjzmZSPyviA,Alcohol,none
+--KCl2FvVQpvjzmZSPyviA,Hungry Howie's Pizza,,"6426 W Sugar Creek Rd, Unit A",Charlotte,NC,28269,35.3335,-80.7962,3,12,1,--KCl2FvVQpvjzmZSPyviA,Ambience,"{""romantic"": false, ""intimate"": false, ""classy"": false, ""hipster"": false, ""divey"": false, ""touristy"": false, ""trendy"": false, ""upscale"": false, ""casual"": true}"
+--KCl2FvVQpvjzmZSPyviA,Hungry Howie's Pizza,,"6426 W Sugar Creek Rd, Unit A",Charlotte,NC,28269,35.3335,-80.7962,3,12,1,--KCl2FvVQpvjzmZSPyviA,BikeParking,0
+--KCl2FvVQpvjzmZSPyviA,Hungry Howie's Pizza,,"6426 W Sugar Creek Rd, Unit A",Charlotte,NC,28269,35.3335,-80.7962,3,12,1,--KCl2FvVQpvjzmZSPyviA,BusinessAcceptsCreditCards,1
+--KCl2FvVQpvjzmZSPyviA,Hungry Howie's Pizza,,"6426 W Sugar Creek Rd, Unit A",Charlotte,NC,28269,35.3335,-80.7962,3,12,1,--KCl2FvVQpvjzmZSPyviA,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": true, ""valet"": false}"
+--KCl2FvVQpvjzmZSPyviA,Hungry Howie's Pizza,,"6426 W Sugar Creek Rd, Unit A",Charlotte,NC,28269,35.3335,-80.7962,3,12,1,--KCl2FvVQpvjzmZSPyviA,Caters,1
+--KCl2FvVQpvjzmZSPyviA,Hungry Howie's Pizza,,"6426 W Sugar Creek Rd, Unit A",Charlotte,NC,28269,35.3335,-80.7962,3,12,1,--KCl2FvVQpvjzmZSPyviA,DogsAllowed,1
+--KCl2FvVQpvjzmZSPyviA,Hungry Howie's Pizza,,"6426 W Sugar Creek Rd, Unit A",Charlotte,NC,28269,35.3335,-80.7962,3,12,1,--KCl2FvVQpvjzmZSPyviA,GoodForKids,1
+--KCl2FvVQpvjzmZSPyviA,Hungry Howie's Pizza,,"6426 W Sugar Creek Rd, Unit A",Charlotte,NC,28269,35.3335,-80.7962,3,12,1,--KCl2FvVQpvjzmZSPyviA,GoodForMeal,"{""dessert"": false, ""latenight"": true, ""lunch"": false, ""dinner"": false, ""breakfast"": false, ""brunch"": false}"
+--KCl2FvVQpvjzmZSPyviA,Hungry Howie's Pizza,,"6426 W Sugar Creek Rd, Unit A",Charlotte,NC,28269,35.3335,-80.7962,3,12,1,--KCl2FvVQpvjzmZSPyviA,HasTV,0
+--KCl2FvVQpvjzmZSPyviA,Hungry Howie's Pizza,,"6426 W Sugar Creek Rd, Unit A",Charlotte,NC,28269,35.3335,-80.7962,3,12,1,--KCl2FvVQpvjzmZSPyviA,NoiseLevel,quiet
+--KCl2FvVQpvjzmZSPyviA,Hungry Howie's Pizza,,"6426 W Sugar Creek Rd, Unit A",Charlotte,NC,28269,35.3335,-80.7962,3,12,1,--KCl2FvVQpvjzmZSPyviA,OutdoorSeating,0
+--KCl2FvVQpvjzmZSPyviA,Hungry Howie's Pizza,,"6426 W Sugar Creek Rd, Unit A",Charlotte,NC,28269,35.3335,-80.7962,3,12,1,--KCl2FvVQpvjzmZSPyviA,RestaurantsAttire,casual
+--KCl2FvVQpvjzmZSPyviA,Hungry Howie's Pizza,,"6426 W Sugar Creek Rd, Unit A",Charlotte,NC,28269,35.3335,-80.7962,3,12,1,--KCl2FvVQpvjzmZSPyviA,RestaurantsDelivery,1
+--KCl2FvVQpvjzmZSPyviA,Hungry Howie's Pizza,,"6426 W Sugar Creek Rd, Unit A",Charlotte,NC,28269,35.3335,-80.7962,3,12,1,--KCl2FvVQpvjzmZSPyviA,RestaurantsGoodForGroups,1
+--KCl2FvVQpvjzmZSPyviA,Hungry Howie's Pizza,,"6426 W Sugar Creek Rd, Unit A",Charlotte,NC,28269,35.3335,-80.7962,3,12,1,--KCl2FvVQpvjzmZSPyviA,RestaurantsPriceRange2,1
+--KCl2FvVQpvjzmZSPyviA,Hungry Howie's Pizza,,"6426 W Sugar Creek Rd, Unit A",Charlotte,NC,28269,35.3335,-80.7962,3,12,1,--KCl2FvVQpvjzmZSPyviA,RestaurantsReservations,0
+--KCl2FvVQpvjzmZSPyviA,Hungry Howie's Pizza,,"6426 W Sugar Creek Rd, Unit A",Charlotte,NC,28269,35.3335,-80.7962,3,12,1,--KCl2FvVQpvjzmZSPyviA,RestaurantsTableService,0
+--KCl2FvVQpvjzmZSPyviA,Hungry Howie's Pizza,,"6426 W Sugar Creek Rd, Unit A",Charlotte,NC,28269,35.3335,-80.7962,3,12,1,--KCl2FvVQpvjzmZSPyviA,RestaurantsTakeOut,1
+--KCl2FvVQpvjzmZSPyviA,Hungry Howie's Pizza,,"6426 W Sugar Creek Rd, Unit A",Charlotte,NC,28269,35.3335,-80.7962,3,12,1,--KCl2FvVQpvjzmZSPyviA,WheelchairAccessible,1
+--KCl2FvVQpvjzmZSPyviA,Hungry Howie's Pizza,,"6426 W Sugar Creek Rd, Unit A",Charlotte,NC,28269,35.3335,-80.7962,3,12,1,--KCl2FvVQpvjzmZSPyviA,WiFi,no
+-0QtTRrAMn6DKLZNef3Ojg,Al-Salam Market & Deli,,"10901 University City Blvd, Ste 104",Charlotte,NC,28213,35.3145,-80.7027,2.5,3,1,-0QtTRrAMn6DKLZNef3Ojg,BikeParking,0
+-0QtTRrAMn6DKLZNef3Ojg,Al-Salam Market & Deli,,"10901 University City Blvd, Ste 104",Charlotte,NC,28213,35.3145,-80.7027,2.5,3,1,-0QtTRrAMn6DKLZNef3Ojg,BusinessAcceptsCreditCards,1
+-0QtTRrAMn6DKLZNef3Ojg,Al-Salam Market & Deli,,"10901 University City Blvd, Ste 104",Charlotte,NC,28213,35.3145,-80.7027,2.5,3,1,-0QtTRrAMn6DKLZNef3Ojg,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": false, ""valet"": false}"
+-0QtTRrAMn6DKLZNef3Ojg,Al-Salam Market & Deli,,"10901 University City Blvd, Ste 104",Charlotte,NC,28213,35.3145,-80.7027,2.5,3,1,-0QtTRrAMn6DKLZNef3Ojg,RestaurantsPriceRange2,1
+-0QtTRrAMn6DKLZNef3Ojg,Al-Salam Market & Deli,,"10901 University City Blvd, Ste 104",Charlotte,NC,28213,35.3145,-80.7027,2.5,3,1,-0QtTRrAMn6DKLZNef3Ojg,RestaurantsTakeOut,0
+-2HjuT4yjLZ3b5f_abD87Q,Freeman's Car Stereo,,4821 South Blvd,Charlotte,NC,28217,35.1727,-80.8755,3.5,8,1,-2HjuT4yjLZ3b5f_abD87Q,BusinessAcceptsCreditCards,1
+-2HjuT4yjLZ3b5f_abD87Q,Freeman's Car Stereo,,4821 South Blvd,Charlotte,NC,28217,35.1727,-80.8755,3.5,8,1,-2HjuT4yjLZ3b5f_abD87Q,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": true, ""valet"": false}"
+-2HjuT4yjLZ3b5f_abD87Q,Freeman's Car Stereo,,4821 South Blvd,Charlotte,NC,28217,35.1727,-80.8755,3.5,8,1,-2HjuT4yjLZ3b5f_abD87Q,RestaurantsPriceRange2,2
+-2HjuT4yjLZ3b5f_abD87Q,Freeman's Car Stereo,,4821 South Blvd,Charlotte,NC,28217,35.1727,-80.8755,3.5,8,1,-2HjuT4yjLZ3b5f_abD87Q,WheelchairAccessible,1
+-2pmn-oTJeybmDrL-ojwrw,New Wrap Order,Sherwood Forest,,Charlotte,NC,28211,35.166,-80.7935,4,12,1,-2pmn-oTJeybmDrL-ojwrw,Alcohol,none
+-2pmn-oTJeybmDrL-ojwrw,New Wrap Order,Sherwood Forest,,Charlotte,NC,28211,35.166,-80.7935,4,12,1,-2pmn-oTJeybmDrL-ojwrw,BikeParking,1
+-2pmn-oTJeybmDrL-ojwrw,New Wrap Order,Sherwood Forest,,Charlotte,NC,28211,35.166,-80.7935,4,12,1,-2pmn-oTJeybmDrL-ojwrw,BusinessAcceptsCreditCards,1
+-2pmn-oTJeybmDrL-ojwrw,New Wrap Order,Sherwood Forest,,Charlotte,NC,28211,35.166,-80.7935,4,12,1,-2pmn-oTJeybmDrL-ojwrw,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": false, ""valet"": false}"
+-2pmn-oTJeybmDrL-ojwrw,New Wrap Order,Sherwood Forest,,Charlotte,NC,28211,35.166,-80.7935,4,12,1,-2pmn-oTJeybmDrL-ojwrw,Caters,1
+-2pmn-oTJeybmDrL-ojwrw,New Wrap Order,Sherwood Forest,,Charlotte,NC,28211,35.166,-80.7935,4,12,1,-2pmn-oTJeybmDrL-ojwrw,GoodForMeal,"{""dessert"": false, ""latenight"": false, ""lunch"": false, ""dinner"": false, ""breakfast"": false, ""brunch"": false}"
+-2pmn-oTJeybmDrL-ojwrw,New Wrap Order,Sherwood Forest,,Charlotte,NC,28211,35.166,-80.7935,4,12,1,-2pmn-oTJeybmDrL-ojwrw,RestaurantsDelivery,0
+-2pmn-oTJeybmDrL-ojwrw,New Wrap Order,Sherwood Forest,,Charlotte,NC,28211,35.166,-80.7935,4,12,1,-2pmn-oTJeybmDrL-ojwrw,RestaurantsPriceRange2,1
+-2pmn-oTJeybmDrL-ojwrw,New Wrap Order,Sherwood Forest,,Charlotte,NC,28211,35.166,-80.7935,4,12,1,-2pmn-oTJeybmDrL-ojwrw,RestaurantsTakeOut,1
+-2pmn-oTJeybmDrL-ojwrw,New Wrap Order,Sherwood Forest,,Charlotte,NC,28211,35.166,-80.7935,4,12,1,-2pmn-oTJeybmDrL-ojwrw,WheelchairAccessible,1
+-2pQf1ceDZyE2ReCNbj-3A,Just Fresh,Steele Creek,14136 Rivergate Pkwy,Charlotte,NC,28273,35.102,-80.9853,3.5,50,1,-2pQf1ceDZyE2ReCNbj-3A,Alcohol,beer_and_wine
+-2pQf1ceDZyE2ReCNbj-3A,Just Fresh,Steele Creek,14136 Rivergate Pkwy,Charlotte,NC,28273,35.102,-80.9853,3.5,50,1,-2pQf1ceDZyE2ReCNbj-3A,Ambience,"{""romantic"": false, ""intimate"": false, ""classy"": false, ""hipster"": false, ""divey"": false, ""touristy"": false, ""trendy"": false, ""upscale"": false, ""casual"": true}"
+-2pQf1ceDZyE2ReCNbj-3A,Just Fresh,Steele Creek,14136 Rivergate Pkwy,Charlotte,NC,28273,35.102,-80.9853,3.5,50,1,-2pQf1ceDZyE2ReCNbj-3A,BikeParking,1
+-2pQf1ceDZyE2ReCNbj-3A,Just Fresh,Steele Creek,14136 Rivergate Pkwy,Charlotte,NC,28273,35.102,-80.9853,3.5,50,1,-2pQf1ceDZyE2ReCNbj-3A,BusinessAcceptsCreditCards,1
+-2pQf1ceDZyE2ReCNbj-3A,Just Fresh,Steele Creek,14136 Rivergate Pkwy,Charlotte,NC,28273,35.102,-80.9853,3.5,50,1,-2pQf1ceDZyE2ReCNbj-3A,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": true, ""valet"": false}"
+-2pQf1ceDZyE2ReCNbj-3A,Just Fresh,Steele Creek,14136 Rivergate Pkwy,Charlotte,NC,28273,35.102,-80.9853,3.5,50,1,-2pQf1ceDZyE2ReCNbj-3A,Caters,1
+-2pQf1ceDZyE2ReCNbj-3A,Just Fresh,Steele Creek,14136 Rivergate Pkwy,Charlotte,NC,28273,35.102,-80.9853,3.5,50,1,-2pQf1ceDZyE2ReCNbj-3A,GoodForKids,1
+-2pQf1ceDZyE2ReCNbj-3A,Just Fresh,Steele Creek,14136 Rivergate Pkwy,Charlotte,NC,28273,35.102,-80.9853,3.5,50,1,-2pQf1ceDZyE2ReCNbj-3A,GoodForMeal,"{""dessert"": false, ""latenight"": false, ""lunch"": true, ""dinner"": false, ""breakfast"": false, ""brunch"": false}"
+-2pQf1ceDZyE2ReCNbj-3A,Just Fresh,Steele Creek,14136 Rivergate Pkwy,Charlotte,NC,28273,35.102,-80.9853,3.5,50,1,-2pQf1ceDZyE2ReCNbj-3A,HasTV,1
+-2pQf1ceDZyE2ReCNbj-3A,Just Fresh,Steele Creek,14136 Rivergate Pkwy,Charlotte,NC,28273,35.102,-80.9853,3.5,50,1,-2pQf1ceDZyE2ReCNbj-3A,NoiseLevel,average
+-2pQf1ceDZyE2ReCNbj-3A,Just Fresh,Steele Creek,14136 Rivergate Pkwy,Charlotte,NC,28273,35.102,-80.9853,3.5,50,1,-2pQf1ceDZyE2ReCNbj-3A,OutdoorSeating,1
+-2pQf1ceDZyE2ReCNbj-3A,Just Fresh,Steele Creek,14136 Rivergate Pkwy,Charlotte,NC,28273,35.102,-80.9853,3.5,50,1,-2pQf1ceDZyE2ReCNbj-3A,RestaurantsAttire,casual
+-2pQf1ceDZyE2ReCNbj-3A,Just Fresh,Steele Creek,14136 Rivergate Pkwy,Charlotte,NC,28273,35.102,-80.9853,3.5,50,1,-2pQf1ceDZyE2ReCNbj-3A,RestaurantsDelivery,0
+-2pQf1ceDZyE2ReCNbj-3A,Just Fresh,Steele Creek,14136 Rivergate Pkwy,Charlotte,NC,28273,35.102,-80.9853,3.5,50,1,-2pQf1ceDZyE2ReCNbj-3A,RestaurantsGoodForGroups,1
+-2pQf1ceDZyE2ReCNbj-3A,Just Fresh,Steele Creek,14136 Rivergate Pkwy,Charlotte,NC,28273,35.102,-80.9853,3.5,50,1,-2pQf1ceDZyE2ReCNbj-3A,RestaurantsPriceRange2,1
+-2pQf1ceDZyE2ReCNbj-3A,Just Fresh,Steele Creek,14136 Rivergate Pkwy,Charlotte,NC,28273,35.102,-80.9853,3.5,50,1,-2pQf1ceDZyE2ReCNbj-3A,RestaurantsReservations,0
+-2pQf1ceDZyE2ReCNbj-3A,Just Fresh,Steele Creek,14136 Rivergate Pkwy,Charlotte,NC,28273,35.102,-80.9853,3.5,50,1,-2pQf1ceDZyE2ReCNbj-3A,RestaurantsTableService,0
+-2pQf1ceDZyE2ReCNbj-3A,Just Fresh,Steele Creek,14136 Rivergate Pkwy,Charlotte,NC,28273,35.102,-80.9853,3.5,50,1,-2pQf1ceDZyE2ReCNbj-3A,RestaurantsTakeOut,1
+-2pQf1ceDZyE2ReCNbj-3A,Just Fresh,Steele Creek,14136 Rivergate Pkwy,Charlotte,NC,28273,35.102,-80.9853,3.5,50,1,-2pQf1ceDZyE2ReCNbj-3A,WheelchairAccessible,1
+-2pQf1ceDZyE2ReCNbj-3A,Just Fresh,Steele Creek,14136 Rivergate Pkwy,Charlotte,NC,28273,35.102,-80.9853,3.5,50,1,-2pQf1ceDZyE2ReCNbj-3A,WiFi,free
+-2uUrtgM5fiOaCpQEnPv0g,AT&T,,"9330 Center Lake Dr, Ste 130",Charlotte,NC,28216,35.3491,-80.8558,3,4,1,-2uUrtgM5fiOaCpQEnPv0g,BikeParking,0
+-2uUrtgM5fiOaCpQEnPv0g,AT&T,,"9330 Center Lake Dr, Ste 130",Charlotte,NC,28216,35.3491,-80.8558,3,4,1,-2uUrtgM5fiOaCpQEnPv0g,BusinessAcceptsCreditCards,1
+-2uUrtgM5fiOaCpQEnPv0g,AT&T,,"9330 Center Lake Dr, Ste 130",Charlotte,NC,28216,35.3491,-80.8558,3,4,1,-2uUrtgM5fiOaCpQEnPv0g,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": false, ""valet"": false}"
+-2uUrtgM5fiOaCpQEnPv0g,AT&T,,"9330 Center Lake Dr, Ste 130",Charlotte,NC,28216,35.3491,-80.8558,3,4,1,-2uUrtgM5fiOaCpQEnPv0g,RestaurantsPriceRange2,3
+-2uUrtgM5fiOaCpQEnPv0g,AT&T,,"9330 Center Lake Dr, Ste 130",Charlotte,NC,28216,35.3491,-80.8558,3,4,1,-2uUrtgM5fiOaCpQEnPv0g,WheelchairAccessible,1
+-5KBZ3UmQzW_PkrjHGMuUg,Econo Lodge Inn & Suites Airport,,3415 Queen City Dr,Charlotte,NC,28208,35.2399,-80.9221,3,20,1,-5KBZ3UmQzW_PkrjHGMuUg,BusinessAcceptsCreditCards,1
+-5KBZ3UmQzW_PkrjHGMuUg,Econo Lodge Inn & Suites Airport,,3415 Queen City Dr,Charlotte,NC,28208,35.2399,-80.9221,3,20,1,-5KBZ3UmQzW_PkrjHGMuUg,RestaurantsPriceRange2,2
+-5KBZ3UmQzW_PkrjHGMuUg,Econo Lodge Inn & Suites Airport,,3415 Queen City Dr,Charlotte,NC,28208,35.2399,-80.9221,3,20,1,-5KBZ3UmQzW_PkrjHGMuUg,WiFi,free
+-5L8zOxibac-vBrsYtxXbQ,Ed's Tavern,Sedgefield,2200 Park Rd,Charlotte,NC,28203,35.2005,-80.8525,3.5,95,1,-5L8zOxibac-vBrsYtxXbQ,Alcohol,full_bar
+-5L8zOxibac-vBrsYtxXbQ,Ed's Tavern,Sedgefield,2200 Park Rd,Charlotte,NC,28203,35.2005,-80.8525,3.5,95,1,-5L8zOxibac-vBrsYtxXbQ,Ambience,"{""romantic"": false, ""intimate"": false, ""classy"": false, ""hipster"": false, ""divey"": false, ""touristy"": false, ""trendy"": false, ""upscale"": false, ""casual"": true}"
+-5L8zOxibac-vBrsYtxXbQ,Ed's Tavern,Sedgefield,2200 Park Rd,Charlotte,NC,28203,35.2005,-80.8525,3.5,95,1,-5L8zOxibac-vBrsYtxXbQ,BestNights,"{""monday"": false, ""tuesday"": false, ""friday"": true, ""wednesday"": true, ""thursday"": false, ""sunday"": false, ""saturday"": true}"
+-5L8zOxibac-vBrsYtxXbQ,Ed's Tavern,Sedgefield,2200 Park Rd,Charlotte,NC,28203,35.2005,-80.8525,3.5,95,1,-5L8zOxibac-vBrsYtxXbQ,BikeParking,1
+-5L8zOxibac-vBrsYtxXbQ,Ed's Tavern,Sedgefield,2200 Park Rd,Charlotte,NC,28203,35.2005,-80.8525,3.5,95,1,-5L8zOxibac-vBrsYtxXbQ,BusinessAcceptsCreditCards,1
+-5L8zOxibac-vBrsYtxXbQ,Ed's Tavern,Sedgefield,2200 Park Rd,Charlotte,NC,28203,35.2005,-80.8525,3.5,95,1,-5L8zOxibac-vBrsYtxXbQ,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": true, ""valet"": false}"
+-5L8zOxibac-vBrsYtxXbQ,Ed's Tavern,Sedgefield,2200 Park Rd,Charlotte,NC,28203,35.2005,-80.8525,3.5,95,1,-5L8zOxibac-vBrsYtxXbQ,Caters,0
+-5L8zOxibac-vBrsYtxXbQ,Ed's Tavern,Sedgefield,2200 Park Rd,Charlotte,NC,28203,35.2005,-80.8525,3.5,95,1,-5L8zOxibac-vBrsYtxXbQ,CoatCheck,0
+-5L8zOxibac-vBrsYtxXbQ,Ed's Tavern,Sedgefield,2200 Park Rd,Charlotte,NC,28203,35.2005,-80.8525,3.5,95,1,-5L8zOxibac-vBrsYtxXbQ,GoodForDancing,0
+-5L8zOxibac-vBrsYtxXbQ,Ed's Tavern,Sedgefield,2200 Park Rd,Charlotte,NC,28203,35.2005,-80.8525,3.5,95,1,-5L8zOxibac-vBrsYtxXbQ,GoodForKids,0
+-5L8zOxibac-vBrsYtxXbQ,Ed's Tavern,Sedgefield,2200 Park Rd,Charlotte,NC,28203,35.2005,-80.8525,3.5,95,1,-5L8zOxibac-vBrsYtxXbQ,GoodForMeal,"{""dessert"": false, ""latenight"": true, ""lunch"": true, ""dinner"": false, ""breakfast"": false, ""brunch"": false}"
+-5L8zOxibac-vBrsYtxXbQ,Ed's Tavern,Sedgefield,2200 Park Rd,Charlotte,NC,28203,35.2005,-80.8525,3.5,95,1,-5L8zOxibac-vBrsYtxXbQ,HappyHour,1
+-5L8zOxibac-vBrsYtxXbQ,Ed's Tavern,Sedgefield,2200 Park Rd,Charlotte,NC,28203,35.2005,-80.8525,3.5,95,1,-5L8zOxibac-vBrsYtxXbQ,HasTV,1
+-5L8zOxibac-vBrsYtxXbQ,Ed's Tavern,Sedgefield,2200 Park Rd,Charlotte,NC,28203,35.2005,-80.8525,3.5,95,1,-5L8zOxibac-vBrsYtxXbQ,Music,"{""dj"": false, ""background_music"": false, ""no_music"": false, ""karaoke"": false, ""live"": true, ""video"": false, ""jukebox"": false}"
+-5L8zOxibac-vBrsYtxXbQ,Ed's Tavern,Sedgefield,2200 Park Rd,Charlotte,NC,28203,35.2005,-80.8525,3.5,95,1,-5L8zOxibac-vBrsYtxXbQ,NoiseLevel,loud
+-5L8zOxibac-vBrsYtxXbQ,Ed's Tavern,Sedgefield,2200 Park Rd,Charlotte,NC,28203,35.2005,-80.8525,3.5,95,1,-5L8zOxibac-vBrsYtxXbQ,OutdoorSeating,1
+-5L8zOxibac-vBrsYtxXbQ,Ed's Tavern,Sedgefield,2200 Park Rd,Charlotte,NC,28203,35.2005,-80.8525,3.5,95,1,-5L8zOxibac-vBrsYtxXbQ,RestaurantsAttire,casual
+-5L8zOxibac-vBrsYtxXbQ,Ed's Tavern,Sedgefield,2200 Park Rd,Charlotte,NC,28203,35.2005,-80.8525,3.5,95,1,-5L8zOxibac-vBrsYtxXbQ,RestaurantsDelivery,0
+-5L8zOxibac-vBrsYtxXbQ,Ed's Tavern,Sedgefield,2200 Park Rd,Charlotte,NC,28203,35.2005,-80.8525,3.5,95,1,-5L8zOxibac-vBrsYtxXbQ,RestaurantsGoodForGroups,1
+-5L8zOxibac-vBrsYtxXbQ,Ed's Tavern,Sedgefield,2200 Park Rd,Charlotte,NC,28203,35.2005,-80.8525,3.5,95,1,-5L8zOxibac-vBrsYtxXbQ,RestaurantsPriceRange2,1
+-5L8zOxibac-vBrsYtxXbQ,Ed's Tavern,Sedgefield,2200 Park Rd,Charlotte,NC,28203,35.2005,-80.8525,3.5,95,1,-5L8zOxibac-vBrsYtxXbQ,RestaurantsReservations,0
+-5L8zOxibac-vBrsYtxXbQ,Ed's Tavern,Sedgefield,2200 Park Rd,Charlotte,NC,28203,35.2005,-80.8525,3.5,95,1,-5L8zOxibac-vBrsYtxXbQ,RestaurantsTableService,1
+-5L8zOxibac-vBrsYtxXbQ,Ed's Tavern,Sedgefield,2200 Park Rd,Charlotte,NC,28203,35.2005,-80.8525,3.5,95,1,-5L8zOxibac-vBrsYtxXbQ,RestaurantsTakeOut,1
+-5L8zOxibac-vBrsYtxXbQ,Ed's Tavern,Sedgefield,2200 Park Rd,Charlotte,NC,28203,35.2005,-80.8525,3.5,95,1,-5L8zOxibac-vBrsYtxXbQ,Smoking,outdoor
+-5L8zOxibac-vBrsYtxXbQ,Ed's Tavern,Sedgefield,2200 Park Rd,Charlotte,NC,28203,35.2005,-80.8525,3.5,95,1,-5L8zOxibac-vBrsYtxXbQ,WheelchairAccessible,1
+-5L8zOxibac-vBrsYtxXbQ,Ed's Tavern,Sedgefield,2200 Park Rd,Charlotte,NC,28203,35.2005,-80.8525,3.5,95,1,-5L8zOxibac-vBrsYtxXbQ,WiFi,free
+-5XuRAfrjEiMN77J4gMQZQ,Berrybrook Farm Natural Foods,Dilworth,1257 East Blvd,Charlotte,NC,28203,35.2024,-80.8448,3.5,49,1,-5XuRAfrjEiMN77J4gMQZQ,BikeParking,1
+-5XuRAfrjEiMN77J4gMQZQ,Berrybrook Farm Natural Foods,Dilworth,1257 East Blvd,Charlotte,NC,28203,35.2024,-80.8448,3.5,49,1,-5XuRAfrjEiMN77J4gMQZQ,BusinessAcceptsCreditCards,1
+-5XuRAfrjEiMN77J4gMQZQ,Berrybrook Farm Natural Foods,Dilworth,1257 East Blvd,Charlotte,NC,28203,35.2024,-80.8448,3.5,49,1,-5XuRAfrjEiMN77J4gMQZQ,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": true, ""valet"": false}"
+-5XuRAfrjEiMN77J4gMQZQ,Berrybrook Farm Natural Foods,Dilworth,1257 East Blvd,Charlotte,NC,28203,35.2024,-80.8448,3.5,49,1,-5XuRAfrjEiMN77J4gMQZQ,RestaurantsPriceRange2,2
+-5XuRAfrjEiMN77J4gMQZQ,Berrybrook Farm Natural Foods,Dilworth,1257 East Blvd,Charlotte,NC,28203,35.2024,-80.8448,3.5,49,1,-5XuRAfrjEiMN77J4gMQZQ,WheelchairAccessible,1
+-5XuRAfrjEiMN77J4gMQZQ,Berrybrook Farm Natural Foods,Dilworth,1257 East Blvd,Charlotte,NC,28203,35.2024,-80.8448,3.5,49,1,-5XuRAfrjEiMN77J4gMQZQ,WiFi,no
+-5y5m3v_5ZHwlXwsp5K59Q,Fitness Connection,University City,"8709 J W Clay Blvd, Ste C",Charlotte,NC,28262,35.3114,-80.7552,3.5,18,1,-5y5m3v_5ZHwlXwsp5K59Q,BikeParking,1
+-5y5m3v_5ZHwlXwsp5K59Q,Fitness Connection,University City,"8709 J W Clay Blvd, Ste C",Charlotte,NC,28262,35.3114,-80.7552,3.5,18,1,-5y5m3v_5ZHwlXwsp5K59Q,BusinessAcceptsCreditCards,1
+-5y5m3v_5ZHwlXwsp5K59Q,Fitness Connection,University City,"8709 J W Clay Blvd, Ste C",Charlotte,NC,28262,35.3114,-80.7552,3.5,18,1,-5y5m3v_5ZHwlXwsp5K59Q,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": false, ""valet"": false}"
+-5y5m3v_5ZHwlXwsp5K59Q,Fitness Connection,University City,"8709 J W Clay Blvd, Ste C",Charlotte,NC,28262,35.3114,-80.7552,3.5,18,1,-5y5m3v_5ZHwlXwsp5K59Q,ByAppointmentOnly,0
+-5y5m3v_5ZHwlXwsp5K59Q,Fitness Connection,University City,"8709 J W Clay Blvd, Ste C",Charlotte,NC,28262,35.3114,-80.7552,3.5,18,1,-5y5m3v_5ZHwlXwsp5K59Q,GoodForKids,1
+-7VzJ1aG5yuWB9LT42yhlw,Nana's Uptown Restaurant & Bar,Third Ward,710 W Trade St,Charlotte,NC,28202,35.2322,-80.8486,3.5,16,0,-7VzJ1aG5yuWB9LT42yhlw,Alcohol,full_bar
+-7VzJ1aG5yuWB9LT42yhlw,Nana's Uptown Restaurant & Bar,Third Ward,710 W Trade St,Charlotte,NC,28202,35.2322,-80.8486,3.5,16,0,-7VzJ1aG5yuWB9LT42yhlw,Ambience,"{""romantic"": true, ""intimate"": false, ""classy"": true, ""hipster"": false, ""divey"": false, ""touristy"": false, ""trendy"": true, ""upscale"": false, ""casual"": false}"
+-7VzJ1aG5yuWB9LT42yhlw,Nana's Uptown Restaurant & Bar,Third Ward,710 W Trade St,Charlotte,NC,28202,35.2322,-80.8486,3.5,16,0,-7VzJ1aG5yuWB9LT42yhlw,BusinessAcceptsCreditCards,1
+-7VzJ1aG5yuWB9LT42yhlw,Nana's Uptown Restaurant & Bar,Third Ward,710 W Trade St,Charlotte,NC,28202,35.2322,-80.8486,3.5,16,0,-7VzJ1aG5yuWB9LT42yhlw,BusinessParking,"{""garage"": false, ""street"": true, ""validated"": false, ""lot"": false, ""valet"": false}"
+-7VzJ1aG5yuWB9LT42yhlw,Nana's Uptown Restaurant & Bar,Third Ward,710 W Trade St,Charlotte,NC,28202,35.2322,-80.8486,3.5,16,0,-7VzJ1aG5yuWB9LT42yhlw,Caters,1
+-7VzJ1aG5yuWB9LT42yhlw,Nana's Uptown Restaurant & Bar,Third Ward,710 W Trade St,Charlotte,NC,28202,35.2322,-80.8486,3.5,16,0,-7VzJ1aG5yuWB9LT42yhlw,GoodForKids,0
+-7VzJ1aG5yuWB9LT42yhlw,Nana's Uptown Restaurant & Bar,Third Ward,710 W Trade St,Charlotte,NC,28202,35.2322,-80.8486,3.5,16,0,-7VzJ1aG5yuWB9LT42yhlw,GoodForMeal,"{""dessert"": false, ""latenight"": false, ""lunch"": false, ""dinner"": true, ""breakfast"": false, ""brunch"": false}"
+-7VzJ1aG5yuWB9LT42yhlw,Nana's Uptown Restaurant & Bar,Third Ward,710 W Trade St,Charlotte,NC,28202,35.2322,-80.8486,3.5,16,0,-7VzJ1aG5yuWB9LT42yhlw,HasTV,1
+-7VzJ1aG5yuWB9LT42yhlw,Nana's Uptown Restaurant & Bar,Third Ward,710 W Trade St,Charlotte,NC,28202,35.2322,-80.8486,3.5,16,0,-7VzJ1aG5yuWB9LT42yhlw,NoiseLevel,average
+-7VzJ1aG5yuWB9LT42yhlw,Nana's Uptown Restaurant & Bar,Third Ward,710 W Trade St,Charlotte,NC,28202,35.2322,-80.8486,3.5,16,0,-7VzJ1aG5yuWB9LT42yhlw,OutdoorSeating,0
+-7VzJ1aG5yuWB9LT42yhlw,Nana's Uptown Restaurant & Bar,Third Ward,710 W Trade St,Charlotte,NC,28202,35.2322,-80.8486,3.5,16,0,-7VzJ1aG5yuWB9LT42yhlw,RestaurantsAttire,casual
+-7VzJ1aG5yuWB9LT42yhlw,Nana's Uptown Restaurant & Bar,Third Ward,710 W Trade St,Charlotte,NC,28202,35.2322,-80.8486,3.5,16,0,-7VzJ1aG5yuWB9LT42yhlw,RestaurantsDelivery,0
+-7VzJ1aG5yuWB9LT42yhlw,Nana's Uptown Restaurant & Bar,Third Ward,710 W Trade St,Charlotte,NC,28202,35.2322,-80.8486,3.5,16,0,-7VzJ1aG5yuWB9LT42yhlw,RestaurantsGoodForGroups,1
+-7VzJ1aG5yuWB9LT42yhlw,Nana's Uptown Restaurant & Bar,Third Ward,710 W Trade St,Charlotte,NC,28202,35.2322,-80.8486,3.5,16,0,-7VzJ1aG5yuWB9LT42yhlw,RestaurantsPriceRange2,2
+-7VzJ1aG5yuWB9LT42yhlw,Nana's Uptown Restaurant & Bar,Third Ward,710 W Trade St,Charlotte,NC,28202,35.2322,-80.8486,3.5,16,0,-7VzJ1aG5yuWB9LT42yhlw,RestaurantsReservations,1
+-7VzJ1aG5yuWB9LT42yhlw,Nana's Uptown Restaurant & Bar,Third Ward,710 W Trade St,Charlotte,NC,28202,35.2322,-80.8486,3.5,16,0,-7VzJ1aG5yuWB9LT42yhlw,RestaurantsTableService,1
+-7VzJ1aG5yuWB9LT42yhlw,Nana's Uptown Restaurant & Bar,Third Ward,710 W Trade St,Charlotte,NC,28202,35.2322,-80.8486,3.5,16,0,-7VzJ1aG5yuWB9LT42yhlw,RestaurantsTakeOut,1
+-7VzJ1aG5yuWB9LT42yhlw,Nana's Uptown Restaurant & Bar,Third Ward,710 W Trade St,Charlotte,NC,28202,35.2322,-80.8486,3.5,16,0,-7VzJ1aG5yuWB9LT42yhlw,WiFi,free
+-agVP2LxAVHyq-mhxEHnpg,Bar Charlotte,First Ward,300 N College St,Charlotte,NC,28202,35.2278,-80.8392,2.5,24,0,-agVP2LxAVHyq-mhxEHnpg,Alcohol,full_bar
+-agVP2LxAVHyq-mhxEHnpg,Bar Charlotte,First Ward,300 N College St,Charlotte,NC,28202,35.2278,-80.8392,2.5,24,0,-agVP2LxAVHyq-mhxEHnpg,Ambience,"{""romantic"": false, ""intimate"": false, ""classy"": false, ""hipster"": false, ""divey"": false, ""touristy"": false, ""trendy"": false, ""upscale"": false, ""casual"": false}"
+-agVP2LxAVHyq-mhxEHnpg,Bar Charlotte,First Ward,300 N College St,Charlotte,NC,28202,35.2278,-80.8392,2.5,24,0,-agVP2LxAVHyq-mhxEHnpg,BestNights,"{""monday"": false, ""tuesday"": false, ""friday"": false, ""wednesday"": false, ""thursday"": false, ""sunday"": false, ""saturday"": true}"
+-agVP2LxAVHyq-mhxEHnpg,Bar Charlotte,First Ward,300 N College St,Charlotte,NC,28202,35.2278,-80.8392,2.5,24,0,-agVP2LxAVHyq-mhxEHnpg,BikeParking,0
+-agVP2LxAVHyq-mhxEHnpg,Bar Charlotte,First Ward,300 N College St,Charlotte,NC,28202,35.2278,-80.8392,2.5,24,0,-agVP2LxAVHyq-mhxEHnpg,BusinessAcceptsCreditCards,1
+-agVP2LxAVHyq-mhxEHnpg,Bar Charlotte,First Ward,300 N College St,Charlotte,NC,28202,35.2278,-80.8392,2.5,24,0,-agVP2LxAVHyq-mhxEHnpg,BusinessParking,"{""garage"": false, ""street"": true, ""validated"": false, ""lot"": false, ""valet"": false}"
+-agVP2LxAVHyq-mhxEHnpg,Bar Charlotte,First Ward,300 N College St,Charlotte,NC,28202,35.2278,-80.8392,2.5,24,0,-agVP2LxAVHyq-mhxEHnpg,CoatCheck,1
+-agVP2LxAVHyq-mhxEHnpg,Bar Charlotte,First Ward,300 N College St,Charlotte,NC,28202,35.2278,-80.8392,2.5,24,0,-agVP2LxAVHyq-mhxEHnpg,GoodForDancing,1
+-agVP2LxAVHyq-mhxEHnpg,Bar Charlotte,First Ward,300 N College St,Charlotte,NC,28202,35.2278,-80.8392,2.5,24,0,-agVP2LxAVHyq-mhxEHnpg,HappyHour,0
+-agVP2LxAVHyq-mhxEHnpg,Bar Charlotte,First Ward,300 N College St,Charlotte,NC,28202,35.2278,-80.8392,2.5,24,0,-agVP2LxAVHyq-mhxEHnpg,HasTV,0
+-agVP2LxAVHyq-mhxEHnpg,Bar Charlotte,First Ward,300 N College St,Charlotte,NC,28202,35.2278,-80.8392,2.5,24,0,-agVP2LxAVHyq-mhxEHnpg,Music,"{""dj"": true, ""background_music"": false, ""no_music"": false, ""karaoke"": false, ""live"": false, ""video"": false, ""jukebox"": false}"
+-agVP2LxAVHyq-mhxEHnpg,Bar Charlotte,First Ward,300 N College St,Charlotte,NC,28202,35.2278,-80.8392,2.5,24,0,-agVP2LxAVHyq-mhxEHnpg,NoiseLevel,very_loud
+-agVP2LxAVHyq-mhxEHnpg,Bar Charlotte,First Ward,300 N College St,Charlotte,NC,28202,35.2278,-80.8392,2.5,24,0,-agVP2LxAVHyq-mhxEHnpg,OutdoorSeating,0
+-agVP2LxAVHyq-mhxEHnpg,Bar Charlotte,First Ward,300 N College St,Charlotte,NC,28202,35.2278,-80.8392,2.5,24,0,-agVP2LxAVHyq-mhxEHnpg,RestaurantsGoodForGroups,0
+-agVP2LxAVHyq-mhxEHnpg,Bar Charlotte,First Ward,300 N College St,Charlotte,NC,28202,35.2278,-80.8392,2.5,24,0,-agVP2LxAVHyq-mhxEHnpg,RestaurantsPriceRange2,2
+-agVP2LxAVHyq-mhxEHnpg,Bar Charlotte,First Ward,300 N College St,Charlotte,NC,28202,35.2278,-80.8392,2.5,24,0,-agVP2LxAVHyq-mhxEHnpg,Smoking,no
+-agVP2LxAVHyq-mhxEHnpg,Bar Charlotte,First Ward,300 N College St,Charlotte,NC,28202,35.2278,-80.8392,2.5,24,0,-agVP2LxAVHyq-mhxEHnpg,WheelchairAccessible,1
+-aMC2Dy2rqHicz9HjmXimA,Mattie's Diner,Third Ward,915 Hamilton St,Charlotte,NC,28206,35.2407,-80.8466,4,165,0,-aMC2Dy2rqHicz9HjmXimA,Alcohol,none
+-aMC2Dy2rqHicz9HjmXimA,Mattie's Diner,Third Ward,915 Hamilton St,Charlotte,NC,28206,35.2407,-80.8466,4,165,0,-aMC2Dy2rqHicz9HjmXimA,Ambience,"{""romantic"": false, ""intimate"": false, ""classy"": false, ""hipster"": false, ""divey"": false, ""touristy"": false, ""trendy"": false, ""upscale"": false, ""casual"": true}"
+-aMC2Dy2rqHicz9HjmXimA,Mattie's Diner,Third Ward,915 Hamilton St,Charlotte,NC,28206,35.2407,-80.8466,4,165,0,-aMC2Dy2rqHicz9HjmXimA,BikeParking,1
+-aMC2Dy2rqHicz9HjmXimA,Mattie's Diner,Third Ward,915 Hamilton St,Charlotte,NC,28206,35.2407,-80.8466,4,165,0,-aMC2Dy2rqHicz9HjmXimA,BusinessAcceptsCreditCards,1
+-aMC2Dy2rqHicz9HjmXimA,Mattie's Diner,Third Ward,915 Hamilton St,Charlotte,NC,28206,35.2407,-80.8466,4,165,0,-aMC2Dy2rqHicz9HjmXimA,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": true, ""valet"": false}"
+-aMC2Dy2rqHicz9HjmXimA,Mattie's Diner,Third Ward,915 Hamilton St,Charlotte,NC,28206,35.2407,-80.8466,4,165,0,-aMC2Dy2rqHicz9HjmXimA,Caters,0
+-aMC2Dy2rqHicz9HjmXimA,Mattie's Diner,Third Ward,915 Hamilton St,Charlotte,NC,28206,35.2407,-80.8466,4,165,0,-aMC2Dy2rqHicz9HjmXimA,DogsAllowed,1
+-aMC2Dy2rqHicz9HjmXimA,Mattie's Diner,Third Ward,915 Hamilton St,Charlotte,NC,28206,35.2407,-80.8466,4,165,0,-aMC2Dy2rqHicz9HjmXimA,GoodForKids,1
+-aMC2Dy2rqHicz9HjmXimA,Mattie's Diner,Third Ward,915 Hamilton St,Charlotte,NC,28206,35.2407,-80.8466,4,165,0,-aMC2Dy2rqHicz9HjmXimA,GoodForMeal,"{""dessert"": false, ""latenight"": false, ""lunch"": false, ""dinner"": false, ""breakfast"": true, ""brunch"": false}"
+-aMC2Dy2rqHicz9HjmXimA,Mattie's Diner,Third Ward,915 Hamilton St,Charlotte,NC,28206,35.2407,-80.8466,4,165,0,-aMC2Dy2rqHicz9HjmXimA,HasTV,0
+-aMC2Dy2rqHicz9HjmXimA,Mattie's Diner,Third Ward,915 Hamilton St,Charlotte,NC,28206,35.2407,-80.8466,4,165,0,-aMC2Dy2rqHicz9HjmXimA,NoiseLevel,average
+-aMC2Dy2rqHicz9HjmXimA,Mattie's Diner,Third Ward,915 Hamilton St,Charlotte,NC,28206,35.2407,-80.8466,4,165,0,-aMC2Dy2rqHicz9HjmXimA,OutdoorSeating,1
+-aMC2Dy2rqHicz9HjmXimA,Mattie's Diner,Third Ward,915 Hamilton St,Charlotte,NC,28206,35.2407,-80.8466,4,165,0,-aMC2Dy2rqHicz9HjmXimA,RestaurantsAttire,casual
+-aMC2Dy2rqHicz9HjmXimA,Mattie's Diner,Third Ward,915 Hamilton St,Charlotte,NC,28206,35.2407,-80.8466,4,165,0,-aMC2Dy2rqHicz9HjmXimA,RestaurantsDelivery,0
+-aMC2Dy2rqHicz9HjmXimA,Mattie's Diner,Third Ward,915 Hamilton St,Charlotte,NC,28206,35.2407,-80.8466,4,165,0,-aMC2Dy2rqHicz9HjmXimA,RestaurantsGoodForGroups,0
+-aMC2Dy2rqHicz9HjmXimA,Mattie's Diner,Third Ward,915 Hamilton St,Charlotte,NC,28206,35.2407,-80.8466,4,165,0,-aMC2Dy2rqHicz9HjmXimA,RestaurantsPriceRange2,1
+-aMC2Dy2rqHicz9HjmXimA,Mattie's Diner,Third Ward,915 Hamilton St,Charlotte,NC,28206,35.2407,-80.8466,4,165,0,-aMC2Dy2rqHicz9HjmXimA,RestaurantsReservations,0
+-aMC2Dy2rqHicz9HjmXimA,Mattie's Diner,Third Ward,915 Hamilton St,Charlotte,NC,28206,35.2407,-80.8466,4,165,0,-aMC2Dy2rqHicz9HjmXimA,RestaurantsTableService,1
+-aMC2Dy2rqHicz9HjmXimA,Mattie's Diner,Third Ward,915 Hamilton St,Charlotte,NC,28206,35.2407,-80.8466,4,165,0,-aMC2Dy2rqHicz9HjmXimA,RestaurantsTakeOut,1
+-aMC2Dy2rqHicz9HjmXimA,Mattie's Diner,Third Ward,915 Hamilton St,Charlotte,NC,28206,35.2407,-80.8466,4,165,0,-aMC2Dy2rqHicz9HjmXimA,WheelchairAccessible,1
+-aMC2Dy2rqHicz9HjmXimA,Mattie's Diner,Third Ward,915 Hamilton St,Charlotte,NC,28206,35.2407,-80.8466,4,165,0,-aMC2Dy2rqHicz9HjmXimA,WiFi,no
+-bBaDCDIRoS5VTzUbALyBQ,Poza Salon,Elizabeth,2314 Crescent Ave,Charlotte,NC,28207,35.2041,-80.8238,4,14,1,-bBaDCDIRoS5VTzUbALyBQ,BikeParking,1
+-bBaDCDIRoS5VTzUbALyBQ,Poza Salon,Elizabeth,2314 Crescent Ave,Charlotte,NC,28207,35.2041,-80.8238,4,14,1,-bBaDCDIRoS5VTzUbALyBQ,BusinessAcceptsCreditCards,1
+-bBaDCDIRoS5VTzUbALyBQ,Poza Salon,Elizabeth,2314 Crescent Ave,Charlotte,NC,28207,35.2041,-80.8238,4,14,1,-bBaDCDIRoS5VTzUbALyBQ,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": true, ""valet"": false}"
+-bBaDCDIRoS5VTzUbALyBQ,Poza Salon,Elizabeth,2314 Crescent Ave,Charlotte,NC,28207,35.2041,-80.8238,4,14,1,-bBaDCDIRoS5VTzUbALyBQ,ByAppointmentOnly,1
+-bBaDCDIRoS5VTzUbALyBQ,Poza Salon,Elizabeth,2314 Crescent Ave,Charlotte,NC,28207,35.2041,-80.8238,4,14,1,-bBaDCDIRoS5VTzUbALyBQ,GoodForKids,0
+-bBaDCDIRoS5VTzUbALyBQ,Poza Salon,Elizabeth,2314 Crescent Ave,Charlotte,NC,28207,35.2041,-80.8238,4,14,1,-bBaDCDIRoS5VTzUbALyBQ,RestaurantsPriceRange2,2
+-bBaDCDIRoS5VTzUbALyBQ,Poza Salon,Elizabeth,2314 Crescent Ave,Charlotte,NC,28207,35.2041,-80.8238,4,14,1,-bBaDCDIRoS5VTzUbALyBQ,WheelchairAccessible,1
+-bKnO1BwkwXJFNLr72GECA,Bruegger's Bagels,Uptown,"210 East Trade St, Ste 226",Charlotte,NC,28202,35.2253,-80.8425,3.5,35,1,-bKnO1BwkwXJFNLr72GECA,Alcohol,none
+-bKnO1BwkwXJFNLr72GECA,Bruegger's Bagels,Uptown,"210 East Trade St, Ste 226",Charlotte,NC,28202,35.2253,-80.8425,3.5,35,1,-bKnO1BwkwXJFNLr72GECA,Ambience,"{""romantic"": false, ""intimate"": false, ""classy"": false, ""hipster"": false, ""divey"": false, ""touristy"": false, ""trendy"": false, ""upscale"": false, ""casual"": true}"
+-bKnO1BwkwXJFNLr72GECA,Bruegger's Bagels,Uptown,"210 East Trade St, Ste 226",Charlotte,NC,28202,35.2253,-80.8425,3.5,35,1,-bKnO1BwkwXJFNLr72GECA,BikeParking,1
+-bKnO1BwkwXJFNLr72GECA,Bruegger's Bagels,Uptown,"210 East Trade St, Ste 226",Charlotte,NC,28202,35.2253,-80.8425,3.5,35,1,-bKnO1BwkwXJFNLr72GECA,BusinessAcceptsCreditCards,1
+-bKnO1BwkwXJFNLr72GECA,Bruegger's Bagels,Uptown,"210 East Trade St, Ste 226",Charlotte,NC,28202,35.2253,-80.8425,3.5,35,1,-bKnO1BwkwXJFNLr72GECA,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": false, ""valet"": false}"
+-bKnO1BwkwXJFNLr72GECA,Bruegger's Bagels,Uptown,"210 East Trade St, Ste 226",Charlotte,NC,28202,35.2253,-80.8425,3.5,35,1,-bKnO1BwkwXJFNLr72GECA,Caters,1
+-bKnO1BwkwXJFNLr72GECA,Bruegger's Bagels,Uptown,"210 East Trade St, Ste 226",Charlotte,NC,28202,35.2253,-80.8425,3.5,35,1,-bKnO1BwkwXJFNLr72GECA,GoodForKids,1
+-bKnO1BwkwXJFNLr72GECA,Bruegger's Bagels,Uptown,"210 East Trade St, Ste 226",Charlotte,NC,28202,35.2253,-80.8425,3.5,35,1,-bKnO1BwkwXJFNLr72GECA,GoodForMeal,"{""dessert"": false, ""latenight"": false, ""lunch"": false, ""dinner"": false, ""breakfast"": true, ""brunch"": false}"
+-bKnO1BwkwXJFNLr72GECA,Bruegger's Bagels,Uptown,"210 East Trade St, Ste 226",Charlotte,NC,28202,35.2253,-80.8425,3.5,35,1,-bKnO1BwkwXJFNLr72GECA,HasTV,0
+-bKnO1BwkwXJFNLr72GECA,Bruegger's Bagels,Uptown,"210 East Trade St, Ste 226",Charlotte,NC,28202,35.2253,-80.8425,3.5,35,1,-bKnO1BwkwXJFNLr72GECA,NoiseLevel,quiet
+-bKnO1BwkwXJFNLr72GECA,Bruegger's Bagels,Uptown,"210 East Trade St, Ste 226",Charlotte,NC,28202,35.2253,-80.8425,3.5,35,1,-bKnO1BwkwXJFNLr72GECA,OutdoorSeating,0
+-bKnO1BwkwXJFNLr72GECA,Bruegger's Bagels,Uptown,"210 East Trade St, Ste 226",Charlotte,NC,28202,35.2253,-80.8425,3.5,35,1,-bKnO1BwkwXJFNLr72GECA,RestaurantsAttire,casual
+-bKnO1BwkwXJFNLr72GECA,Bruegger's Bagels,Uptown,"210 East Trade St, Ste 226",Charlotte,NC,28202,35.2253,-80.8425,3.5,35,1,-bKnO1BwkwXJFNLr72GECA,RestaurantsDelivery,0
+-bKnO1BwkwXJFNLr72GECA,Bruegger's Bagels,Uptown,"210 East Trade St, Ste 226",Charlotte,NC,28202,35.2253,-80.8425,3.5,35,1,-bKnO1BwkwXJFNLr72GECA,RestaurantsGoodForGroups,1
+-bKnO1BwkwXJFNLr72GECA,Bruegger's Bagels,Uptown,"210 East Trade St, Ste 226",Charlotte,NC,28202,35.2253,-80.8425,3.5,35,1,-bKnO1BwkwXJFNLr72GECA,RestaurantsPriceRange2,1
+-bKnO1BwkwXJFNLr72GECA,Bruegger's Bagels,Uptown,"210 East Trade St, Ste 226",Charlotte,NC,28202,35.2253,-80.8425,3.5,35,1,-bKnO1BwkwXJFNLr72GECA,RestaurantsReservations,0
+-bKnO1BwkwXJFNLr72GECA,Bruegger's Bagels,Uptown,"210 East Trade St, Ste 226",Charlotte,NC,28202,35.2253,-80.8425,3.5,35,1,-bKnO1BwkwXJFNLr72GECA,RestaurantsTableService,0
+-bKnO1BwkwXJFNLr72GECA,Bruegger's Bagels,Uptown,"210 East Trade St, Ste 226",Charlotte,NC,28202,35.2253,-80.8425,3.5,35,1,-bKnO1BwkwXJFNLr72GECA,RestaurantsTakeOut,1
+-bKnO1BwkwXJFNLr72GECA,Bruegger's Bagels,Uptown,"210 East Trade St, Ste 226",Charlotte,NC,28202,35.2253,-80.8425,3.5,35,1,-bKnO1BwkwXJFNLr72GECA,WiFi,free
+-C1TuPTKUq-s5VPAcg81Sg,Noda Company Store,NoDa,3221 Yadkin Ave,Charlotte,NC,28205,35.247,-80.8045,4.5,31,1,-C1TuPTKUq-s5VPAcg81Sg,Alcohol,beer_and_wine
+-C1TuPTKUq-s5VPAcg81Sg,Noda Company Store,NoDa,3221 Yadkin Ave,Charlotte,NC,28205,35.247,-80.8045,4.5,31,1,-C1TuPTKUq-s5VPAcg81Sg,Ambience,"{""romantic"": false, ""intimate"": false, ""classy"": false, ""hipster"": true, ""divey"": false, ""touristy"": false, ""trendy"": false, ""upscale"": false, ""casual"": false}"
+-C1TuPTKUq-s5VPAcg81Sg,Noda Company Store,NoDa,3221 Yadkin Ave,Charlotte,NC,28205,35.247,-80.8045,4.5,31,1,-C1TuPTKUq-s5VPAcg81Sg,BestNights,"{""monday"": false, ""tuesday"": false, ""friday"": true, ""wednesday"": false, ""thursday"": false, ""sunday"": true, ""saturday"": true}"
+-C1TuPTKUq-s5VPAcg81Sg,Noda Company Store,NoDa,3221 Yadkin Ave,Charlotte,NC,28205,35.247,-80.8045,4.5,31,1,-C1TuPTKUq-s5VPAcg81Sg,BikeParking,1
+-C1TuPTKUq-s5VPAcg81Sg,Noda Company Store,NoDa,3221 Yadkin Ave,Charlotte,NC,28205,35.247,-80.8045,4.5,31,1,-C1TuPTKUq-s5VPAcg81Sg,BusinessAcceptsBitcoin,0
+-C1TuPTKUq-s5VPAcg81Sg,Noda Company Store,NoDa,3221 Yadkin Ave,Charlotte,NC,28205,35.247,-80.8045,4.5,31,1,-C1TuPTKUq-s5VPAcg81Sg,BusinessAcceptsCreditCards,1
+-C1TuPTKUq-s5VPAcg81Sg,Noda Company Store,NoDa,3221 Yadkin Ave,Charlotte,NC,28205,35.247,-80.8045,4.5,31,1,-C1TuPTKUq-s5VPAcg81Sg,BusinessParking,"{""garage"": false, ""street"": true, ""validated"": false, ""lot"": true, ""valet"": false}"
+-C1TuPTKUq-s5VPAcg81Sg,Noda Company Store,NoDa,3221 Yadkin Ave,Charlotte,NC,28205,35.247,-80.8045,4.5,31,1,-C1TuPTKUq-s5VPAcg81Sg,ByAppointmentOnly,0
+-C1TuPTKUq-s5VPAcg81Sg,Noda Company Store,NoDa,3221 Yadkin Ave,Charlotte,NC,28205,35.247,-80.8045,4.5,31,1,-C1TuPTKUq-s5VPAcg81Sg,CoatCheck,0
+-C1TuPTKUq-s5VPAcg81Sg,Noda Company Store,NoDa,3221 Yadkin Ave,Charlotte,NC,28205,35.247,-80.8045,4.5,31,1,-C1TuPTKUq-s5VPAcg81Sg,DogsAllowed,1
+-C1TuPTKUq-s5VPAcg81Sg,Noda Company Store,NoDa,3221 Yadkin Ave,Charlotte,NC,28205,35.247,-80.8045,4.5,31,1,-C1TuPTKUq-s5VPAcg81Sg,GoodForDancing,0
+-C1TuPTKUq-s5VPAcg81Sg,Noda Company Store,NoDa,3221 Yadkin Ave,Charlotte,NC,28205,35.247,-80.8045,4.5,31,1,-C1TuPTKUq-s5VPAcg81Sg,GoodForKids,0
+-C1TuPTKUq-s5VPAcg81Sg,Noda Company Store,NoDa,3221 Yadkin Ave,Charlotte,NC,28205,35.247,-80.8045,4.5,31,1,-C1TuPTKUq-s5VPAcg81Sg,HappyHour,0
+-C1TuPTKUq-s5VPAcg81Sg,Noda Company Store,NoDa,3221 Yadkin Ave,Charlotte,NC,28205,35.247,-80.8045,4.5,31,1,-C1TuPTKUq-s5VPAcg81Sg,HasTV,1
+-C1TuPTKUq-s5VPAcg81Sg,Noda Company Store,NoDa,3221 Yadkin Ave,Charlotte,NC,28205,35.247,-80.8045,4.5,31,1,-C1TuPTKUq-s5VPAcg81Sg,Music,"{""dj"": false, ""background_music"": false, ""no_music"": false, ""karaoke"": false, ""live"": false, ""video"": false, ""jukebox"": false}"
+-C1TuPTKUq-s5VPAcg81Sg,Noda Company Store,NoDa,3221 Yadkin Ave,Charlotte,NC,28205,35.247,-80.8045,4.5,31,1,-C1TuPTKUq-s5VPAcg81Sg,NoiseLevel,average
+-C1TuPTKUq-s5VPAcg81Sg,Noda Company Store,NoDa,3221 Yadkin Ave,Charlotte,NC,28205,35.247,-80.8045,4.5,31,1,-C1TuPTKUq-s5VPAcg81Sg,OutdoorSeating,1
+-C1TuPTKUq-s5VPAcg81Sg,Noda Company Store,NoDa,3221 Yadkin Ave,Charlotte,NC,28205,35.247,-80.8045,4.5,31,1,-C1TuPTKUq-s5VPAcg81Sg,RestaurantsGoodForGroups,1
+-C1TuPTKUq-s5VPAcg81Sg,Noda Company Store,NoDa,3221 Yadkin Ave,Charlotte,NC,28205,35.247,-80.8045,4.5,31,1,-C1TuPTKUq-s5VPAcg81Sg,RestaurantsPriceRange2,2
+-C1TuPTKUq-s5VPAcg81Sg,Noda Company Store,NoDa,3221 Yadkin Ave,Charlotte,NC,28205,35.247,-80.8045,4.5,31,1,-C1TuPTKUq-s5VPAcg81Sg,RestaurantsReservations,0
+-C1TuPTKUq-s5VPAcg81Sg,Noda Company Store,NoDa,3221 Yadkin Ave,Charlotte,NC,28205,35.247,-80.8045,4.5,31,1,-C1TuPTKUq-s5VPAcg81Sg,Smoking,outdoor
+-C1TuPTKUq-s5VPAcg81Sg,Noda Company Store,NoDa,3221 Yadkin Ave,Charlotte,NC,28205,35.247,-80.8045,4.5,31,1,-C1TuPTKUq-s5VPAcg81Sg,WheelchairAccessible,1
+-C1TuPTKUq-s5VPAcg81Sg,Noda Company Store,NoDa,3221 Yadkin Ave,Charlotte,NC,28205,35.247,-80.8045,4.5,31,1,-C1TuPTKUq-s5VPAcg81Sg,WiFi,free
+-c_hXOWtO_AiJ1zQJtGxLg,Paradise Island Divers,South End,2317 South Blvd,Charlotte,NC,28203,35.2047,-80.8626,2.5,7,1,-c_hXOWtO_AiJ1zQJtGxLg,BusinessAcceptsCreditCards,0
+-c_hXOWtO_AiJ1zQJtGxLg,Paradise Island Divers,South End,2317 South Blvd,Charlotte,NC,28203,35.2047,-80.8626,2.5,7,1,-c_hXOWtO_AiJ1zQJtGxLg,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": false, ""valet"": false}"
+-c_hXOWtO_AiJ1zQJtGxLg,Paradise Island Divers,South End,2317 South Blvd,Charlotte,NC,28203,35.2047,-80.8626,2.5,7,1,-c_hXOWtO_AiJ1zQJtGxLg,RestaurantsPriceRange2,3
+-dcI8oWvxdMCGp00da8Ksg,Birdsong Brewing,NoDa,2315 N Davidson St,Charlotte,NC,28205,35.2407,-80.8144,4.5,84,0,-dcI8oWvxdMCGp00da8Ksg,BikeParking,1
+-dcI8oWvxdMCGp00da8Ksg,Birdsong Brewing,NoDa,2315 N Davidson St,Charlotte,NC,28205,35.2407,-80.8144,4.5,84,0,-dcI8oWvxdMCGp00da8Ksg,BusinessAcceptsBitcoin,0
+-dcI8oWvxdMCGp00da8Ksg,Birdsong Brewing,NoDa,2315 N Davidson St,Charlotte,NC,28205,35.2407,-80.8144,4.5,84,0,-dcI8oWvxdMCGp00da8Ksg,BusinessAcceptsCreditCards,1
+-dcI8oWvxdMCGp00da8Ksg,Birdsong Brewing,NoDa,2315 N Davidson St,Charlotte,NC,28205,35.2407,-80.8144,4.5,84,0,-dcI8oWvxdMCGp00da8Ksg,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": true, ""valet"": false}"
+-dcI8oWvxdMCGp00da8Ksg,Birdsong Brewing,NoDa,2315 N Davidson St,Charlotte,NC,28205,35.2407,-80.8144,4.5,84,0,-dcI8oWvxdMCGp00da8Ksg,RestaurantsPriceRange2,1
+-dcI8oWvxdMCGp00da8Ksg,Birdsong Brewing,NoDa,2315 N Davidson St,Charlotte,NC,28205,35.2407,-80.8144,4.5,84,0,-dcI8oWvxdMCGp00da8Ksg,WheelchairAccessible,1
+-DzExXZ1QrBkCU-NWJasVA,Belky's Beauty Salon,Starmount,1341 Sharon Rd W,Charlotte,NC,28210,35.1195,-80.8798,4,8,1,-DzExXZ1QrBkCU-NWJasVA,BusinessAcceptsCreditCards,1
+-DzExXZ1QrBkCU-NWJasVA,Belky's Beauty Salon,Starmount,1341 Sharon Rd W,Charlotte,NC,28210,35.1195,-80.8798,4,8,1,-DzExXZ1QrBkCU-NWJasVA,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": false, ""valet"": false}"
+-DzExXZ1QrBkCU-NWJasVA,Belky's Beauty Salon,Starmount,1341 Sharon Rd W,Charlotte,NC,28210,35.1195,-80.8798,4,8,1,-DzExXZ1QrBkCU-NWJasVA,ByAppointmentOnly,0
+-DzExXZ1QrBkCU-NWJasVA,Belky's Beauty Salon,Starmount,1341 Sharon Rd W,Charlotte,NC,28210,35.1195,-80.8798,4,8,1,-DzExXZ1QrBkCU-NWJasVA,GoodForKids,1
+-DzExXZ1QrBkCU-NWJasVA,Belky's Beauty Salon,Starmount,1341 Sharon Rd W,Charlotte,NC,28210,35.1195,-80.8798,4,8,1,-DzExXZ1QrBkCU-NWJasVA,RestaurantsPriceRange2,2
+-e7YfGYIbKhfJhRoz7wRgw,Doc Porter's Distillery,,232 Peterson Dr,Charlotte,NC,28217,35.1881,-80.8798,5,22,1,-e7YfGYIbKhfJhRoz7wRgw,BikeParking,1
+-e7YfGYIbKhfJhRoz7wRgw,Doc Porter's Distillery,,232 Peterson Dr,Charlotte,NC,28217,35.1881,-80.8798,5,22,1,-e7YfGYIbKhfJhRoz7wRgw,BusinessAcceptsCreditCards,1
+-e7YfGYIbKhfJhRoz7wRgw,Doc Porter's Distillery,,232 Peterson Dr,Charlotte,NC,28217,35.1881,-80.8798,5,22,1,-e7YfGYIbKhfJhRoz7wRgw,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": false, ""valet"": false}"
+-e7YfGYIbKhfJhRoz7wRgw,Doc Porter's Distillery,,232 Peterson Dr,Charlotte,NC,28217,35.1881,-80.8798,5,22,1,-e7YfGYIbKhfJhRoz7wRgw,Caters,0
+-e7YfGYIbKhfJhRoz7wRgw,Doc Porter's Distillery,,232 Peterson Dr,Charlotte,NC,28217,35.1881,-80.8798,5,22,1,-e7YfGYIbKhfJhRoz7wRgw,RestaurantsPriceRange2,2
+-e7YfGYIbKhfJhRoz7wRgw,Doc Porter's Distillery,,232 Peterson Dr,Charlotte,NC,28217,35.1881,-80.8798,5,22,1,-e7YfGYIbKhfJhRoz7wRgw,RestaurantsTakeOut,0
+-e7YfGYIbKhfJhRoz7wRgw,Doc Porter's Distillery,,232 Peterson Dr,Charlotte,NC,28217,35.1881,-80.8798,5,22,1,-e7YfGYIbKhfJhRoz7wRgw,WheelchairAccessible,1
+-EhqH2gxvKjRTOtR-O9BCA,Asiaworks,,10715-B Park Rd,Charlotte,NC,28210,35.0917,-80.869,5,5,1,-EhqH2gxvKjRTOtR-O9BCA,BusinessAcceptsCreditCards,1
+-EkRlTm1xlzM8EyyYAs75Q,Jeffrey I. Musler & Associates,South Park,4400 Sharon Rd,Charlotte,NC,28202,35.1517,-80.8303,3,7,1,-EkRlTm1xlzM8EyyYAs75Q,AcceptsInsurance,1
+-EkRlTm1xlzM8EyyYAs75Q,Jeffrey I. Musler & Associates,South Park,4400 Sharon Rd,Charlotte,NC,28202,35.1517,-80.8303,3,7,1,-EkRlTm1xlzM8EyyYAs75Q,BusinessAcceptsCreditCards,1
+-EkRlTm1xlzM8EyyYAs75Q,Jeffrey I. Musler & Associates,South Park,4400 Sharon Rd,Charlotte,NC,28202,35.1517,-80.8303,3,7,1,-EkRlTm1xlzM8EyyYAs75Q,ByAppointmentOnly,1
+-EVu9Hy0YzUvfCBc0_1cgQ,The Boardroom Restaurant,Uptown,"128 S Tryon St, Ste 150",Charlotte,NC,28202,35.2269,-80.8442,4,17,0,-EVu9Hy0YzUvfCBc0_1cgQ,Alcohol,none
+-EVu9Hy0YzUvfCBc0_1cgQ,The Boardroom Restaurant,Uptown,"128 S Tryon St, Ste 150",Charlotte,NC,28202,35.2269,-80.8442,4,17,0,-EVu9Hy0YzUvfCBc0_1cgQ,Ambience,"{""romantic"": false, ""intimate"": false, ""classy"": false, ""hipster"": false, ""divey"": false, ""touristy"": false, ""trendy"": false, ""upscale"": false, ""casual"": true}"
+-EVu9Hy0YzUvfCBc0_1cgQ,The Boardroom Restaurant,Uptown,"128 S Tryon St, Ste 150",Charlotte,NC,28202,35.2269,-80.8442,4,17,0,-EVu9Hy0YzUvfCBc0_1cgQ,BikeParking,1
+-EVu9Hy0YzUvfCBc0_1cgQ,The Boardroom Restaurant,Uptown,"128 S Tryon St, Ste 150",Charlotte,NC,28202,35.2269,-80.8442,4,17,0,-EVu9Hy0YzUvfCBc0_1cgQ,BusinessAcceptsCreditCards,1
+-EVu9Hy0YzUvfCBc0_1cgQ,The Boardroom Restaurant,Uptown,"128 S Tryon St, Ste 150",Charlotte,NC,28202,35.2269,-80.8442,4,17,0,-EVu9Hy0YzUvfCBc0_1cgQ,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": false, ""valet"": false}"
+-EVu9Hy0YzUvfCBc0_1cgQ,The Boardroom Restaurant,Uptown,"128 S Tryon St, Ste 150",Charlotte,NC,28202,35.2269,-80.8442,4,17,0,-EVu9Hy0YzUvfCBc0_1cgQ,Caters,1
+-EVu9Hy0YzUvfCBc0_1cgQ,The Boardroom Restaurant,Uptown,"128 S Tryon St, Ste 150",Charlotte,NC,28202,35.2269,-80.8442,4,17,0,-EVu9Hy0YzUvfCBc0_1cgQ,DogsAllowed,0
+-EVu9Hy0YzUvfCBc0_1cgQ,The Boardroom Restaurant,Uptown,"128 S Tryon St, Ste 150",Charlotte,NC,28202,35.2269,-80.8442,4,17,0,-EVu9Hy0YzUvfCBc0_1cgQ,GoodForKids,1
+-EVu9Hy0YzUvfCBc0_1cgQ,The Boardroom Restaurant,Uptown,"128 S Tryon St, Ste 150",Charlotte,NC,28202,35.2269,-80.8442,4,17,0,-EVu9Hy0YzUvfCBc0_1cgQ,GoodForMeal,"{""dessert"": false, ""latenight"": false, ""lunch"": true, ""dinner"": false, ""breakfast"": true, ""brunch"": false}"
+-EVu9Hy0YzUvfCBc0_1cgQ,The Boardroom Restaurant,Uptown,"128 S Tryon St, Ste 150",Charlotte,NC,28202,35.2269,-80.8442,4,17,0,-EVu9Hy0YzUvfCBc0_1cgQ,HasTV,1
+-EVu9Hy0YzUvfCBc0_1cgQ,The Boardroom Restaurant,Uptown,"128 S Tryon St, Ste 150",Charlotte,NC,28202,35.2269,-80.8442,4,17,0,-EVu9Hy0YzUvfCBc0_1cgQ,NoiseLevel,average
+-EVu9Hy0YzUvfCBc0_1cgQ,The Boardroom Restaurant,Uptown,"128 S Tryon St, Ste 150",Charlotte,NC,28202,35.2269,-80.8442,4,17,0,-EVu9Hy0YzUvfCBc0_1cgQ,OutdoorSeating,0
+-EVu9Hy0YzUvfCBc0_1cgQ,The Boardroom Restaurant,Uptown,"128 S Tryon St, Ste 150",Charlotte,NC,28202,35.2269,-80.8442,4,17,0,-EVu9Hy0YzUvfCBc0_1cgQ,RestaurantsAttire,casual
+-EVu9Hy0YzUvfCBc0_1cgQ,The Boardroom Restaurant,Uptown,"128 S Tryon St, Ste 150",Charlotte,NC,28202,35.2269,-80.8442,4,17,0,-EVu9Hy0YzUvfCBc0_1cgQ,RestaurantsDelivery,0
+-EVu9Hy0YzUvfCBc0_1cgQ,The Boardroom Restaurant,Uptown,"128 S Tryon St, Ste 150",Charlotte,NC,28202,35.2269,-80.8442,4,17,0,-EVu9Hy0YzUvfCBc0_1cgQ,RestaurantsGoodForGroups,1
+-EVu9Hy0YzUvfCBc0_1cgQ,The Boardroom Restaurant,Uptown,"128 S Tryon St, Ste 150",Charlotte,NC,28202,35.2269,-80.8442,4,17,0,-EVu9Hy0YzUvfCBc0_1cgQ,RestaurantsPriceRange2,1
+-EVu9Hy0YzUvfCBc0_1cgQ,The Boardroom Restaurant,Uptown,"128 S Tryon St, Ste 150",Charlotte,NC,28202,35.2269,-80.8442,4,17,0,-EVu9Hy0YzUvfCBc0_1cgQ,RestaurantsReservations,0
+-EVu9Hy0YzUvfCBc0_1cgQ,The Boardroom Restaurant,Uptown,"128 S Tryon St, Ste 150",Charlotte,NC,28202,35.2269,-80.8442,4,17,0,-EVu9Hy0YzUvfCBc0_1cgQ,RestaurantsTableService,0
+-EVu9Hy0YzUvfCBc0_1cgQ,The Boardroom Restaurant,Uptown,"128 S Tryon St, Ste 150",Charlotte,NC,28202,35.2269,-80.8442,4,17,0,-EVu9Hy0YzUvfCBc0_1cgQ,RestaurantsTakeOut,1
+-EVu9Hy0YzUvfCBc0_1cgQ,The Boardroom Restaurant,Uptown,"128 S Tryon St, Ste 150",Charlotte,NC,28202,35.2269,-80.8442,4,17,0,-EVu9Hy0YzUvfCBc0_1cgQ,WiFi,no
+-F2zEpel2C-v_outnOn6IQ,Autobell Car Wash,,6508 N Tryon St,Charlotte,NC,28213,35.2772,-80.7657,2,6,1,-F2zEpel2C-v_outnOn6IQ,BusinessAcceptsCreditCards,1
+-fVZrbmka-9Mq2TtCGHxxw,Cupcrazed Cakery,,"1730 E Woodlawn Rd, Ste H",Charlotte,NC,28209,35.1717,-80.8469,4,15,1,-fVZrbmka-9Mq2TtCGHxxw,BikeParking,1
+-fVZrbmka-9Mq2TtCGHxxw,Cupcrazed Cakery,,"1730 E Woodlawn Rd, Ste H",Charlotte,NC,28209,35.1717,-80.8469,4,15,1,-fVZrbmka-9Mq2TtCGHxxw,BusinessAcceptsCreditCards,1
+-fVZrbmka-9Mq2TtCGHxxw,Cupcrazed Cakery,,"1730 E Woodlawn Rd, Ste H",Charlotte,NC,28209,35.1717,-80.8469,4,15,1,-fVZrbmka-9Mq2TtCGHxxw,BusinessParking,"{""garage"": false, ""street"": true, ""validated"": false, ""lot"": true, ""valet"": false}"
+-fVZrbmka-9Mq2TtCGHxxw,Cupcrazed Cakery,,"1730 E Woodlawn Rd, Ste H",Charlotte,NC,28209,35.1717,-80.8469,4,15,1,-fVZrbmka-9Mq2TtCGHxxw,Caters,1
+-fVZrbmka-9Mq2TtCGHxxw,Cupcrazed Cakery,,"1730 E Woodlawn Rd, Ste H",Charlotte,NC,28209,35.1717,-80.8469,4,15,1,-fVZrbmka-9Mq2TtCGHxxw,RestaurantsDelivery,0
+-fVZrbmka-9Mq2TtCGHxxw,Cupcrazed Cakery,,"1730 E Woodlawn Rd, Ste H",Charlotte,NC,28209,35.1717,-80.8469,4,15,1,-fVZrbmka-9Mq2TtCGHxxw,RestaurantsPriceRange2,1
+-fVZrbmka-9Mq2TtCGHxxw,Cupcrazed Cakery,,"1730 E Woodlawn Rd, Ste H",Charlotte,NC,28209,35.1717,-80.8469,4,15,1,-fVZrbmka-9Mq2TtCGHxxw,RestaurantsTakeOut,1
+-fVZrbmka-9Mq2TtCGHxxw,Cupcrazed Cakery,,"1730 E Woodlawn Rd, Ste H",Charlotte,NC,28209,35.1717,-80.8469,4,15,1,-fVZrbmka-9Mq2TtCGHxxw,WheelchairAccessible,1
+-fX1N-Pg_kxa7KK6gCv8Ag,Los Arcos Mexican Restaurant,University City,9601 N Tryon St,Charlotte,NC,28262,35.3164,-80.74,2.5,9,0,-fX1N-Pg_kxa7KK6gCv8Ag,BusinessAcceptsCreditCards,1
+-fX1N-Pg_kxa7KK6gCv8Ag,Los Arcos Mexican Restaurant,University City,9601 N Tryon St,Charlotte,NC,28262,35.3164,-80.74,2.5,9,0,-fX1N-Pg_kxa7KK6gCv8Ag,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": false, ""valet"": false}"
+-fX1N-Pg_kxa7KK6gCv8Ag,Los Arcos Mexican Restaurant,University City,9601 N Tryon St,Charlotte,NC,28262,35.3164,-80.74,2.5,9,0,-fX1N-Pg_kxa7KK6gCv8Ag,HasTV,1
+-fX1N-Pg_kxa7KK6gCv8Ag,Los Arcos Mexican Restaurant,University City,9601 N Tryon St,Charlotte,NC,28262,35.3164,-80.74,2.5,9,0,-fX1N-Pg_kxa7KK6gCv8Ag,OutdoorSeating,0
+-fX1N-Pg_kxa7KK6gCv8Ag,Los Arcos Mexican Restaurant,University City,9601 N Tryon St,Charlotte,NC,28262,35.3164,-80.74,2.5,9,0,-fX1N-Pg_kxa7KK6gCv8Ag,RestaurantsAttire,casual
+-fX1N-Pg_kxa7KK6gCv8Ag,Los Arcos Mexican Restaurant,University City,9601 N Tryon St,Charlotte,NC,28262,35.3164,-80.74,2.5,9,0,-fX1N-Pg_kxa7KK6gCv8Ag,RestaurantsGoodForGroups,1
+-fX1N-Pg_kxa7KK6gCv8Ag,Los Arcos Mexican Restaurant,University City,9601 N Tryon St,Charlotte,NC,28262,35.3164,-80.74,2.5,9,0,-fX1N-Pg_kxa7KK6gCv8Ag,RestaurantsPriceRange2,1
+-fX1N-Pg_kxa7KK6gCv8Ag,Los Arcos Mexican Restaurant,University City,9601 N Tryon St,Charlotte,NC,28262,35.3164,-80.74,2.5,9,0,-fX1N-Pg_kxa7KK6gCv8Ag,RestaurantsTableService,1
+-fX1N-Pg_kxa7KK6gCv8Ag,Los Arcos Mexican Restaurant,University City,9601 N Tryon St,Charlotte,NC,28262,35.3164,-80.74,2.5,9,0,-fX1N-Pg_kxa7KK6gCv8Ag,RestaurantsTakeOut,1
+-fznkdpqpDmNTSHnn1yUfg,Tailored Living,Ballantyne,,Charlotte,NC,28277,35.0536,-80.8212,5,4,1,-fznkdpqpDmNTSHnn1yUfg,BusinessAcceptsCreditCards,1
+-fznkdpqpDmNTSHnn1yUfg,Tailored Living,Ballantyne,,Charlotte,NC,28277,35.0536,-80.8212,5,4,1,-fznkdpqpDmNTSHnn1yUfg,ByAppointmentOnly,1
+-g7Gj0FfctLeKHNfToNI5A,USO of North Carolina Charlotte,,5501 Josh Birmingham Pkwy,Charlotte,NC,28208,35.2205,-80.9438,5,40,1,-g7Gj0FfctLeKHNfToNI5A,Ambience,"{""romantic"": false, ""intimate"": false, ""classy"": false, ""hipster"": false, ""divey"": false, ""touristy"": false, ""trendy"": false, ""upscale"": false, ""casual"": false}"
+-g7Gj0FfctLeKHNfToNI5A,USO of North Carolina Charlotte,,5501 Josh Birmingham Pkwy,Charlotte,NC,28208,35.2205,-80.9438,5,40,1,-g7Gj0FfctLeKHNfToNI5A,BikeParking,1
+-g7Gj0FfctLeKHNfToNI5A,USO of North Carolina Charlotte,,5501 Josh Birmingham Pkwy,Charlotte,NC,28208,35.2205,-80.9438,5,40,1,-g7Gj0FfctLeKHNfToNI5A,BusinessAcceptsCreditCards,1
+-g7Gj0FfctLeKHNfToNI5A,USO of North Carolina Charlotte,,5501 Josh Birmingham Pkwy,Charlotte,NC,28208,35.2205,-80.9438,5,40,1,-g7Gj0FfctLeKHNfToNI5A,HasTV,1
+-g7Gj0FfctLeKHNfToNI5A,USO of North Carolina Charlotte,,5501 Josh Birmingham Pkwy,Charlotte,NC,28208,35.2205,-80.9438,5,40,1,-g7Gj0FfctLeKHNfToNI5A,RestaurantsGoodForGroups,1
+-g7Gj0FfctLeKHNfToNI5A,USO of North Carolina Charlotte,,5501 Josh Birmingham Pkwy,Charlotte,NC,28208,35.2205,-80.9438,5,40,1,-g7Gj0FfctLeKHNfToNI5A,RestaurantsPriceRange2,1
+-g7Gj0FfctLeKHNfToNI5A,USO of North Carolina Charlotte,,5501 Josh Birmingham Pkwy,Charlotte,NC,28208,35.2205,-80.9438,5,40,1,-g7Gj0FfctLeKHNfToNI5A,RestaurantsReservations,0
+-g7Gj0FfctLeKHNfToNI5A,USO of North Carolina Charlotte,,5501 Josh Birmingham Pkwy,Charlotte,NC,28208,35.2205,-80.9438,5,40,1,-g7Gj0FfctLeKHNfToNI5A,WiFi,free
+-gU7sBJT1QECan_GCD1Iaw,Front Door Fabrics,,"9517 Monroe Rd, Ste D",Charlotte,NC,28270,35.1437,-80.7396,4,6,1,-gU7sBJT1QECan_GCD1Iaw,BusinessAcceptsCreditCards,1
+-gU7sBJT1QECan_GCD1Iaw,Front Door Fabrics,,"9517 Monroe Rd, Ste D",Charlotte,NC,28270,35.1437,-80.7396,4,6,1,-gU7sBJT1QECan_GCD1Iaw,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": true, ""valet"": false}"
+-gU7sBJT1QECan_GCD1Iaw,Front Door Fabrics,,"9517 Monroe Rd, Ste D",Charlotte,NC,28270,35.1437,-80.7396,4,6,1,-gU7sBJT1QECan_GCD1Iaw,RestaurantsPriceRange2,3
+-GWI_4FktOD7fwHW1DgZCA,Hooters,,123 W Trade St,Charlotte,NC,28202,35.2276,-80.844,2.5,60,1,-GWI_4FktOD7fwHW1DgZCA,Alcohol,full_bar
+-GWI_4FktOD7fwHW1DgZCA,Hooters,,123 W Trade St,Charlotte,NC,28202,35.2276,-80.844,2.5,60,1,-GWI_4FktOD7fwHW1DgZCA,Ambience,"{""romantic"": false, ""intimate"": false, ""classy"": false, ""hipster"": false, ""divey"": false, ""touristy"": false, ""trendy"": false, ""upscale"": false, ""casual"": false}"
+-GWI_4FktOD7fwHW1DgZCA,Hooters,,123 W Trade St,Charlotte,NC,28202,35.2276,-80.844,2.5,60,1,-GWI_4FktOD7fwHW1DgZCA,BestNights,"{""monday"": false, ""tuesday"": false, ""friday"": false, ""wednesday"": false, ""thursday"": false, ""sunday"": true, ""saturday"": false}"
+-GWI_4FktOD7fwHW1DgZCA,Hooters,,123 W Trade St,Charlotte,NC,28202,35.2276,-80.844,2.5,60,1,-GWI_4FktOD7fwHW1DgZCA,BikeParking,0
+-GWI_4FktOD7fwHW1DgZCA,Hooters,,123 W Trade St,Charlotte,NC,28202,35.2276,-80.844,2.5,60,1,-GWI_4FktOD7fwHW1DgZCA,BusinessAcceptsCreditCards,1
+-GWI_4FktOD7fwHW1DgZCA,Hooters,,123 W Trade St,Charlotte,NC,28202,35.2276,-80.844,2.5,60,1,-GWI_4FktOD7fwHW1DgZCA,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": false, ""valet"": false}"
+-GWI_4FktOD7fwHW1DgZCA,Hooters,,123 W Trade St,Charlotte,NC,28202,35.2276,-80.844,2.5,60,1,-GWI_4FktOD7fwHW1DgZCA,Caters,0
+-GWI_4FktOD7fwHW1DgZCA,Hooters,,123 W Trade St,Charlotte,NC,28202,35.2276,-80.844,2.5,60,1,-GWI_4FktOD7fwHW1DgZCA,CoatCheck,0
+-GWI_4FktOD7fwHW1DgZCA,Hooters,,123 W Trade St,Charlotte,NC,28202,35.2276,-80.844,2.5,60,1,-GWI_4FktOD7fwHW1DgZCA,GoodForDancing,0
+-GWI_4FktOD7fwHW1DgZCA,Hooters,,123 W Trade St,Charlotte,NC,28202,35.2276,-80.844,2.5,60,1,-GWI_4FktOD7fwHW1DgZCA,GoodForKids,0
+-GWI_4FktOD7fwHW1DgZCA,Hooters,,123 W Trade St,Charlotte,NC,28202,35.2276,-80.844,2.5,60,1,-GWI_4FktOD7fwHW1DgZCA,GoodForMeal,"{""dessert"": false, ""latenight"": false, ""lunch"": true, ""dinner"": false, ""breakfast"": false, ""brunch"": false}"
+-GWI_4FktOD7fwHW1DgZCA,Hooters,,123 W Trade St,Charlotte,NC,28202,35.2276,-80.844,2.5,60,1,-GWI_4FktOD7fwHW1DgZCA,HappyHour,1
+-GWI_4FktOD7fwHW1DgZCA,Hooters,,123 W Trade St,Charlotte,NC,28202,35.2276,-80.844,2.5,60,1,-GWI_4FktOD7fwHW1DgZCA,HasTV,1
+-GWI_4FktOD7fwHW1DgZCA,Hooters,,123 W Trade St,Charlotte,NC,28202,35.2276,-80.844,2.5,60,1,-GWI_4FktOD7fwHW1DgZCA,Music,"{""dj"": false, ""background_music"": false, ""no_music"": false, ""karaoke"": false, ""live"": false, ""video"": false, ""jukebox"": false}"
+-GWI_4FktOD7fwHW1DgZCA,Hooters,,123 W Trade St,Charlotte,NC,28202,35.2276,-80.844,2.5,60,1,-GWI_4FktOD7fwHW1DgZCA,NoiseLevel,loud
+-GWI_4FktOD7fwHW1DgZCA,Hooters,,123 W Trade St,Charlotte,NC,28202,35.2276,-80.844,2.5,60,1,-GWI_4FktOD7fwHW1DgZCA,OutdoorSeating,1
+-GWI_4FktOD7fwHW1DgZCA,Hooters,,123 W Trade St,Charlotte,NC,28202,35.2276,-80.844,2.5,60,1,-GWI_4FktOD7fwHW1DgZCA,RestaurantsAttire,casual
+-GWI_4FktOD7fwHW1DgZCA,Hooters,,123 W Trade St,Charlotte,NC,28202,35.2276,-80.844,2.5,60,1,-GWI_4FktOD7fwHW1DgZCA,RestaurantsDelivery,0
+-GWI_4FktOD7fwHW1DgZCA,Hooters,,123 W Trade St,Charlotte,NC,28202,35.2276,-80.844,2.5,60,1,-GWI_4FktOD7fwHW1DgZCA,RestaurantsGoodForGroups,1
+-GWI_4FktOD7fwHW1DgZCA,Hooters,,123 W Trade St,Charlotte,NC,28202,35.2276,-80.844,2.5,60,1,-GWI_4FktOD7fwHW1DgZCA,RestaurantsPriceRange2,2
+-GWI_4FktOD7fwHW1DgZCA,Hooters,,123 W Trade St,Charlotte,NC,28202,35.2276,-80.844,2.5,60,1,-GWI_4FktOD7fwHW1DgZCA,RestaurantsReservations,0
+-GWI_4FktOD7fwHW1DgZCA,Hooters,,123 W Trade St,Charlotte,NC,28202,35.2276,-80.844,2.5,60,1,-GWI_4FktOD7fwHW1DgZCA,RestaurantsTableService,1
+-GWI_4FktOD7fwHW1DgZCA,Hooters,,123 W Trade St,Charlotte,NC,28202,35.2276,-80.844,2.5,60,1,-GWI_4FktOD7fwHW1DgZCA,RestaurantsTakeOut,1
+-GWI_4FktOD7fwHW1DgZCA,Hooters,,123 W Trade St,Charlotte,NC,28202,35.2276,-80.844,2.5,60,1,-GWI_4FktOD7fwHW1DgZCA,Smoking,yes
+-GWI_4FktOD7fwHW1DgZCA,Hooters,,123 W Trade St,Charlotte,NC,28202,35.2276,-80.844,2.5,60,1,-GWI_4FktOD7fwHW1DgZCA,WheelchairAccessible,1
+-GWI_4FktOD7fwHW1DgZCA,Hooters,,123 W Trade St,Charlotte,NC,28202,35.2276,-80.844,2.5,60,1,-GWI_4FktOD7fwHW1DgZCA,WiFi,free
+-H8PRdCbQmXkh6-S6tTrjg,Charlotte Vapes,University City,"9510 University City Blvd, Ste 201",Charlotte,NC,28213,35.3058,-80.7234,3.5,8,1,-H8PRdCbQmXkh6-S6tTrjg,BikeParking,1
+-H8PRdCbQmXkh6-S6tTrjg,Charlotte Vapes,University City,"9510 University City Blvd, Ste 201",Charlotte,NC,28213,35.3058,-80.7234,3.5,8,1,-H8PRdCbQmXkh6-S6tTrjg,BusinessAcceptsCreditCards,1
+-H8PRdCbQmXkh6-S6tTrjg,Charlotte Vapes,University City,"9510 University City Blvd, Ste 201",Charlotte,NC,28213,35.3058,-80.7234,3.5,8,1,-H8PRdCbQmXkh6-S6tTrjg,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": false, ""valet"": false}"
+-H8PRdCbQmXkh6-S6tTrjg,Charlotte Vapes,University City,"9510 University City Blvd, Ste 201",Charlotte,NC,28213,35.3058,-80.7234,3.5,8,1,-H8PRdCbQmXkh6-S6tTrjg,RestaurantsPriceRange2,2
+-H8PRdCbQmXkh6-S6tTrjg,Charlotte Vapes,University City,"9510 University City Blvd, Ste 201",Charlotte,NC,28213,35.3058,-80.7234,3.5,8,1,-H8PRdCbQmXkh6-S6tTrjg,WheelchairAccessible,1
+-Hc05Apc21SUch8MraU2Lw,Three Little Birds,South End,"2115 Southend Dr, Ste 103",Charlotte,NC,28203,35.2069,-80.8597,3.5,9,1,-Hc05Apc21SUch8MraU2Lw,BikeParking,1
+-Hc05Apc21SUch8MraU2Lw,Three Little Birds,South End,"2115 Southend Dr, Ste 103",Charlotte,NC,28203,35.2069,-80.8597,3.5,9,1,-Hc05Apc21SUch8MraU2Lw,BusinessAcceptsCreditCards,1
+-Hc05Apc21SUch8MraU2Lw,Three Little Birds,South End,"2115 Southend Dr, Ste 103",Charlotte,NC,28203,35.2069,-80.8597,3.5,9,1,-Hc05Apc21SUch8MraU2Lw,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": true, ""valet"": false}"
+-Hc05Apc21SUch8MraU2Lw,Three Little Birds,South End,"2115 Southend Dr, Ste 103",Charlotte,NC,28203,35.2069,-80.8597,3.5,9,1,-Hc05Apc21SUch8MraU2Lw,DogsAllowed,1
+-Hc05Apc21SUch8MraU2Lw,Three Little Birds,South End,"2115 Southend Dr, Ste 103",Charlotte,NC,28203,35.2069,-80.8597,3.5,9,1,-Hc05Apc21SUch8MraU2Lw,RestaurantsPriceRange2,2
+-Hc05Apc21SUch8MraU2Lw,Three Little Birds,South End,"2115 Southend Dr, Ste 103",Charlotte,NC,28203,35.2069,-80.8597,3.5,9,1,-Hc05Apc21SUch8MraU2Lw,WheelchairAccessible,1
+-hGjrHwQrdsZvEcHaJSFGA,Her Imports,Fourth Ward,"401 N Tryon St, Ste 1117",Charlotte,NC,28202,35.2302,-80.8396,3.5,4,1,-hGjrHwQrdsZvEcHaJSFGA,BikeParking,1
+-hGjrHwQrdsZvEcHaJSFGA,Her Imports,Fourth Ward,"401 N Tryon St, Ste 1117",Charlotte,NC,28202,35.2302,-80.8396,3.5,4,1,-hGjrHwQrdsZvEcHaJSFGA,BusinessAcceptsCreditCards,1
+-hGjrHwQrdsZvEcHaJSFGA,Her Imports,Fourth Ward,"401 N Tryon St, Ste 1117",Charlotte,NC,28202,35.2302,-80.8396,3.5,4,1,-hGjrHwQrdsZvEcHaJSFGA,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": false, ""valet"": false}"
+-hGjrHwQrdsZvEcHaJSFGA,Her Imports,Fourth Ward,"401 N Tryon St, Ste 1117",Charlotte,NC,28202,35.2302,-80.8396,3.5,4,1,-hGjrHwQrdsZvEcHaJSFGA,ByAppointmentOnly,0
+-hGjrHwQrdsZvEcHaJSFGA,Her Imports,Fourth Ward,"401 N Tryon St, Ste 1117",Charlotte,NC,28202,35.2302,-80.8396,3.5,4,1,-hGjrHwQrdsZvEcHaJSFGA,GoodForKids,0
+-hGjrHwQrdsZvEcHaJSFGA,Her Imports,Fourth Ward,"401 N Tryon St, Ste 1117",Charlotte,NC,28202,35.2302,-80.8396,3.5,4,1,-hGjrHwQrdsZvEcHaJSFGA,RestaurantsPriceRange2,2
+-HIwk8B2mWzGS84vuM8ybA,Cook Out,Eastland,6438 Albemarle Rd,Charlotte,NC,28212,35.2021,-80.7349,3.5,25,1,-HIwk8B2mWzGS84vuM8ybA,Alcohol,none
+-HIwk8B2mWzGS84vuM8ybA,Cook Out,Eastland,6438 Albemarle Rd,Charlotte,NC,28212,35.2021,-80.7349,3.5,25,1,-HIwk8B2mWzGS84vuM8ybA,Ambience,"{""romantic"": false, ""intimate"": false, ""classy"": false, ""hipster"": false, ""divey"": false, ""touristy"": false, ""trendy"": false, ""upscale"": false, ""casual"": false}"
+-HIwk8B2mWzGS84vuM8ybA,Cook Out,Eastland,6438 Albemarle Rd,Charlotte,NC,28212,35.2021,-80.7349,3.5,25,1,-HIwk8B2mWzGS84vuM8ybA,BikeParking,1
+-HIwk8B2mWzGS84vuM8ybA,Cook Out,Eastland,6438 Albemarle Rd,Charlotte,NC,28212,35.2021,-80.7349,3.5,25,1,-HIwk8B2mWzGS84vuM8ybA,BusinessAcceptsCreditCards,1
+-HIwk8B2mWzGS84vuM8ybA,Cook Out,Eastland,6438 Albemarle Rd,Charlotte,NC,28212,35.2021,-80.7349,3.5,25,1,-HIwk8B2mWzGS84vuM8ybA,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": true, ""valet"": false}"
+-HIwk8B2mWzGS84vuM8ybA,Cook Out,Eastland,6438 Albemarle Rd,Charlotte,NC,28212,35.2021,-80.7349,3.5,25,1,-HIwk8B2mWzGS84vuM8ybA,BYOBCorkage,yes_free
+-HIwk8B2mWzGS84vuM8ybA,Cook Out,Eastland,6438 Albemarle Rd,Charlotte,NC,28212,35.2021,-80.7349,3.5,25,1,-HIwk8B2mWzGS84vuM8ybA,Caters,0
+-HIwk8B2mWzGS84vuM8ybA,Cook Out,Eastland,6438 Albemarle Rd,Charlotte,NC,28212,35.2021,-80.7349,3.5,25,1,-HIwk8B2mWzGS84vuM8ybA,Corkage,0
+-HIwk8B2mWzGS84vuM8ybA,Cook Out,Eastland,6438 Albemarle Rd,Charlotte,NC,28212,35.2021,-80.7349,3.5,25,1,-HIwk8B2mWzGS84vuM8ybA,DriveThru,1
+-HIwk8B2mWzGS84vuM8ybA,Cook Out,Eastland,6438 Albemarle Rd,Charlotte,NC,28212,35.2021,-80.7349,3.5,25,1,-HIwk8B2mWzGS84vuM8ybA,GoodForKids,1
+-HIwk8B2mWzGS84vuM8ybA,Cook Out,Eastland,6438 Albemarle Rd,Charlotte,NC,28212,35.2021,-80.7349,3.5,25,1,-HIwk8B2mWzGS84vuM8ybA,GoodForMeal,"{""dessert"": true, ""latenight"": true, ""lunch"": true, ""dinner"": true, ""breakfast"": false, ""brunch"": false}"
+-HIwk8B2mWzGS84vuM8ybA,Cook Out,Eastland,6438 Albemarle Rd,Charlotte,NC,28212,35.2021,-80.7349,3.5,25,1,-HIwk8B2mWzGS84vuM8ybA,HasTV,0
+-HIwk8B2mWzGS84vuM8ybA,Cook Out,Eastland,6438 Albemarle Rd,Charlotte,NC,28212,35.2021,-80.7349,3.5,25,1,-HIwk8B2mWzGS84vuM8ybA,NoiseLevel,quiet
+-HIwk8B2mWzGS84vuM8ybA,Cook Out,Eastland,6438 Albemarle Rd,Charlotte,NC,28212,35.2021,-80.7349,3.5,25,1,-HIwk8B2mWzGS84vuM8ybA,OutdoorSeating,1
+-HIwk8B2mWzGS84vuM8ybA,Cook Out,Eastland,6438 Albemarle Rd,Charlotte,NC,28212,35.2021,-80.7349,3.5,25,1,-HIwk8B2mWzGS84vuM8ybA,RestaurantsAttire,casual
+-HIwk8B2mWzGS84vuM8ybA,Cook Out,Eastland,6438 Albemarle Rd,Charlotte,NC,28212,35.2021,-80.7349,3.5,25,1,-HIwk8B2mWzGS84vuM8ybA,RestaurantsCounterService,1
+-HIwk8B2mWzGS84vuM8ybA,Cook Out,Eastland,6438 Albemarle Rd,Charlotte,NC,28212,35.2021,-80.7349,3.5,25,1,-HIwk8B2mWzGS84vuM8ybA,RestaurantsDelivery,0
+-HIwk8B2mWzGS84vuM8ybA,Cook Out,Eastland,6438 Albemarle Rd,Charlotte,NC,28212,35.2021,-80.7349,3.5,25,1,-HIwk8B2mWzGS84vuM8ybA,RestaurantsGoodForGroups,1
+-HIwk8B2mWzGS84vuM8ybA,Cook Out,Eastland,6438 Albemarle Rd,Charlotte,NC,28212,35.2021,-80.7349,3.5,25,1,-HIwk8B2mWzGS84vuM8ybA,RestaurantsPriceRange2,1
+-HIwk8B2mWzGS84vuM8ybA,Cook Out,Eastland,6438 Albemarle Rd,Charlotte,NC,28212,35.2021,-80.7349,3.5,25,1,-HIwk8B2mWzGS84vuM8ybA,RestaurantsReservations,0
+-HIwk8B2mWzGS84vuM8ybA,Cook Out,Eastland,6438 Albemarle Rd,Charlotte,NC,28212,35.2021,-80.7349,3.5,25,1,-HIwk8B2mWzGS84vuM8ybA,RestaurantsTableService,0
+-HIwk8B2mWzGS84vuM8ybA,Cook Out,Eastland,6438 Albemarle Rd,Charlotte,NC,28212,35.2021,-80.7349,3.5,25,1,-HIwk8B2mWzGS84vuM8ybA,RestaurantsTakeOut,1
+-HIwk8B2mWzGS84vuM8ybA,Cook Out,Eastland,6438 Albemarle Rd,Charlotte,NC,28212,35.2021,-80.7349,3.5,25,1,-HIwk8B2mWzGS84vuM8ybA,WheelchairAccessible,1
+-HIwk8B2mWzGS84vuM8ybA,Cook Out,Eastland,6438 Albemarle Rd,Charlotte,NC,28212,35.2021,-80.7349,3.5,25,1,-HIwk8B2mWzGS84vuM8ybA,WiFi,no
+-hTlljcZfYbLuv9pInIZhg,Nicky's Kitchen,,2416 Freedom Dr,Charlotte,NC,28208,35.2363,-80.8786,4,9,1,-hTlljcZfYbLuv9pInIZhg,Alcohol,none
+-hTlljcZfYbLuv9pInIZhg,Nicky's Kitchen,,2416 Freedom Dr,Charlotte,NC,28208,35.2363,-80.8786,4,9,1,-hTlljcZfYbLuv9pInIZhg,Ambience,"{""romantic"": false, ""intimate"": false, ""classy"": false, ""hipster"": false, ""divey"": false, ""touristy"": false, ""trendy"": false, ""upscale"": false, ""casual"": false}"
+-hTlljcZfYbLuv9pInIZhg,Nicky's Kitchen,,2416 Freedom Dr,Charlotte,NC,28208,35.2363,-80.8786,4,9,1,-hTlljcZfYbLuv9pInIZhg,BikeParking,1
+-hTlljcZfYbLuv9pInIZhg,Nicky's Kitchen,,2416 Freedom Dr,Charlotte,NC,28208,35.2363,-80.8786,4,9,1,-hTlljcZfYbLuv9pInIZhg,BusinessAcceptsCreditCards,1
+-hTlljcZfYbLuv9pInIZhg,Nicky's Kitchen,,2416 Freedom Dr,Charlotte,NC,28208,35.2363,-80.8786,4,9,1,-hTlljcZfYbLuv9pInIZhg,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": false, ""valet"": false}"
+-hTlljcZfYbLuv9pInIZhg,Nicky's Kitchen,,2416 Freedom Dr,Charlotte,NC,28208,35.2363,-80.8786,4,9,1,-hTlljcZfYbLuv9pInIZhg,Caters,0
+-hTlljcZfYbLuv9pInIZhg,Nicky's Kitchen,,2416 Freedom Dr,Charlotte,NC,28208,35.2363,-80.8786,4,9,1,-hTlljcZfYbLuv9pInIZhg,GoodForKids,1
+-hTlljcZfYbLuv9pInIZhg,Nicky's Kitchen,,2416 Freedom Dr,Charlotte,NC,28208,35.2363,-80.8786,4,9,1,-hTlljcZfYbLuv9pInIZhg,GoodForMeal,"{""dessert"": false, ""latenight"": false, ""lunch"": false, ""dinner"": false, ""breakfast"": false, ""brunch"": true}"
+-hTlljcZfYbLuv9pInIZhg,Nicky's Kitchen,,2416 Freedom Dr,Charlotte,NC,28208,35.2363,-80.8786,4,9,1,-hTlljcZfYbLuv9pInIZhg,HasTV,1
+-hTlljcZfYbLuv9pInIZhg,Nicky's Kitchen,,2416 Freedom Dr,Charlotte,NC,28208,35.2363,-80.8786,4,9,1,-hTlljcZfYbLuv9pInIZhg,NoiseLevel,quiet
+-hTlljcZfYbLuv9pInIZhg,Nicky's Kitchen,,2416 Freedom Dr,Charlotte,NC,28208,35.2363,-80.8786,4,9,1,-hTlljcZfYbLuv9pInIZhg,OutdoorSeating,0
+-hTlljcZfYbLuv9pInIZhg,Nicky's Kitchen,,2416 Freedom Dr,Charlotte,NC,28208,35.2363,-80.8786,4,9,1,-hTlljcZfYbLuv9pInIZhg,RestaurantsAttire,casual
+-hTlljcZfYbLuv9pInIZhg,Nicky's Kitchen,,2416 Freedom Dr,Charlotte,NC,28208,35.2363,-80.8786,4,9,1,-hTlljcZfYbLuv9pInIZhg,RestaurantsDelivery,0
+-hTlljcZfYbLuv9pInIZhg,Nicky's Kitchen,,2416 Freedom Dr,Charlotte,NC,28208,35.2363,-80.8786,4,9,1,-hTlljcZfYbLuv9pInIZhg,RestaurantsGoodForGroups,1
+-hTlljcZfYbLuv9pInIZhg,Nicky's Kitchen,,2416 Freedom Dr,Charlotte,NC,28208,35.2363,-80.8786,4,9,1,-hTlljcZfYbLuv9pInIZhg,RestaurantsPriceRange2,1
+-hTlljcZfYbLuv9pInIZhg,Nicky's Kitchen,,2416 Freedom Dr,Charlotte,NC,28208,35.2363,-80.8786,4,9,1,-hTlljcZfYbLuv9pInIZhg,RestaurantsReservations,0
+-hTlljcZfYbLuv9pInIZhg,Nicky's Kitchen,,2416 Freedom Dr,Charlotte,NC,28208,35.2363,-80.8786,4,9,1,-hTlljcZfYbLuv9pInIZhg,RestaurantsTableService,1
+-hTlljcZfYbLuv9pInIZhg,Nicky's Kitchen,,2416 Freedom Dr,Charlotte,NC,28208,35.2363,-80.8786,4,9,1,-hTlljcZfYbLuv9pInIZhg,RestaurantsTakeOut,1
+-hTlljcZfYbLuv9pInIZhg,Nicky's Kitchen,,2416 Freedom Dr,Charlotte,NC,28208,35.2363,-80.8786,4,9,1,-hTlljcZfYbLuv9pInIZhg,WiFi,no
+-i1wSFSaGMyxZeltm9eIvQ,Take 5 Oil Change,Highland Creek,1836 West Mallard Creek Church Road,Charlotte,NC,28262,35.3355,-80.7534,3,28,1,-i1wSFSaGMyxZeltm9eIvQ,BusinessAcceptsCreditCards,1
+-I27yVw2x_-31_OOMSH02w,Local Loaf,First Ward,224 E 7th St,Charlotte,NC,28202,35.2278,-80.8382,4,183,1,-I27yVw2x_-31_OOMSH02w,Alcohol,beer_and_wine
+-I27yVw2x_-31_OOMSH02w,Local Loaf,First Ward,224 E 7th St,Charlotte,NC,28202,35.2278,-80.8382,4,183,1,-I27yVw2x_-31_OOMSH02w,Ambience,"{""romantic"": false, ""intimate"": false, ""classy"": false, ""hipster"": false, ""divey"": false, ""touristy"": false, ""trendy"": false, ""upscale"": false, ""casual"": true}"
+-I27yVw2x_-31_OOMSH02w,Local Loaf,First Ward,224 E 7th St,Charlotte,NC,28202,35.2278,-80.8382,4,183,1,-I27yVw2x_-31_OOMSH02w,BikeParking,1
+-I27yVw2x_-31_OOMSH02w,Local Loaf,First Ward,224 E 7th St,Charlotte,NC,28202,35.2278,-80.8382,4,183,1,-I27yVw2x_-31_OOMSH02w,BusinessAcceptsBitcoin,0
+-I27yVw2x_-31_OOMSH02w,Local Loaf,First Ward,224 E 7th St,Charlotte,NC,28202,35.2278,-80.8382,4,183,1,-I27yVw2x_-31_OOMSH02w,BusinessAcceptsCreditCards,1
+-I27yVw2x_-31_OOMSH02w,Local Loaf,First Ward,224 E 7th St,Charlotte,NC,28202,35.2278,-80.8382,4,183,1,-I27yVw2x_-31_OOMSH02w,BusinessParking,"{""garage"": true, ""street"": false, ""validated"": true, ""lot"": true, ""valet"": false}"
+-I27yVw2x_-31_OOMSH02w,Local Loaf,First Ward,224 E 7th St,Charlotte,NC,28202,35.2278,-80.8382,4,183,1,-I27yVw2x_-31_OOMSH02w,Caters,1
+-I27yVw2x_-31_OOMSH02w,Local Loaf,First Ward,224 E 7th St,Charlotte,NC,28202,35.2278,-80.8382,4,183,1,-I27yVw2x_-31_OOMSH02w,DogsAllowed,0
+-I27yVw2x_-31_OOMSH02w,Local Loaf,First Ward,224 E 7th St,Charlotte,NC,28202,35.2278,-80.8382,4,183,1,-I27yVw2x_-31_OOMSH02w,GoodForKids,1
+-I27yVw2x_-31_OOMSH02w,Local Loaf,First Ward,224 E 7th St,Charlotte,NC,28202,35.2278,-80.8382,4,183,1,-I27yVw2x_-31_OOMSH02w,GoodForMeal,"{""dessert"": false, ""latenight"": false, ""lunch"": true, ""dinner"": false, ""breakfast"": true, ""brunch"": true}"
+-I27yVw2x_-31_OOMSH02w,Local Loaf,First Ward,224 E 7th St,Charlotte,NC,28202,35.2278,-80.8382,4,183,1,-I27yVw2x_-31_OOMSH02w,HasTV,0
+-I27yVw2x_-31_OOMSH02w,Local Loaf,First Ward,224 E 7th St,Charlotte,NC,28202,35.2278,-80.8382,4,183,1,-I27yVw2x_-31_OOMSH02w,NoiseLevel,average
+-I27yVw2x_-31_OOMSH02w,Local Loaf,First Ward,224 E 7th St,Charlotte,NC,28202,35.2278,-80.8382,4,183,1,-I27yVw2x_-31_OOMSH02w,OutdoorSeating,1
+-I27yVw2x_-31_OOMSH02w,Local Loaf,First Ward,224 E 7th St,Charlotte,NC,28202,35.2278,-80.8382,4,183,1,-I27yVw2x_-31_OOMSH02w,RestaurantsAttire,casual
+-I27yVw2x_-31_OOMSH02w,Local Loaf,First Ward,224 E 7th St,Charlotte,NC,28202,35.2278,-80.8382,4,183,1,-I27yVw2x_-31_OOMSH02w,RestaurantsDelivery,0
+-I27yVw2x_-31_OOMSH02w,Local Loaf,First Ward,224 E 7th St,Charlotte,NC,28202,35.2278,-80.8382,4,183,1,-I27yVw2x_-31_OOMSH02w,RestaurantsGoodForGroups,1
+-I27yVw2x_-31_OOMSH02w,Local Loaf,First Ward,224 E 7th St,Charlotte,NC,28202,35.2278,-80.8382,4,183,1,-I27yVw2x_-31_OOMSH02w,RestaurantsPriceRange2,2
+-I27yVw2x_-31_OOMSH02w,Local Loaf,First Ward,224 E 7th St,Charlotte,NC,28202,35.2278,-80.8382,4,183,1,-I27yVw2x_-31_OOMSH02w,RestaurantsReservations,0
+-I27yVw2x_-31_OOMSH02w,Local Loaf,First Ward,224 E 7th St,Charlotte,NC,28202,35.2278,-80.8382,4,183,1,-I27yVw2x_-31_OOMSH02w,RestaurantsTableService,1
+-I27yVw2x_-31_OOMSH02w,Local Loaf,First Ward,224 E 7th St,Charlotte,NC,28202,35.2278,-80.8382,4,183,1,-I27yVw2x_-31_OOMSH02w,RestaurantsTakeOut,1
+-I27yVw2x_-31_OOMSH02w,Local Loaf,First Ward,224 E 7th St,Charlotte,NC,28202,35.2278,-80.8382,4,183,1,-I27yVw2x_-31_OOMSH02w,WheelchairAccessible,1
+-I27yVw2x_-31_OOMSH02w,Local Loaf,First Ward,224 E 7th St,Charlotte,NC,28202,35.2278,-80.8382,4,183,1,-I27yVw2x_-31_OOMSH02w,WiFi,free
+-iE-wYKjSzNKp_9Q9G3W4w,Pier 51,,"8332 Pineville-Matthews Rd, Ste 201-203",Charlotte,NC,28226,35.0885,-80.8607,3,30,0,-iE-wYKjSzNKp_9Q9G3W4w,Alcohol,none
+-iE-wYKjSzNKp_9Q9G3W4w,Pier 51,,"8332 Pineville-Matthews Rd, Ste 201-203",Charlotte,NC,28226,35.0885,-80.8607,3,30,0,-iE-wYKjSzNKp_9Q9G3W4w,Ambience,"{""romantic"": false, ""intimate"": false, ""classy"": false, ""hipster"": false, ""divey"": false, ""touristy"": false, ""trendy"": false, ""upscale"": false, ""casual"": true}"
+-iE-wYKjSzNKp_9Q9G3W4w,Pier 51,,"8332 Pineville-Matthews Rd, Ste 201-203",Charlotte,NC,28226,35.0885,-80.8607,3,30,0,-iE-wYKjSzNKp_9Q9G3W4w,BikeParking,1
+-iE-wYKjSzNKp_9Q9G3W4w,Pier 51,,"8332 Pineville-Matthews Rd, Ste 201-203",Charlotte,NC,28226,35.0885,-80.8607,3,30,0,-iE-wYKjSzNKp_9Q9G3W4w,BusinessAcceptsCreditCards,1
+-iE-wYKjSzNKp_9Q9G3W4w,Pier 51,,"8332 Pineville-Matthews Rd, Ste 201-203",Charlotte,NC,28226,35.0885,-80.8607,3,30,0,-iE-wYKjSzNKp_9Q9G3W4w,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": true, ""valet"": false}"
+-iE-wYKjSzNKp_9Q9G3W4w,Pier 51,,"8332 Pineville-Matthews Rd, Ste 201-203",Charlotte,NC,28226,35.0885,-80.8607,3,30,0,-iE-wYKjSzNKp_9Q9G3W4w,GoodForKids,1
+-iE-wYKjSzNKp_9Q9G3W4w,Pier 51,,"8332 Pineville-Matthews Rd, Ste 201-203",Charlotte,NC,28226,35.0885,-80.8607,3,30,0,-iE-wYKjSzNKp_9Q9G3W4w,GoodForMeal,"{""dessert"": false, ""latenight"": false, ""lunch"": false, ""dinner"": true, ""breakfast"": false, ""brunch"": false}"
+-iE-wYKjSzNKp_9Q9G3W4w,Pier 51,,"8332 Pineville-Matthews Rd, Ste 201-203",Charlotte,NC,28226,35.0885,-80.8607,3,30,0,-iE-wYKjSzNKp_9Q9G3W4w,HasTV,1
+-iE-wYKjSzNKp_9Q9G3W4w,Pier 51,,"8332 Pineville-Matthews Rd, Ste 201-203",Charlotte,NC,28226,35.0885,-80.8607,3,30,0,-iE-wYKjSzNKp_9Q9G3W4w,NoiseLevel,average
+-iE-wYKjSzNKp_9Q9G3W4w,Pier 51,,"8332 Pineville-Matthews Rd, Ste 201-203",Charlotte,NC,28226,35.0885,-80.8607,3,30,0,-iE-wYKjSzNKp_9Q9G3W4w,OutdoorSeating,0
+-iE-wYKjSzNKp_9Q9G3W4w,Pier 51,,"8332 Pineville-Matthews Rd, Ste 201-203",Charlotte,NC,28226,35.0885,-80.8607,3,30,0,-iE-wYKjSzNKp_9Q9G3W4w,RestaurantsAttire,casual
+-iE-wYKjSzNKp_9Q9G3W4w,Pier 51,,"8332 Pineville-Matthews Rd, Ste 201-203",Charlotte,NC,28226,35.0885,-80.8607,3,30,0,-iE-wYKjSzNKp_9Q9G3W4w,RestaurantsDelivery,0
+-iE-wYKjSzNKp_9Q9G3W4w,Pier 51,,"8332 Pineville-Matthews Rd, Ste 201-203",Charlotte,NC,28226,35.0885,-80.8607,3,30,0,-iE-wYKjSzNKp_9Q9G3W4w,RestaurantsGoodForGroups,1
+-iE-wYKjSzNKp_9Q9G3W4w,Pier 51,,"8332 Pineville-Matthews Rd, Ste 201-203",Charlotte,NC,28226,35.0885,-80.8607,3,30,0,-iE-wYKjSzNKp_9Q9G3W4w,RestaurantsPriceRange2,2
+-iE-wYKjSzNKp_9Q9G3W4w,Pier 51,,"8332 Pineville-Matthews Rd, Ste 201-203",Charlotte,NC,28226,35.0885,-80.8607,3,30,0,-iE-wYKjSzNKp_9Q9G3W4w,RestaurantsReservations,1
+-iE-wYKjSzNKp_9Q9G3W4w,Pier 51,,"8332 Pineville-Matthews Rd, Ste 201-203",Charlotte,NC,28226,35.0885,-80.8607,3,30,0,-iE-wYKjSzNKp_9Q9G3W4w,RestaurantsTableService,1
+-iE-wYKjSzNKp_9Q9G3W4w,Pier 51,,"8332 Pineville-Matthews Rd, Ste 201-203",Charlotte,NC,28226,35.0885,-80.8607,3,30,0,-iE-wYKjSzNKp_9Q9G3W4w,RestaurantsTakeOut,1
+-iE-wYKjSzNKp_9Q9G3W4w,Pier 51,,"8332 Pineville-Matthews Rd, Ste 201-203",Charlotte,NC,28226,35.0885,-80.8607,3,30,0,-iE-wYKjSzNKp_9Q9G3W4w,WheelchairAccessible,1
+-IM_8ZQ1uxXXr_ASII9k3g,Dentistry of the Carolinas - SouthPark,South Park,"5970 Fairview Rd, Ste 120",Charlotte,NC,28210,35.1503,-80.8405,3.5,6,1,-IM_8ZQ1uxXXr_ASII9k3g,AcceptsInsurance,1
+-IM_8ZQ1uxXXr_ASII9k3g,Dentistry of the Carolinas - SouthPark,South Park,"5970 Fairview Rd, Ste 120",Charlotte,NC,28210,35.1503,-80.8405,3.5,6,1,-IM_8ZQ1uxXXr_ASII9k3g,BusinessAcceptsCreditCards,1
+-IM_8ZQ1uxXXr_ASII9k3g,Dentistry of the Carolinas - SouthPark,South Park,"5970 Fairview Rd, Ste 120",Charlotte,NC,28210,35.1503,-80.8405,3.5,6,1,-IM_8ZQ1uxXXr_ASII9k3g,ByAppointmentOnly,1
+-J3_fJ9_p_12aVYA4sSBIA,Revival Hair Lounge,Ballantyne,"12335 N Community House Rd, Ste D-9",Charlotte,NC,28277,35.0698,-80.8423,5,7,1,-J3_fJ9_p_12aVYA4sSBIA,BikeParking,1
+-J3_fJ9_p_12aVYA4sSBIA,Revival Hair Lounge,Ballantyne,"12335 N Community House Rd, Ste D-9",Charlotte,NC,28277,35.0698,-80.8423,5,7,1,-J3_fJ9_p_12aVYA4sSBIA,BusinessAcceptsCreditCards,1
+-J3_fJ9_p_12aVYA4sSBIA,Revival Hair Lounge,Ballantyne,"12335 N Community House Rd, Ste D-9",Charlotte,NC,28277,35.0698,-80.8423,5,7,1,-J3_fJ9_p_12aVYA4sSBIA,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": false, ""valet"": false}"
+-J3_fJ9_p_12aVYA4sSBIA,Revival Hair Lounge,Ballantyne,"12335 N Community House Rd, Ste D-9",Charlotte,NC,28277,35.0698,-80.8423,5,7,1,-J3_fJ9_p_12aVYA4sSBIA,ByAppointmentOnly,1
+-J3_fJ9_p_12aVYA4sSBIA,Revival Hair Lounge,Ballantyne,"12335 N Community House Rd, Ste D-9",Charlotte,NC,28277,35.0698,-80.8423,5,7,1,-J3_fJ9_p_12aVYA4sSBIA,GoodForKids,1
+-J3_fJ9_p_12aVYA4sSBIA,Revival Hair Lounge,Ballantyne,"12335 N Community House Rd, Ste D-9",Charlotte,NC,28277,35.0698,-80.8423,5,7,1,-J3_fJ9_p_12aVYA4sSBIA,RestaurantsPriceRange2,2
+-J3_fJ9_p_12aVYA4sSBIA,Revival Hair Lounge,Ballantyne,"12335 N Community House Rd, Ste D-9",Charlotte,NC,28277,35.0698,-80.8423,5,7,1,-J3_fJ9_p_12aVYA4sSBIA,WheelchairAccessible,1
+-J6xWAvDJJW4zb7J9YpYOA,Pizzeria Uno,Uptown,401 S Tryon St,Charlotte,NC,28202,35.2246,-80.8464,2,8,0,-J6xWAvDJJW4zb7J9YpYOA,Alcohol,full_bar
+-J6xWAvDJJW4zb7J9YpYOA,Pizzeria Uno,Uptown,401 S Tryon St,Charlotte,NC,28202,35.2246,-80.8464,2,8,0,-J6xWAvDJJW4zb7J9YpYOA,BusinessAcceptsCreditCards,1
+-J6xWAvDJJW4zb7J9YpYOA,Pizzeria Uno,Uptown,401 S Tryon St,Charlotte,NC,28202,35.2246,-80.8464,2,8,0,-J6xWAvDJJW4zb7J9YpYOA,BusinessParking,"{""garage"": true, ""street"": false, ""validated"": false, ""lot"": false, ""valet"": false}"
+-J6xWAvDJJW4zb7J9YpYOA,Pizzeria Uno,Uptown,401 S Tryon St,Charlotte,NC,28202,35.2246,-80.8464,2,8,0,-J6xWAvDJJW4zb7J9YpYOA,BYOB,0
+-J6xWAvDJJW4zb7J9YpYOA,Pizzeria Uno,Uptown,401 S Tryon St,Charlotte,NC,28202,35.2246,-80.8464,2,8,0,-J6xWAvDJJW4zb7J9YpYOA,BYOBCorkage,no
+-J6xWAvDJJW4zb7J9YpYOA,Pizzeria Uno,Uptown,401 S Tryon St,Charlotte,NC,28202,35.2246,-80.8464,2,8,0,-J6xWAvDJJW4zb7J9YpYOA,GoodForKids,1
+-J6xWAvDJJW4zb7J9YpYOA,Pizzeria Uno,Uptown,401 S Tryon St,Charlotte,NC,28202,35.2246,-80.8464,2,8,0,-J6xWAvDJJW4zb7J9YpYOA,GoodForMeal,"{""dessert"": false, ""latenight"": false, ""lunch"": false, ""dinner"": false, ""breakfast"": false, ""brunch"": false}"
+-J6xWAvDJJW4zb7J9YpYOA,Pizzeria Uno,Uptown,401 S Tryon St,Charlotte,NC,28202,35.2246,-80.8464,2,8,0,-J6xWAvDJJW4zb7J9YpYOA,OutdoorSeating,1
+-J6xWAvDJJW4zb7J9YpYOA,Pizzeria Uno,Uptown,401 S Tryon St,Charlotte,NC,28202,35.2246,-80.8464,2,8,0,-J6xWAvDJJW4zb7J9YpYOA,RestaurantsAttire,casual
+-J6xWAvDJJW4zb7J9YpYOA,Pizzeria Uno,Uptown,401 S Tryon St,Charlotte,NC,28202,35.2246,-80.8464,2,8,0,-J6xWAvDJJW4zb7J9YpYOA,RestaurantsGoodForGroups,1
+-J6xWAvDJJW4zb7J9YpYOA,Pizzeria Uno,Uptown,401 S Tryon St,Charlotte,NC,28202,35.2246,-80.8464,2,8,0,-J6xWAvDJJW4zb7J9YpYOA,RestaurantsPriceRange2,2
+-J6xWAvDJJW4zb7J9YpYOA,Pizzeria Uno,Uptown,401 S Tryon St,Charlotte,NC,28202,35.2246,-80.8464,2,8,0,-J6xWAvDJJW4zb7J9YpYOA,RestaurantsReservations,0
+-J6xWAvDJJW4zb7J9YpYOA,Pizzeria Uno,Uptown,401 S Tryon St,Charlotte,NC,28202,35.2246,-80.8464,2,8,0,-J6xWAvDJJW4zb7J9YpYOA,RestaurantsTableService,1
+-J6xWAvDJJW4zb7J9YpYOA,Pizzeria Uno,Uptown,401 S Tryon St,Charlotte,NC,28202,35.2246,-80.8464,2,8,0,-J6xWAvDJJW4zb7J9YpYOA,RestaurantsTakeOut,1
+-jgRM1SbG3J5MYz8aa0j1w,MW Properties,,"10610 Metromont Pkwy, Ste 204",Charlotte,NC,28269,35.3532,-80.8395,2,13,1,-jgRM1SbG3J5MYz8aa0j1w,BusinessAcceptsBitcoin,0
+-jgRM1SbG3J5MYz8aa0j1w,MW Properties,,"10610 Metromont Pkwy, Ste 204",Charlotte,NC,28269,35.3532,-80.8395,2,13,1,-jgRM1SbG3J5MYz8aa0j1w,BusinessAcceptsCreditCards,1
+-jgRM1SbG3J5MYz8aa0j1w,MW Properties,,"10610 Metromont Pkwy, Ste 204",Charlotte,NC,28269,35.3532,-80.8395,2,13,1,-jgRM1SbG3J5MYz8aa0j1w,ByAppointmentOnly,1
+-jkCPnCHOaYgmM1cyeNxTA,Charlotte Swim & Racquet Club,Cotswold,1000 Lomax Ave,Charlotte,NC,28211,35.1821,-80.7854,4.5,6,1,-jkCPnCHOaYgmM1cyeNxTA,BikeParking,1
+-jkCPnCHOaYgmM1cyeNxTA,Charlotte Swim & Racquet Club,Cotswold,1000 Lomax Ave,Charlotte,NC,28211,35.1821,-80.7854,4.5,6,1,-jkCPnCHOaYgmM1cyeNxTA,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": false, ""valet"": false}"
+-jkCPnCHOaYgmM1cyeNxTA,Charlotte Swim & Racquet Club,Cotswold,1000 Lomax Ave,Charlotte,NC,28211,35.1821,-80.7854,4.5,6,1,-jkCPnCHOaYgmM1cyeNxTA,ByAppointmentOnly,1
+-jkCPnCHOaYgmM1cyeNxTA,Charlotte Swim & Racquet Club,Cotswold,1000 Lomax Ave,Charlotte,NC,28211,35.1821,-80.7854,4.5,6,1,-jkCPnCHOaYgmM1cyeNxTA,GoodForKids,1
+-KqwcJ10CUzl-hEwgwGhUA,Jack in the Box,Cotswold,4505 Randolph Rd,Charlotte,NC,28211,35.1758,-80.7982,1.5,14,1,-KqwcJ10CUzl-hEwgwGhUA,Alcohol,none
+-KqwcJ10CUzl-hEwgwGhUA,Jack in the Box,Cotswold,4505 Randolph Rd,Charlotte,NC,28211,35.1758,-80.7982,1.5,14,1,-KqwcJ10CUzl-hEwgwGhUA,Ambience,"{""romantic"": false, ""intimate"": false, ""classy"": false, ""hipster"": false, ""divey"": false, ""touristy"": false, ""trendy"": false, ""upscale"": false, ""casual"": false}"
+-KqwcJ10CUzl-hEwgwGhUA,Jack in the Box,Cotswold,4505 Randolph Rd,Charlotte,NC,28211,35.1758,-80.7982,1.5,14,1,-KqwcJ10CUzl-hEwgwGhUA,BikeParking,1
+-KqwcJ10CUzl-hEwgwGhUA,Jack in the Box,Cotswold,4505 Randolph Rd,Charlotte,NC,28211,35.1758,-80.7982,1.5,14,1,-KqwcJ10CUzl-hEwgwGhUA,BusinessAcceptsCreditCards,1
+-KqwcJ10CUzl-hEwgwGhUA,Jack in the Box,Cotswold,4505 Randolph Rd,Charlotte,NC,28211,35.1758,-80.7982,1.5,14,1,-KqwcJ10CUzl-hEwgwGhUA,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": false, ""valet"": false}"
+-KqwcJ10CUzl-hEwgwGhUA,Jack in the Box,Cotswold,4505 Randolph Rd,Charlotte,NC,28211,35.1758,-80.7982,1.5,14,1,-KqwcJ10CUzl-hEwgwGhUA,DriveThru,1
+-KqwcJ10CUzl-hEwgwGhUA,Jack in the Box,Cotswold,4505 Randolph Rd,Charlotte,NC,28211,35.1758,-80.7982,1.5,14,1,-KqwcJ10CUzl-hEwgwGhUA,GoodForKids,1
+-KqwcJ10CUzl-hEwgwGhUA,Jack in the Box,Cotswold,4505 Randolph Rd,Charlotte,NC,28211,35.1758,-80.7982,1.5,14,1,-KqwcJ10CUzl-hEwgwGhUA,GoodForMeal,"{""dessert"": false, ""latenight"": false, ""lunch"": false, ""dinner"": false, ""breakfast"": false, ""brunch"": false}"
+-KqwcJ10CUzl-hEwgwGhUA,Jack in the Box,Cotswold,4505 Randolph Rd,Charlotte,NC,28211,35.1758,-80.7982,1.5,14,1,-KqwcJ10CUzl-hEwgwGhUA,HasTV,0
+-KqwcJ10CUzl-hEwgwGhUA,Jack in the Box,Cotswold,4505 Randolph Rd,Charlotte,NC,28211,35.1758,-80.7982,1.5,14,1,-KqwcJ10CUzl-hEwgwGhUA,NoiseLevel,average
+-KqwcJ10CUzl-hEwgwGhUA,Jack in the Box,Cotswold,4505 Randolph Rd,Charlotte,NC,28211,35.1758,-80.7982,1.5,14,1,-KqwcJ10CUzl-hEwgwGhUA,OutdoorSeating,0
+-KqwcJ10CUzl-hEwgwGhUA,Jack in the Box,Cotswold,4505 Randolph Rd,Charlotte,NC,28211,35.1758,-80.7982,1.5,14,1,-KqwcJ10CUzl-hEwgwGhUA,RestaurantsAttire,casual
+-KqwcJ10CUzl-hEwgwGhUA,Jack in the Box,Cotswold,4505 Randolph Rd,Charlotte,NC,28211,35.1758,-80.7982,1.5,14,1,-KqwcJ10CUzl-hEwgwGhUA,RestaurantsDelivery,0
+-KqwcJ10CUzl-hEwgwGhUA,Jack in the Box,Cotswold,4505 Randolph Rd,Charlotte,NC,28211,35.1758,-80.7982,1.5,14,1,-KqwcJ10CUzl-hEwgwGhUA,RestaurantsGoodForGroups,1
+-KqwcJ10CUzl-hEwgwGhUA,Jack in the Box,Cotswold,4505 Randolph Rd,Charlotte,NC,28211,35.1758,-80.7982,1.5,14,1,-KqwcJ10CUzl-hEwgwGhUA,RestaurantsPriceRange2,1
+-KqwcJ10CUzl-hEwgwGhUA,Jack in the Box,Cotswold,4505 Randolph Rd,Charlotte,NC,28211,35.1758,-80.7982,1.5,14,1,-KqwcJ10CUzl-hEwgwGhUA,RestaurantsReservations,0
+-KqwcJ10CUzl-hEwgwGhUA,Jack in the Box,Cotswold,4505 Randolph Rd,Charlotte,NC,28211,35.1758,-80.7982,1.5,14,1,-KqwcJ10CUzl-hEwgwGhUA,RestaurantsTakeOut,1
+-kyvpeXIuQDKIYDkAK7ryw,Panera Bread,South Park,5940 Fairview Rd,Charlotte,NC,28210,35.1512,-80.8411,3.5,42,1,-kyvpeXIuQDKIYDkAK7ryw,Alcohol,none
+-kyvpeXIuQDKIYDkAK7ryw,Panera Bread,South Park,5940 Fairview Rd,Charlotte,NC,28210,35.1512,-80.8411,3.5,42,1,-kyvpeXIuQDKIYDkAK7ryw,Ambience,"{""romantic"": false, ""intimate"": false, ""classy"": false, ""hipster"": false, ""divey"": false, ""touristy"": false, ""trendy"": false, ""upscale"": false, ""casual"": true}"
+-kyvpeXIuQDKIYDkAK7ryw,Panera Bread,South Park,5940 Fairview Rd,Charlotte,NC,28210,35.1512,-80.8411,3.5,42,1,-kyvpeXIuQDKIYDkAK7ryw,BikeParking,1
+-kyvpeXIuQDKIYDkAK7ryw,Panera Bread,South Park,5940 Fairview Rd,Charlotte,NC,28210,35.1512,-80.8411,3.5,42,1,-kyvpeXIuQDKIYDkAK7ryw,BusinessAcceptsCreditCards,1
+-kyvpeXIuQDKIYDkAK7ryw,Panera Bread,South Park,5940 Fairview Rd,Charlotte,NC,28210,35.1512,-80.8411,3.5,42,1,-kyvpeXIuQDKIYDkAK7ryw,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": true, ""valet"": false}"
+-kyvpeXIuQDKIYDkAK7ryw,Panera Bread,South Park,5940 Fairview Rd,Charlotte,NC,28210,35.1512,-80.8411,3.5,42,1,-kyvpeXIuQDKIYDkAK7ryw,Caters,1
+-kyvpeXIuQDKIYDkAK7ryw,Panera Bread,South Park,5940 Fairview Rd,Charlotte,NC,28210,35.1512,-80.8411,3.5,42,1,-kyvpeXIuQDKIYDkAK7ryw,GoodForKids,1
+-kyvpeXIuQDKIYDkAK7ryw,Panera Bread,South Park,5940 Fairview Rd,Charlotte,NC,28210,35.1512,-80.8411,3.5,42,1,-kyvpeXIuQDKIYDkAK7ryw,GoodForMeal,"{""dessert"": false, ""latenight"": false, ""lunch"": true, ""dinner"": false, ""breakfast"": true, ""brunch"": true}"
+-kyvpeXIuQDKIYDkAK7ryw,Panera Bread,South Park,5940 Fairview Rd,Charlotte,NC,28210,35.1512,-80.8411,3.5,42,1,-kyvpeXIuQDKIYDkAK7ryw,HasTV,0
+-kyvpeXIuQDKIYDkAK7ryw,Panera Bread,South Park,5940 Fairview Rd,Charlotte,NC,28210,35.1512,-80.8411,3.5,42,1,-kyvpeXIuQDKIYDkAK7ryw,NoiseLevel,average
+-kyvpeXIuQDKIYDkAK7ryw,Panera Bread,South Park,5940 Fairview Rd,Charlotte,NC,28210,35.1512,-80.8411,3.5,42,1,-kyvpeXIuQDKIYDkAK7ryw,OutdoorSeating,1
+-kyvpeXIuQDKIYDkAK7ryw,Panera Bread,South Park,5940 Fairview Rd,Charlotte,NC,28210,35.1512,-80.8411,3.5,42,1,-kyvpeXIuQDKIYDkAK7ryw,RestaurantsAttire,casual
+-kyvpeXIuQDKIYDkAK7ryw,Panera Bread,South Park,5940 Fairview Rd,Charlotte,NC,28210,35.1512,-80.8411,3.5,42,1,-kyvpeXIuQDKIYDkAK7ryw,RestaurantsDelivery,1
+-kyvpeXIuQDKIYDkAK7ryw,Panera Bread,South Park,5940 Fairview Rd,Charlotte,NC,28210,35.1512,-80.8411,3.5,42,1,-kyvpeXIuQDKIYDkAK7ryw,RestaurantsGoodForGroups,1
+-kyvpeXIuQDKIYDkAK7ryw,Panera Bread,South Park,5940 Fairview Rd,Charlotte,NC,28210,35.1512,-80.8411,3.5,42,1,-kyvpeXIuQDKIYDkAK7ryw,RestaurantsPriceRange2,1
+-kyvpeXIuQDKIYDkAK7ryw,Panera Bread,South Park,5940 Fairview Rd,Charlotte,NC,28210,35.1512,-80.8411,3.5,42,1,-kyvpeXIuQDKIYDkAK7ryw,RestaurantsReservations,0
+-kyvpeXIuQDKIYDkAK7ryw,Panera Bread,South Park,5940 Fairview Rd,Charlotte,NC,28210,35.1512,-80.8411,3.5,42,1,-kyvpeXIuQDKIYDkAK7ryw,RestaurantsTableService,0
+-kyvpeXIuQDKIYDkAK7ryw,Panera Bread,South Park,5940 Fairview Rd,Charlotte,NC,28210,35.1512,-80.8411,3.5,42,1,-kyvpeXIuQDKIYDkAK7ryw,RestaurantsTakeOut,1
+-kyvpeXIuQDKIYDkAK7ryw,Panera Bread,South Park,5940 Fairview Rd,Charlotte,NC,28210,35.1512,-80.8411,3.5,42,1,-kyvpeXIuQDKIYDkAK7ryw,WheelchairAccessible,1
+-kyvpeXIuQDKIYDkAK7ryw,Panera Bread,South Park,5940 Fairview Rd,Charlotte,NC,28210,35.1512,-80.8411,3.5,42,1,-kyvpeXIuQDKIYDkAK7ryw,WiFi,free
+-L9TeQN_JgLBvqf9wmsBVQ,The Broken Spoke,,227 Southside Dr,Charlotte,NC,28217,35.186,-80.8814,4,71,1,-L9TeQN_JgLBvqf9wmsBVQ,Alcohol,full_bar
+-L9TeQN_JgLBvqf9wmsBVQ,The Broken Spoke,,227 Southside Dr,Charlotte,NC,28217,35.186,-80.8814,4,71,1,-L9TeQN_JgLBvqf9wmsBVQ,Ambience,"{""romantic"": false, ""intimate"": false, ""classy"": false, ""hipster"": false, ""divey"": false, ""touristy"": false, ""trendy"": false, ""upscale"": false, ""casual"": true}"
+-L9TeQN_JgLBvqf9wmsBVQ,The Broken Spoke,,227 Southside Dr,Charlotte,NC,28217,35.186,-80.8814,4,71,1,-L9TeQN_JgLBvqf9wmsBVQ,BestNights,"{""monday"": false, ""tuesday"": false, ""friday"": true, ""wednesday"": false, ""thursday"": false, ""sunday"": false, ""saturday"": false}"
+-L9TeQN_JgLBvqf9wmsBVQ,The Broken Spoke,,227 Southside Dr,Charlotte,NC,28217,35.186,-80.8814,4,71,1,-L9TeQN_JgLBvqf9wmsBVQ,BikeParking,1
+-L9TeQN_JgLBvqf9wmsBVQ,The Broken Spoke,,227 Southside Dr,Charlotte,NC,28217,35.186,-80.8814,4,71,1,-L9TeQN_JgLBvqf9wmsBVQ,BusinessAcceptsBitcoin,0
+-L9TeQN_JgLBvqf9wmsBVQ,The Broken Spoke,,227 Southside Dr,Charlotte,NC,28217,35.186,-80.8814,4,71,1,-L9TeQN_JgLBvqf9wmsBVQ,BusinessAcceptsCreditCards,1
+-L9TeQN_JgLBvqf9wmsBVQ,The Broken Spoke,,227 Southside Dr,Charlotte,NC,28217,35.186,-80.8814,4,71,1,-L9TeQN_JgLBvqf9wmsBVQ,BusinessParking,"{""garage"": false, ""street"": true, ""validated"": false, ""lot"": true, ""valet"": false}"
+-L9TeQN_JgLBvqf9wmsBVQ,The Broken Spoke,,227 Southside Dr,Charlotte,NC,28217,35.186,-80.8814,4,71,1,-L9TeQN_JgLBvqf9wmsBVQ,Caters,1
+-L9TeQN_JgLBvqf9wmsBVQ,The Broken Spoke,,227 Southside Dr,Charlotte,NC,28217,35.186,-80.8814,4,71,1,-L9TeQN_JgLBvqf9wmsBVQ,CoatCheck,0
+-L9TeQN_JgLBvqf9wmsBVQ,The Broken Spoke,,227 Southside Dr,Charlotte,NC,28217,35.186,-80.8814,4,71,1,-L9TeQN_JgLBvqf9wmsBVQ,DogsAllowed,0
+-L9TeQN_JgLBvqf9wmsBVQ,The Broken Spoke,,227 Southside Dr,Charlotte,NC,28217,35.186,-80.8814,4,71,1,-L9TeQN_JgLBvqf9wmsBVQ,GoodForDancing,0
+-L9TeQN_JgLBvqf9wmsBVQ,The Broken Spoke,,227 Southside Dr,Charlotte,NC,28217,35.186,-80.8814,4,71,1,-L9TeQN_JgLBvqf9wmsBVQ,GoodForKids,0
+-L9TeQN_JgLBvqf9wmsBVQ,The Broken Spoke,,227 Southside Dr,Charlotte,NC,28217,35.186,-80.8814,4,71,1,-L9TeQN_JgLBvqf9wmsBVQ,HappyHour,1
+-L9TeQN_JgLBvqf9wmsBVQ,The Broken Spoke,,227 Southside Dr,Charlotte,NC,28217,35.186,-80.8814,4,71,1,-L9TeQN_JgLBvqf9wmsBVQ,HasTV,1
+-L9TeQN_JgLBvqf9wmsBVQ,The Broken Spoke,,227 Southside Dr,Charlotte,NC,28217,35.186,-80.8814,4,71,1,-L9TeQN_JgLBvqf9wmsBVQ,Music,"{""dj"": false, ""background_music"": false, ""no_music"": false, ""karaoke"": false, ""live"": false, ""video"": false, ""jukebox"": false}"
+-L9TeQN_JgLBvqf9wmsBVQ,The Broken Spoke,,227 Southside Dr,Charlotte,NC,28217,35.186,-80.8814,4,71,1,-L9TeQN_JgLBvqf9wmsBVQ,NoiseLevel,average
+-L9TeQN_JgLBvqf9wmsBVQ,The Broken Spoke,,227 Southside Dr,Charlotte,NC,28217,35.186,-80.8814,4,71,1,-L9TeQN_JgLBvqf9wmsBVQ,OutdoorSeating,1
+-L9TeQN_JgLBvqf9wmsBVQ,The Broken Spoke,,227 Southside Dr,Charlotte,NC,28217,35.186,-80.8814,4,71,1,-L9TeQN_JgLBvqf9wmsBVQ,RestaurantsAttire,casual
+-L9TeQN_JgLBvqf9wmsBVQ,The Broken Spoke,,227 Southside Dr,Charlotte,NC,28217,35.186,-80.8814,4,71,1,-L9TeQN_JgLBvqf9wmsBVQ,RestaurantsDelivery,0
+-L9TeQN_JgLBvqf9wmsBVQ,The Broken Spoke,,227 Southside Dr,Charlotte,NC,28217,35.186,-80.8814,4,71,1,-L9TeQN_JgLBvqf9wmsBVQ,RestaurantsGoodForGroups,1
+-L9TeQN_JgLBvqf9wmsBVQ,The Broken Spoke,,227 Southside Dr,Charlotte,NC,28217,35.186,-80.8814,4,71,1,-L9TeQN_JgLBvqf9wmsBVQ,RestaurantsPriceRange2,2
+-L9TeQN_JgLBvqf9wmsBVQ,The Broken Spoke,,227 Southside Dr,Charlotte,NC,28217,35.186,-80.8814,4,71,1,-L9TeQN_JgLBvqf9wmsBVQ,RestaurantsReservations,0
+-L9TeQN_JgLBvqf9wmsBVQ,The Broken Spoke,,227 Southside Dr,Charlotte,NC,28217,35.186,-80.8814,4,71,1,-L9TeQN_JgLBvqf9wmsBVQ,RestaurantsTableService,1
+-L9TeQN_JgLBvqf9wmsBVQ,The Broken Spoke,,227 Southside Dr,Charlotte,NC,28217,35.186,-80.8814,4,71,1,-L9TeQN_JgLBvqf9wmsBVQ,RestaurantsTakeOut,1
+-L9TeQN_JgLBvqf9wmsBVQ,The Broken Spoke,,227 Southside Dr,Charlotte,NC,28217,35.186,-80.8814,4,71,1,-L9TeQN_JgLBvqf9wmsBVQ,Smoking,outdoor
+-L9TeQN_JgLBvqf9wmsBVQ,The Broken Spoke,,227 Southside Dr,Charlotte,NC,28217,35.186,-80.8814,4,71,1,-L9TeQN_JgLBvqf9wmsBVQ,WheelchairAccessible,1
+-L9TeQN_JgLBvqf9wmsBVQ,The Broken Spoke,,227 Southside Dr,Charlotte,NC,28217,35.186,-80.8814,4,71,1,-L9TeQN_JgLBvqf9wmsBVQ,WiFi,free
+-LAiusd8GnWFR8atxbT-Vw,Los Arcos Mexican Restaurant,,3542 Mount Holly Huntersville Rd,Charlotte,NC,28216,35.3225,-80.945,3,46,1,-LAiusd8GnWFR8atxbT-Vw,Alcohol,full_bar
+-LAiusd8GnWFR8atxbT-Vw,Los Arcos Mexican Restaurant,,3542 Mount Holly Huntersville Rd,Charlotte,NC,28216,35.3225,-80.945,3,46,1,-LAiusd8GnWFR8atxbT-Vw,Ambience,"{""romantic"": false, ""intimate"": false, ""classy"": false, ""hipster"": false, ""divey"": false, ""touristy"": false, ""trendy"": false, ""upscale"": false, ""casual"": true}"
+-LAiusd8GnWFR8atxbT-Vw,Los Arcos Mexican Restaurant,,3542 Mount Holly Huntersville Rd,Charlotte,NC,28216,35.3225,-80.945,3,46,1,-LAiusd8GnWFR8atxbT-Vw,BikeParking,1
+-LAiusd8GnWFR8atxbT-Vw,Los Arcos Mexican Restaurant,,3542 Mount Holly Huntersville Rd,Charlotte,NC,28216,35.3225,-80.945,3,46,1,-LAiusd8GnWFR8atxbT-Vw,BusinessAcceptsCreditCards,1
+-LAiusd8GnWFR8atxbT-Vw,Los Arcos Mexican Restaurant,,3542 Mount Holly Huntersville Rd,Charlotte,NC,28216,35.3225,-80.945,3,46,1,-LAiusd8GnWFR8atxbT-Vw,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": false, ""valet"": false}"
+-LAiusd8GnWFR8atxbT-Vw,Los Arcos Mexican Restaurant,,3542 Mount Holly Huntersville Rd,Charlotte,NC,28216,35.3225,-80.945,3,46,1,-LAiusd8GnWFR8atxbT-Vw,Caters,0
+-LAiusd8GnWFR8atxbT-Vw,Los Arcos Mexican Restaurant,,3542 Mount Holly Huntersville Rd,Charlotte,NC,28216,35.3225,-80.945,3,46,1,-LAiusd8GnWFR8atxbT-Vw,GoodForKids,1
+-LAiusd8GnWFR8atxbT-Vw,Los Arcos Mexican Restaurant,,3542 Mount Holly Huntersville Rd,Charlotte,NC,28216,35.3225,-80.945,3,46,1,-LAiusd8GnWFR8atxbT-Vw,GoodForMeal,"{""dessert"": false, ""latenight"": false, ""lunch"": true, ""dinner"": true, ""breakfast"": false, ""brunch"": false}"
+-LAiusd8GnWFR8atxbT-Vw,Los Arcos Mexican Restaurant,,3542 Mount Holly Huntersville Rd,Charlotte,NC,28216,35.3225,-80.945,3,46,1,-LAiusd8GnWFR8atxbT-Vw,HasTV,1
+-LAiusd8GnWFR8atxbT-Vw,Los Arcos Mexican Restaurant,,3542 Mount Holly Huntersville Rd,Charlotte,NC,28216,35.3225,-80.945,3,46,1,-LAiusd8GnWFR8atxbT-Vw,NoiseLevel,quiet
+-LAiusd8GnWFR8atxbT-Vw,Los Arcos Mexican Restaurant,,3542 Mount Holly Huntersville Rd,Charlotte,NC,28216,35.3225,-80.945,3,46,1,-LAiusd8GnWFR8atxbT-Vw,OutdoorSeating,1
+-LAiusd8GnWFR8atxbT-Vw,Los Arcos Mexican Restaurant,,3542 Mount Holly Huntersville Rd,Charlotte,NC,28216,35.3225,-80.945,3,46,1,-LAiusd8GnWFR8atxbT-Vw,RestaurantsAttire,casual
+-LAiusd8GnWFR8atxbT-Vw,Los Arcos Mexican Restaurant,,3542 Mount Holly Huntersville Rd,Charlotte,NC,28216,35.3225,-80.945,3,46,1,-LAiusd8GnWFR8atxbT-Vw,RestaurantsDelivery,0
+-LAiusd8GnWFR8atxbT-Vw,Los Arcos Mexican Restaurant,,3542 Mount Holly Huntersville Rd,Charlotte,NC,28216,35.3225,-80.945,3,46,1,-LAiusd8GnWFR8atxbT-Vw,RestaurantsGoodForGroups,1
+-LAiusd8GnWFR8atxbT-Vw,Los Arcos Mexican Restaurant,,3542 Mount Holly Huntersville Rd,Charlotte,NC,28216,35.3225,-80.945,3,46,1,-LAiusd8GnWFR8atxbT-Vw,RestaurantsPriceRange2,2
+-LAiusd8GnWFR8atxbT-Vw,Los Arcos Mexican Restaurant,,3542 Mount Holly Huntersville Rd,Charlotte,NC,28216,35.3225,-80.945,3,46,1,-LAiusd8GnWFR8atxbT-Vw,RestaurantsReservations,0
+-LAiusd8GnWFR8atxbT-Vw,Los Arcos Mexican Restaurant,,3542 Mount Holly Huntersville Rd,Charlotte,NC,28216,35.3225,-80.945,3,46,1,-LAiusd8GnWFR8atxbT-Vw,RestaurantsTableService,1
+-LAiusd8GnWFR8atxbT-Vw,Los Arcos Mexican Restaurant,,3542 Mount Holly Huntersville Rd,Charlotte,NC,28216,35.3225,-80.945,3,46,1,-LAiusd8GnWFR8atxbT-Vw,RestaurantsTakeOut,1
+-LAiusd8GnWFR8atxbT-Vw,Los Arcos Mexican Restaurant,,3542 Mount Holly Huntersville Rd,Charlotte,NC,28216,35.3225,-80.945,3,46,1,-LAiusd8GnWFR8atxbT-Vw,WheelchairAccessible,1
+-LAiusd8GnWFR8atxbT-Vw,Los Arcos Mexican Restaurant,,3542 Mount Holly Huntersville Rd,Charlotte,NC,28216,35.3225,-80.945,3,46,1,-LAiusd8GnWFR8atxbT-Vw,WiFi,no
+-lbSMzyJ9vonB4I0ltlFsg,Todd L. Stewart DDS & Associates,,9739 Northlake Centre Pkwy,Charlotte,NC,28216,35.3482,-80.8594,3.5,3,1,-lbSMzyJ9vonB4I0ltlFsg,AcceptsInsurance,1
+-lbSMzyJ9vonB4I0ltlFsg,Todd L. Stewart DDS & Associates,,9739 Northlake Centre Pkwy,Charlotte,NC,28216,35.3482,-80.8594,3.5,3,1,-lbSMzyJ9vonB4I0ltlFsg,BusinessAcceptsCreditCards,1
+-lbSMzyJ9vonB4I0ltlFsg,Todd L. Stewart DDS & Associates,,9739 Northlake Centre Pkwy,Charlotte,NC,28216,35.3482,-80.8594,3.5,3,1,-lbSMzyJ9vonB4I0ltlFsg,ByAppointmentOnly,1
+-Lw8Ve0NLbR0djHGw2fMOA,Century Parkside Apartments,Starmount,605 Candler Ln,Charlotte,NC,28217,35.1772,-80.8933,1,4,1,-Lw8Ve0NLbR0djHGw2fMOA,BusinessAcceptsCreditCards,1
+-Lw8Ve0NLbR0djHGw2fMOA,Century Parkside Apartments,Starmount,605 Candler Ln,Charlotte,NC,28217,35.1772,-80.8933,1,4,1,-Lw8Ve0NLbR0djHGw2fMOA,ByAppointmentOnly,0
+-m4vlAAV295vNt2DS0z2bg,Sandwich Corner,,"12007 Sam Roper Rd Ste B, Ste B",Charlotte,NC,28269,35.3699,-80.8335,4.5,7,0,-m4vlAAV295vNt2DS0z2bg,Alcohol,none
+-m4vlAAV295vNt2DS0z2bg,Sandwich Corner,,"12007 Sam Roper Rd Ste B, Ste B",Charlotte,NC,28269,35.3699,-80.8335,4.5,7,0,-m4vlAAV295vNt2DS0z2bg,Ambience,"{""romantic"": false, ""intimate"": false, ""classy"": false, ""hipster"": false, ""divey"": false, ""touristy"": false, ""trendy"": false, ""upscale"": false, ""casual"": false}"
+-m4vlAAV295vNt2DS0z2bg,Sandwich Corner,,"12007 Sam Roper Rd Ste B, Ste B",Charlotte,NC,28269,35.3699,-80.8335,4.5,7,0,-m4vlAAV295vNt2DS0z2bg,BikeParking,1
+-m4vlAAV295vNt2DS0z2bg,Sandwich Corner,,"12007 Sam Roper Rd Ste B, Ste B",Charlotte,NC,28269,35.3699,-80.8335,4.5,7,0,-m4vlAAV295vNt2DS0z2bg,BusinessAcceptsCreditCards,1
+-m4vlAAV295vNt2DS0z2bg,Sandwich Corner,,"12007 Sam Roper Rd Ste B, Ste B",Charlotte,NC,28269,35.3699,-80.8335,4.5,7,0,-m4vlAAV295vNt2DS0z2bg,DriveThru,0
+-m4vlAAV295vNt2DS0z2bg,Sandwich Corner,,"12007 Sam Roper Rd Ste B, Ste B",Charlotte,NC,28269,35.3699,-80.8335,4.5,7,0,-m4vlAAV295vNt2DS0z2bg,GoodForKids,1
+-m4vlAAV295vNt2DS0z2bg,Sandwich Corner,,"12007 Sam Roper Rd Ste B, Ste B",Charlotte,NC,28269,35.3699,-80.8335,4.5,7,0,-m4vlAAV295vNt2DS0z2bg,HasTV,0
+-m4vlAAV295vNt2DS0z2bg,Sandwich Corner,,"12007 Sam Roper Rd Ste B, Ste B",Charlotte,NC,28269,35.3699,-80.8335,4.5,7,0,-m4vlAAV295vNt2DS0z2bg,OutdoorSeating,0
+-m4vlAAV295vNt2DS0z2bg,Sandwich Corner,,"12007 Sam Roper Rd Ste B, Ste B",Charlotte,NC,28269,35.3699,-80.8335,4.5,7,0,-m4vlAAV295vNt2DS0z2bg,RestaurantsAttire,casual
+-m4vlAAV295vNt2DS0z2bg,Sandwich Corner,,"12007 Sam Roper Rd Ste B, Ste B",Charlotte,NC,28269,35.3699,-80.8335,4.5,7,0,-m4vlAAV295vNt2DS0z2bg,RestaurantsDelivery,0
+-m4vlAAV295vNt2DS0z2bg,Sandwich Corner,,"12007 Sam Roper Rd Ste B, Ste B",Charlotte,NC,28269,35.3699,-80.8335,4.5,7,0,-m4vlAAV295vNt2DS0z2bg,RestaurantsGoodForGroups,1
+-m4vlAAV295vNt2DS0z2bg,Sandwich Corner,,"12007 Sam Roper Rd Ste B, Ste B",Charlotte,NC,28269,35.3699,-80.8335,4.5,7,0,-m4vlAAV295vNt2DS0z2bg,RestaurantsPriceRange2,1
+-m4vlAAV295vNt2DS0z2bg,Sandwich Corner,,"12007 Sam Roper Rd Ste B, Ste B",Charlotte,NC,28269,35.3699,-80.8335,4.5,7,0,-m4vlAAV295vNt2DS0z2bg,RestaurantsReservations,0
+-m4vlAAV295vNt2DS0z2bg,Sandwich Corner,,"12007 Sam Roper Rd Ste B, Ste B",Charlotte,NC,28269,35.3699,-80.8335,4.5,7,0,-m4vlAAV295vNt2DS0z2bg,RestaurantsTakeOut,1
+-m4vlAAV295vNt2DS0z2bg,Sandwich Corner,,"12007 Sam Roper Rd Ste B, Ste B",Charlotte,NC,28269,35.3699,-80.8335,4.5,7,0,-m4vlAAV295vNt2DS0z2bg,WiFi,free
+-mD2rxd7-poEu9Pvr7K4ow,"Charlotte Ophthalmology Clinic, PA",Cotswold,4335 Colwick Rd,Charlotte,NC,28211,35.1776,-80.7977,2,3,1,-mD2rxd7-poEu9Pvr7K4ow,BusinessAcceptsCreditCards,1
+-mD2rxd7-poEu9Pvr7K4ow,"Charlotte Ophthalmology Clinic, PA",Cotswold,4335 Colwick Rd,Charlotte,NC,28211,35.1776,-80.7977,2,3,1,-mD2rxd7-poEu9Pvr7K4ow,ByAppointmentOnly,1
+-Mwyd0NjrJ6hS0LzRlOLTg,Michaels,,4337 Park Rd,Charlotte,NC,28209,35.1729,-80.8477,3,26,1,-Mwyd0NjrJ6hS0LzRlOLTg,BikeParking,0
+-Mwyd0NjrJ6hS0LzRlOLTg,Michaels,,4337 Park Rd,Charlotte,NC,28209,35.1729,-80.8477,3,26,1,-Mwyd0NjrJ6hS0LzRlOLTg,BusinessAcceptsCreditCards,1
+-Mwyd0NjrJ6hS0LzRlOLTg,Michaels,,4337 Park Rd,Charlotte,NC,28209,35.1729,-80.8477,3,26,1,-Mwyd0NjrJ6hS0LzRlOLTg,BusinessParking,"{""garage"": false, ""street"": true, ""validated"": false, ""lot"": true, ""valet"": false}"
+-Mwyd0NjrJ6hS0LzRlOLTg,Michaels,,4337 Park Rd,Charlotte,NC,28209,35.1729,-80.8477,3,26,1,-Mwyd0NjrJ6hS0LzRlOLTg,RestaurantsPriceRange2,2
+-Mwyd0NjrJ6hS0LzRlOLTg,Michaels,,4337 Park Rd,Charlotte,NC,28209,35.1729,-80.8477,3,26,1,-Mwyd0NjrJ6hS0LzRlOLTg,WheelchairAccessible,1
+-OSAVEMgZFleSC2Tb6Tcvw,Victory Chevrolet,,717 Rhyne Rd,Charlotte,NC,28214,35.2834,-80.9683,3,20,1,-OSAVEMgZFleSC2Tb6Tcvw,BusinessAcceptsCreditCards,1
+-OXGCSOIcKgla8yXoHaSwA,Dunkin' Donuts,Third Ward,"231 N Graham St, Ste B",Charlotte,NC,28202,35.2326,-80.8449,3,17,1,-OXGCSOIcKgla8yXoHaSwA,BikeParking,1
+-OXGCSOIcKgla8yXoHaSwA,Dunkin' Donuts,Third Ward,"231 N Graham St, Ste B",Charlotte,NC,28202,35.2326,-80.8449,3,17,1,-OXGCSOIcKgla8yXoHaSwA,BusinessAcceptsCreditCards,1
+-OXGCSOIcKgla8yXoHaSwA,Dunkin' Donuts,Third Ward,"231 N Graham St, Ste B",Charlotte,NC,28202,35.2326,-80.8449,3,17,1,-OXGCSOIcKgla8yXoHaSwA,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": false, ""valet"": false}"
+-OXGCSOIcKgla8yXoHaSwA,Dunkin' Donuts,Third Ward,"231 N Graham St, Ste B",Charlotte,NC,28202,35.2326,-80.8449,3,17,1,-OXGCSOIcKgla8yXoHaSwA,RestaurantsPriceRange2,1
+-OXGCSOIcKgla8yXoHaSwA,Dunkin' Donuts,Third Ward,"231 N Graham St, Ste B",Charlotte,NC,28202,35.2326,-80.8449,3,17,1,-OXGCSOIcKgla8yXoHaSwA,RestaurantsTakeOut,1
+-Pd-IBDWWwRNWzBBFTb7iQ,Marble Slab Creamery,,"7800 Rea Rd, Ste C",Charlotte,NC,28277,35.0612,-80.8146,3.5,30,1,-Pd-IBDWWwRNWzBBFTb7iQ,BikeParking,1
+-Pd-IBDWWwRNWzBBFTb7iQ,Marble Slab Creamery,,"7800 Rea Rd, Ste C",Charlotte,NC,28277,35.0612,-80.8146,3.5,30,1,-Pd-IBDWWwRNWzBBFTb7iQ,BusinessAcceptsCreditCards,1
+-Pd-IBDWWwRNWzBBFTb7iQ,Marble Slab Creamery,,"7800 Rea Rd, Ste C",Charlotte,NC,28277,35.0612,-80.8146,3.5,30,1,-Pd-IBDWWwRNWzBBFTb7iQ,BusinessParking,"{""garage"": false, ""street"": true, ""validated"": false, ""lot"": false, ""valet"": false}"
+-Pd-IBDWWwRNWzBBFTb7iQ,Marble Slab Creamery,,"7800 Rea Rd, Ste C",Charlotte,NC,28277,35.0612,-80.8146,3.5,30,1,-Pd-IBDWWwRNWzBBFTb7iQ,Caters,1
+-Pd-IBDWWwRNWzBBFTb7iQ,Marble Slab Creamery,,"7800 Rea Rd, Ste C",Charlotte,NC,28277,35.0612,-80.8146,3.5,30,1,-Pd-IBDWWwRNWzBBFTb7iQ,RestaurantsPriceRange2,1
+-Pd-IBDWWwRNWzBBFTb7iQ,Marble Slab Creamery,,"7800 Rea Rd, Ste C",Charlotte,NC,28277,35.0612,-80.8146,3.5,30,1,-Pd-IBDWWwRNWzBBFTb7iQ,RestaurantsTakeOut,1
+-Pd-IBDWWwRNWzBBFTb7iQ,Marble Slab Creamery,,"7800 Rea Rd, Ste C",Charlotte,NC,28277,35.0612,-80.8146,3.5,30,1,-Pd-IBDWWwRNWzBBFTb7iQ,WheelchairAccessible,1
+-Pd-IBDWWwRNWzBBFTb7iQ,Marble Slab Creamery,,"7800 Rea Rd, Ste C",Charlotte,NC,28277,35.0612,-80.8146,3.5,30,1,-Pd-IBDWWwRNWzBBFTb7iQ,WiFi,free
+-pL4Id5cuz2yC2UKi2Yq9A,Las Margaritas,Eastland,4426 E Independence Blvd,Charlotte,NC,28205,35.196,-80.7687,4,85,1,-pL4Id5cuz2yC2UKi2Yq9A,Alcohol,full_bar
+-pL4Id5cuz2yC2UKi2Yq9A,Las Margaritas,Eastland,4426 E Independence Blvd,Charlotte,NC,28205,35.196,-80.7687,4,85,1,-pL4Id5cuz2yC2UKi2Yq9A,Ambience,"{""romantic"": false, ""intimate"": false, ""classy"": false, ""hipster"": false, ""divey"": false, ""touristy"": false, ""trendy"": false, ""upscale"": false, ""casual"": true}"
+-pL4Id5cuz2yC2UKi2Yq9A,Las Margaritas,Eastland,4426 E Independence Blvd,Charlotte,NC,28205,35.196,-80.7687,4,85,1,-pL4Id5cuz2yC2UKi2Yq9A,BikeParking,0
+-pL4Id5cuz2yC2UKi2Yq9A,Las Margaritas,Eastland,4426 E Independence Blvd,Charlotte,NC,28205,35.196,-80.7687,4,85,1,-pL4Id5cuz2yC2UKi2Yq9A,BusinessAcceptsCreditCards,1
+-pL4Id5cuz2yC2UKi2Yq9A,Las Margaritas,Eastland,4426 E Independence Blvd,Charlotte,NC,28205,35.196,-80.7687,4,85,1,-pL4Id5cuz2yC2UKi2Yq9A,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": true, ""valet"": false}"
+-pL4Id5cuz2yC2UKi2Yq9A,Las Margaritas,Eastland,4426 E Independence Blvd,Charlotte,NC,28205,35.196,-80.7687,4,85,1,-pL4Id5cuz2yC2UKi2Yq9A,Caters,0
+-pL4Id5cuz2yC2UKi2Yq9A,Las Margaritas,Eastland,4426 E Independence Blvd,Charlotte,NC,28205,35.196,-80.7687,4,85,1,-pL4Id5cuz2yC2UKi2Yq9A,DogsAllowed,0
+-pL4Id5cuz2yC2UKi2Yq9A,Las Margaritas,Eastland,4426 E Independence Blvd,Charlotte,NC,28205,35.196,-80.7687,4,85,1,-pL4Id5cuz2yC2UKi2Yq9A,GoodForKids,1
+-pL4Id5cuz2yC2UKi2Yq9A,Las Margaritas,Eastland,4426 E Independence Blvd,Charlotte,NC,28205,35.196,-80.7687,4,85,1,-pL4Id5cuz2yC2UKi2Yq9A,GoodForMeal,"{""dessert"": false, ""latenight"": false, ""lunch"": true, ""dinner"": true, ""breakfast"": false, ""brunch"": false}"
+-pL4Id5cuz2yC2UKi2Yq9A,Las Margaritas,Eastland,4426 E Independence Blvd,Charlotte,NC,28205,35.196,-80.7687,4,85,1,-pL4Id5cuz2yC2UKi2Yq9A,HasTV,1
+-pL4Id5cuz2yC2UKi2Yq9A,Las Margaritas,Eastland,4426 E Independence Blvd,Charlotte,NC,28205,35.196,-80.7687,4,85,1,-pL4Id5cuz2yC2UKi2Yq9A,NoiseLevel,average
+-pL4Id5cuz2yC2UKi2Yq9A,Las Margaritas,Eastland,4426 E Independence Blvd,Charlotte,NC,28205,35.196,-80.7687,4,85,1,-pL4Id5cuz2yC2UKi2Yq9A,OutdoorSeating,0
+-pL4Id5cuz2yC2UKi2Yq9A,Las Margaritas,Eastland,4426 E Independence Blvd,Charlotte,NC,28205,35.196,-80.7687,4,85,1,-pL4Id5cuz2yC2UKi2Yq9A,RestaurantsAttire,casual
+-pL4Id5cuz2yC2UKi2Yq9A,Las Margaritas,Eastland,4426 E Independence Blvd,Charlotte,NC,28205,35.196,-80.7687,4,85,1,-pL4Id5cuz2yC2UKi2Yq9A,RestaurantsDelivery,0
+-pL4Id5cuz2yC2UKi2Yq9A,Las Margaritas,Eastland,4426 E Independence Blvd,Charlotte,NC,28205,35.196,-80.7687,4,85,1,-pL4Id5cuz2yC2UKi2Yq9A,RestaurantsGoodForGroups,1
+-pL4Id5cuz2yC2UKi2Yq9A,Las Margaritas,Eastland,4426 E Independence Blvd,Charlotte,NC,28205,35.196,-80.7687,4,85,1,-pL4Id5cuz2yC2UKi2Yq9A,RestaurantsPriceRange2,1
+-pL4Id5cuz2yC2UKi2Yq9A,Las Margaritas,Eastland,4426 E Independence Blvd,Charlotte,NC,28205,35.196,-80.7687,4,85,1,-pL4Id5cuz2yC2UKi2Yq9A,RestaurantsReservations,1
+-pL4Id5cuz2yC2UKi2Yq9A,Las Margaritas,Eastland,4426 E Independence Blvd,Charlotte,NC,28205,35.196,-80.7687,4,85,1,-pL4Id5cuz2yC2UKi2Yq9A,RestaurantsTableService,1
+-pL4Id5cuz2yC2UKi2Yq9A,Las Margaritas,Eastland,4426 E Independence Blvd,Charlotte,NC,28205,35.196,-80.7687,4,85,1,-pL4Id5cuz2yC2UKi2Yq9A,RestaurantsTakeOut,1
+-pL4Id5cuz2yC2UKi2Yq9A,Las Margaritas,Eastland,4426 E Independence Blvd,Charlotte,NC,28205,35.196,-80.7687,4,85,1,-pL4Id5cuz2yC2UKi2Yq9A,WheelchairAccessible,1
+-pL4Id5cuz2yC2UKi2Yq9A,Las Margaritas,Eastland,4426 E Independence Blvd,Charlotte,NC,28205,35.196,-80.7687,4,85,1,-pL4Id5cuz2yC2UKi2Yq9A,WiFi,free
+-ppGmgqTSXJBZ6jkJamEGA,Ambiance Hair Salon,Sherwood Forest,"4219 Providence Rd, Ste 1A",Charlotte,NC,28211,35.1569,-80.7945,4,4,1,-ppGmgqTSXJBZ6jkJamEGA,BusinessAcceptsCreditCards,1
+-ppGmgqTSXJBZ6jkJamEGA,Ambiance Hair Salon,Sherwood Forest,"4219 Providence Rd, Ste 1A",Charlotte,NC,28211,35.1569,-80.7945,4,4,1,-ppGmgqTSXJBZ6jkJamEGA,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": true, ""valet"": false}"
+-ppGmgqTSXJBZ6jkJamEGA,Ambiance Hair Salon,Sherwood Forest,"4219 Providence Rd, Ste 1A",Charlotte,NC,28211,35.1569,-80.7945,4,4,1,-ppGmgqTSXJBZ6jkJamEGA,ByAppointmentOnly,1
+-ppGmgqTSXJBZ6jkJamEGA,Ambiance Hair Salon,Sherwood Forest,"4219 Providence Rd, Ste 1A",Charlotte,NC,28211,35.1569,-80.7945,4,4,1,-ppGmgqTSXJBZ6jkJamEGA,GoodForKids,1
+-ppGmgqTSXJBZ6jkJamEGA,Ambiance Hair Salon,Sherwood Forest,"4219 Providence Rd, Ste 1A",Charlotte,NC,28211,35.1569,-80.7945,4,4,1,-ppGmgqTSXJBZ6jkJamEGA,RestaurantsPriceRange2,2
+-pxlxqzZq5fde5tWAaViYA,Pavel's Jewelry Repair & Loans,,345 E Woodlawn Rd,Charlotte,NC,28217,35.1774,-80.8773,4.5,22,1,-pxlxqzZq5fde5tWAaViYA,BikeParking,1
+-pxlxqzZq5fde5tWAaViYA,Pavel's Jewelry Repair & Loans,,345 E Woodlawn Rd,Charlotte,NC,28217,35.1774,-80.8773,4.5,22,1,-pxlxqzZq5fde5tWAaViYA,BusinessAcceptsCreditCards,1
+-pxlxqzZq5fde5tWAaViYA,Pavel's Jewelry Repair & Loans,,345 E Woodlawn Rd,Charlotte,NC,28217,35.1774,-80.8773,4.5,22,1,-pxlxqzZq5fde5tWAaViYA,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": true, ""valet"": false}"
+-pxlxqzZq5fde5tWAaViYA,Pavel's Jewelry Repair & Loans,,345 E Woodlawn Rd,Charlotte,NC,28217,35.1774,-80.8773,4.5,22,1,-pxlxqzZq5fde5tWAaViYA,ByAppointmentOnly,0
+-pxlxqzZq5fde5tWAaViYA,Pavel's Jewelry Repair & Loans,,345 E Woodlawn Rd,Charlotte,NC,28217,35.1774,-80.8773,4.5,22,1,-pxlxqzZq5fde5tWAaViYA,RestaurantsPriceRange2,3
+-pxlxqzZq5fde5tWAaViYA,Pavel's Jewelry Repair & Loans,,345 E Woodlawn Rd,Charlotte,NC,28217,35.1774,-80.8773,4.5,22,1,-pxlxqzZq5fde5tWAaViYA,WheelchairAccessible,1
+-PYiTrmibO-XxqpRRF4EoA,Harris Teeter,Highland Creek,2720 W Mallard Creek Church Rd,Charlotte,NC,28262,35.3415,-80.7652,3,17,1,-PYiTrmibO-XxqpRRF4EoA,BikeParking,1
+-PYiTrmibO-XxqpRRF4EoA,Harris Teeter,Highland Creek,2720 W Mallard Creek Church Rd,Charlotte,NC,28262,35.3415,-80.7652,3,17,1,-PYiTrmibO-XxqpRRF4EoA,BusinessAcceptsCreditCards,1
+-PYiTrmibO-XxqpRRF4EoA,Harris Teeter,Highland Creek,2720 W Mallard Creek Church Rd,Charlotte,NC,28262,35.3415,-80.7652,3,17,1,-PYiTrmibO-XxqpRRF4EoA,BusinessParking,"{""garage"": false, ""street"": true, ""validated"": false, ""lot"": false, ""valet"": false}"
+-PYiTrmibO-XxqpRRF4EoA,Harris Teeter,Highland Creek,2720 W Mallard Creek Church Rd,Charlotte,NC,28262,35.3415,-80.7652,3,17,1,-PYiTrmibO-XxqpRRF4EoA,RestaurantsPriceRange2,2
+-PYiTrmibO-XxqpRRF4EoA,Harris Teeter,Highland Creek,2720 W Mallard Creek Church Rd,Charlotte,NC,28262,35.3415,-80.7652,3,17,1,-PYiTrmibO-XxqpRRF4EoA,RestaurantsTakeOut,1
+-PYiTrmibO-XxqpRRF4EoA,Harris Teeter,Highland Creek,2720 W Mallard Creek Church Rd,Charlotte,NC,28262,35.3415,-80.7652,3,17,1,-PYiTrmibO-XxqpRRF4EoA,WheelchairAccessible,1
+-qjFaSJsOiq_ehnpe_Gtbw,Thien Phu,Plaza Midwood,"3023 Central Ave, Ste E",Charlotte,NC,28205,35.2178,-80.793,4,4,1,-qjFaSJsOiq_ehnpe_Gtbw,GoodForKids,1
+-qjFaSJsOiq_ehnpe_Gtbw,Thien Phu,Plaza Midwood,"3023 Central Ave, Ste E",Charlotte,NC,28205,35.2178,-80.793,4,4,1,-qjFaSJsOiq_ehnpe_Gtbw,HasTV,1
+-qjFaSJsOiq_ehnpe_Gtbw,Thien Phu,Plaza Midwood,"3023 Central Ave, Ste E",Charlotte,NC,28205,35.2178,-80.793,4,4,1,-qjFaSJsOiq_ehnpe_Gtbw,RestaurantsReservations,0
+-qjn24n8HYF6It9GQrQntw,Five Guys Burgers and Fries,Highland Creek,2130 E Arbors Dr,Charlotte,NC,28262,35.3381,-80.7574,4,16,0,-qjn24n8HYF6It9GQrQntw,Alcohol,none
+-qjn24n8HYF6It9GQrQntw,Five Guys Burgers and Fries,Highland Creek,2130 E Arbors Dr,Charlotte,NC,28262,35.3381,-80.7574,4,16,0,-qjn24n8HYF6It9GQrQntw,Ambience,"{""romantic"": false, ""intimate"": false, ""classy"": false, ""hipster"": false, ""divey"": false, ""touristy"": false, ""trendy"": false, ""upscale"": false, ""casual"": false}"
+-qjn24n8HYF6It9GQrQntw,Five Guys Burgers and Fries,Highland Creek,2130 E Arbors Dr,Charlotte,NC,28262,35.3381,-80.7574,4,16,0,-qjn24n8HYF6It9GQrQntw,BikeParking,1
+-qjn24n8HYF6It9GQrQntw,Five Guys Burgers and Fries,Highland Creek,2130 E Arbors Dr,Charlotte,NC,28262,35.3381,-80.7574,4,16,0,-qjn24n8HYF6It9GQrQntw,BusinessAcceptsCreditCards,1
+-qjn24n8HYF6It9GQrQntw,Five Guys Burgers and Fries,Highland Creek,2130 E Arbors Dr,Charlotte,NC,28262,35.3381,-80.7574,4,16,0,-qjn24n8HYF6It9GQrQntw,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": true, ""valet"": false}"
+-qjn24n8HYF6It9GQrQntw,Five Guys Burgers and Fries,Highland Creek,2130 E Arbors Dr,Charlotte,NC,28262,35.3381,-80.7574,4,16,0,-qjn24n8HYF6It9GQrQntw,Caters,0
+-qjn24n8HYF6It9GQrQntw,Five Guys Burgers and Fries,Highland Creek,2130 E Arbors Dr,Charlotte,NC,28262,35.3381,-80.7574,4,16,0,-qjn24n8HYF6It9GQrQntw,DriveThru,0
+-qjn24n8HYF6It9GQrQntw,Five Guys Burgers and Fries,Highland Creek,2130 E Arbors Dr,Charlotte,NC,28262,35.3381,-80.7574,4,16,0,-qjn24n8HYF6It9GQrQntw,GoodForKids,1
+-qjn24n8HYF6It9GQrQntw,Five Guys Burgers and Fries,Highland Creek,2130 E Arbors Dr,Charlotte,NC,28262,35.3381,-80.7574,4,16,0,-qjn24n8HYF6It9GQrQntw,GoodForMeal,"{""dessert"": false, ""latenight"": false, ""lunch"": true, ""dinner"": true, ""breakfast"": false, ""brunch"": false}"
+-qjn24n8HYF6It9GQrQntw,Five Guys Burgers and Fries,Highland Creek,2130 E Arbors Dr,Charlotte,NC,28262,35.3381,-80.7574,4,16,0,-qjn24n8HYF6It9GQrQntw,HasTV,0
+-qjn24n8HYF6It9GQrQntw,Five Guys Burgers and Fries,Highland Creek,2130 E Arbors Dr,Charlotte,NC,28262,35.3381,-80.7574,4,16,0,-qjn24n8HYF6It9GQrQntw,NoiseLevel,average
+-qjn24n8HYF6It9GQrQntw,Five Guys Burgers and Fries,Highland Creek,2130 E Arbors Dr,Charlotte,NC,28262,35.3381,-80.7574,4,16,0,-qjn24n8HYF6It9GQrQntw,OutdoorSeating,1
+-qjn24n8HYF6It9GQrQntw,Five Guys Burgers and Fries,Highland Creek,2130 E Arbors Dr,Charlotte,NC,28262,35.3381,-80.7574,4,16,0,-qjn24n8HYF6It9GQrQntw,RestaurantsAttire,casual
+-qjn24n8HYF6It9GQrQntw,Five Guys Burgers and Fries,Highland Creek,2130 E Arbors Dr,Charlotte,NC,28262,35.3381,-80.7574,4,16,0,-qjn24n8HYF6It9GQrQntw,RestaurantsCounterService,1
+-qjn24n8HYF6It9GQrQntw,Five Guys Burgers and Fries,Highland Creek,2130 E Arbors Dr,Charlotte,NC,28262,35.3381,-80.7574,4,16,0,-qjn24n8HYF6It9GQrQntw,RestaurantsDelivery,0
+-qjn24n8HYF6It9GQrQntw,Five Guys Burgers and Fries,Highland Creek,2130 E Arbors Dr,Charlotte,NC,28262,35.3381,-80.7574,4,16,0,-qjn24n8HYF6It9GQrQntw,RestaurantsGoodForGroups,1
+-qjn24n8HYF6It9GQrQntw,Five Guys Burgers and Fries,Highland Creek,2130 E Arbors Dr,Charlotte,NC,28262,35.3381,-80.7574,4,16,0,-qjn24n8HYF6It9GQrQntw,RestaurantsPriceRange2,2
+-qjn24n8HYF6It9GQrQntw,Five Guys Burgers and Fries,Highland Creek,2130 E Arbors Dr,Charlotte,NC,28262,35.3381,-80.7574,4,16,0,-qjn24n8HYF6It9GQrQntw,RestaurantsReservations,0
+-qjn24n8HYF6It9GQrQntw,Five Guys Burgers and Fries,Highland Creek,2130 E Arbors Dr,Charlotte,NC,28262,35.3381,-80.7574,4,16,0,-qjn24n8HYF6It9GQrQntw,RestaurantsTableService,0
+-qjn24n8HYF6It9GQrQntw,Five Guys Burgers and Fries,Highland Creek,2130 E Arbors Dr,Charlotte,NC,28262,35.3381,-80.7574,4,16,0,-qjn24n8HYF6It9GQrQntw,RestaurantsTakeOut,1
+-qjn24n8HYF6It9GQrQntw,Five Guys Burgers and Fries,Highland Creek,2130 E Arbors Dr,Charlotte,NC,28262,35.3381,-80.7574,4,16,0,-qjn24n8HYF6It9GQrQntw,WheelchairAccessible,1
+-qjn24n8HYF6It9GQrQntw,Five Guys Burgers and Fries,Highland Creek,2130 E Arbors Dr,Charlotte,NC,28262,35.3381,-80.7574,4,16,0,-qjn24n8HYF6It9GQrQntw,WiFi,no
+-QUwkytFlsjqbLJ_bXyneA,"Cellular Sales, Verizon Wireless Authorized Retailer",Ballantyne,"14835 Ballantyne Village Way, Ste 170",Charlotte,NC,28277,35.0528,-80.8515,2,15,1,-QUwkytFlsjqbLJ_bXyneA,BikeParking,0
+-QUwkytFlsjqbLJ_bXyneA,"Cellular Sales, Verizon Wireless Authorized Retailer",Ballantyne,"14835 Ballantyne Village Way, Ste 170",Charlotte,NC,28277,35.0528,-80.8515,2,15,1,-QUwkytFlsjqbLJ_bXyneA,BusinessAcceptsCreditCards,1
+-QUwkytFlsjqbLJ_bXyneA,"Cellular Sales, Verizon Wireless Authorized Retailer",Ballantyne,"14835 Ballantyne Village Way, Ste 170",Charlotte,NC,28277,35.0528,-80.8515,2,15,1,-QUwkytFlsjqbLJ_bXyneA,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": true, ""valet"": false}"
+-QUwkytFlsjqbLJ_bXyneA,"Cellular Sales, Verizon Wireless Authorized Retailer",Ballantyne,"14835 Ballantyne Village Way, Ste 170",Charlotte,NC,28277,35.0528,-80.8515,2,15,1,-QUwkytFlsjqbLJ_bXyneA,RestaurantsPriceRange2,4
+-qWLEeASD3h1gl9qLipWEQ,Wok & Roll Chinese Fast Food,Eastland,9252 Albemarle Rd,Charlotte,NC,28227,35.2109,-80.6874,2.5,3,1,-qWLEeASD3h1gl9qLipWEQ,Ambience,"{""romantic"": false, ""intimate"": false, ""classy"": false, ""hipster"": false, ""divey"": false, ""touristy"": false, ""trendy"": false, ""upscale"": false, ""casual"": false}"
+-qWLEeASD3h1gl9qLipWEQ,Wok & Roll Chinese Fast Food,Eastland,9252 Albemarle Rd,Charlotte,NC,28227,35.2109,-80.6874,2.5,3,1,-qWLEeASD3h1gl9qLipWEQ,RestaurantsTableService,0
+-qWLEeASD3h1gl9qLipWEQ,Wok & Roll Chinese Fast Food,Eastland,9252 Albemarle Rd,Charlotte,NC,28227,35.2109,-80.6874,2.5,3,1,-qWLEeASD3h1gl9qLipWEQ,RestaurantsTakeOut,1
+-R8-4JRe8mUDHc1pbWYgiQ,Feast at HOM,Fourth Ward,116 W 5th St,Charlotte,NC,28202,35.2284,-80.8424,2.5,6,0,-R8-4JRe8mUDHc1pbWYgiQ,Alcohol,full_bar
+-R8-4JRe8mUDHc1pbWYgiQ,Feast at HOM,Fourth Ward,116 W 5th St,Charlotte,NC,28202,35.2284,-80.8424,2.5,6,0,-R8-4JRe8mUDHc1pbWYgiQ,BusinessAcceptsCreditCards,1
+-R8-4JRe8mUDHc1pbWYgiQ,Feast at HOM,Fourth Ward,116 W 5th St,Charlotte,NC,28202,35.2284,-80.8424,2.5,6,0,-R8-4JRe8mUDHc1pbWYgiQ,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": false, ""valet"": false}"
+-R8-4JRe8mUDHc1pbWYgiQ,Feast at HOM,Fourth Ward,116 W 5th St,Charlotte,NC,28202,35.2284,-80.8424,2.5,6,0,-R8-4JRe8mUDHc1pbWYgiQ,GoodForKids,0
+-R8-4JRe8mUDHc1pbWYgiQ,Feast at HOM,Fourth Ward,116 W 5th St,Charlotte,NC,28202,35.2284,-80.8424,2.5,6,0,-R8-4JRe8mUDHc1pbWYgiQ,GoodForMeal,"{""dessert"": false, ""latenight"": false, ""lunch"": false, ""dinner"": false, ""breakfast"": false, ""brunch"": false}"
+-R8-4JRe8mUDHc1pbWYgiQ,Feast at HOM,Fourth Ward,116 W 5th St,Charlotte,NC,28202,35.2284,-80.8424,2.5,6,0,-R8-4JRe8mUDHc1pbWYgiQ,HappyHour,0
+-R8-4JRe8mUDHc1pbWYgiQ,Feast at HOM,Fourth Ward,116 W 5th St,Charlotte,NC,28202,35.2284,-80.8424,2.5,6,0,-R8-4JRe8mUDHc1pbWYgiQ,OutdoorSeating,0
+-R8-4JRe8mUDHc1pbWYgiQ,Feast at HOM,Fourth Ward,116 W 5th St,Charlotte,NC,28202,35.2284,-80.8424,2.5,6,0,-R8-4JRe8mUDHc1pbWYgiQ,RestaurantsAttire,dressy
+-R8-4JRe8mUDHc1pbWYgiQ,Feast at HOM,Fourth Ward,116 W 5th St,Charlotte,NC,28202,35.2284,-80.8424,2.5,6,0,-R8-4JRe8mUDHc1pbWYgiQ,RestaurantsGoodForGroups,0
+-R8-4JRe8mUDHc1pbWYgiQ,Feast at HOM,Fourth Ward,116 W 5th St,Charlotte,NC,28202,35.2284,-80.8424,2.5,6,0,-R8-4JRe8mUDHc1pbWYgiQ,RestaurantsPriceRange2,2
+-R8-4JRe8mUDHc1pbWYgiQ,Feast at HOM,Fourth Ward,116 W 5th St,Charlotte,NC,28202,35.2284,-80.8424,2.5,6,0,-R8-4JRe8mUDHc1pbWYgiQ,RestaurantsTableService,1
+-RaFxUB2rClGSnhqGvrpKw,Village Bistro,Ballantyne,14185 John J Delany Dr,Charlotte,NC,28288,35.0538,-80.8539,2.5,4,0,-RaFxUB2rClGSnhqGvrpKw,Alcohol,full_bar
+-RaFxUB2rClGSnhqGvrpKw,Village Bistro,Ballantyne,14185 John J Delany Dr,Charlotte,NC,28288,35.0538,-80.8539,2.5,4,0,-RaFxUB2rClGSnhqGvrpKw,BusinessAcceptsCreditCards,1
+-RaFxUB2rClGSnhqGvrpKw,Village Bistro,Ballantyne,14185 John J Delany Dr,Charlotte,NC,28288,35.0538,-80.8539,2.5,4,0,-RaFxUB2rClGSnhqGvrpKw,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": false, ""valet"": false}"
+-RaFxUB2rClGSnhqGvrpKw,Village Bistro,Ballantyne,14185 John J Delany Dr,Charlotte,NC,28288,35.0538,-80.8539,2.5,4,0,-RaFxUB2rClGSnhqGvrpKw,GoodForKids,1
+-RaFxUB2rClGSnhqGvrpKw,Village Bistro,Ballantyne,14185 John J Delany Dr,Charlotte,NC,28288,35.0538,-80.8539,2.5,4,0,-RaFxUB2rClGSnhqGvrpKw,GoodForMeal,"{""dessert"": false, ""latenight"": false, ""lunch"": false, ""dinner"": false, ""breakfast"": false, ""brunch"": false}"
+-RaFxUB2rClGSnhqGvrpKw,Village Bistro,Ballantyne,14185 John J Delany Dr,Charlotte,NC,28288,35.0538,-80.8539,2.5,4,0,-RaFxUB2rClGSnhqGvrpKw,OutdoorSeating,1
+-RaFxUB2rClGSnhqGvrpKw,Village Bistro,Ballantyne,14185 John J Delany Dr,Charlotte,NC,28288,35.0538,-80.8539,2.5,4,0,-RaFxUB2rClGSnhqGvrpKw,RestaurantsAttire,casual
+-RaFxUB2rClGSnhqGvrpKw,Village Bistro,Ballantyne,14185 John J Delany Dr,Charlotte,NC,28288,35.0538,-80.8539,2.5,4,0,-RaFxUB2rClGSnhqGvrpKw,RestaurantsDelivery,0
+-RaFxUB2rClGSnhqGvrpKw,Village Bistro,Ballantyne,14185 John J Delany Dr,Charlotte,NC,28288,35.0538,-80.8539,2.5,4,0,-RaFxUB2rClGSnhqGvrpKw,RestaurantsGoodForGroups,1
+-RaFxUB2rClGSnhqGvrpKw,Village Bistro,Ballantyne,14185 John J Delany Dr,Charlotte,NC,28288,35.0538,-80.8539,2.5,4,0,-RaFxUB2rClGSnhqGvrpKw,RestaurantsPriceRange2,2
+-RaFxUB2rClGSnhqGvrpKw,Village Bistro,Ballantyne,14185 John J Delany Dr,Charlotte,NC,28288,35.0538,-80.8539,2.5,4,0,-RaFxUB2rClGSnhqGvrpKw,RestaurantsReservations,1
+-RaFxUB2rClGSnhqGvrpKw,Village Bistro,Ballantyne,14185 John J Delany Dr,Charlotte,NC,28288,35.0538,-80.8539,2.5,4,0,-RaFxUB2rClGSnhqGvrpKw,RestaurantsTableService,1
+-RaFxUB2rClGSnhqGvrpKw,Village Bistro,Ballantyne,14185 John J Delany Dr,Charlotte,NC,28288,35.0538,-80.8539,2.5,4,0,-RaFxUB2rClGSnhqGvrpKw,RestaurantsTakeOut,1
+-RaFxUB2rClGSnhqGvrpKw,Village Bistro,Ballantyne,14185 John J Delany Dr,Charlotte,NC,28288,35.0538,-80.8539,2.5,4,0,-RaFxUB2rClGSnhqGvrpKw,WheelchairAccessible,1
+-rCeGWV07UEKtckkpbkfow,Toys & Co,Cotswold,242 S Sharon Amity Rd,Charlotte,NC,28211,35.1761,-80.8021,4,15,1,-rCeGWV07UEKtckkpbkfow,BikeParking,1
+-rCeGWV07UEKtckkpbkfow,Toys & Co,Cotswold,242 S Sharon Amity Rd,Charlotte,NC,28211,35.1761,-80.8021,4,15,1,-rCeGWV07UEKtckkpbkfow,BusinessAcceptsBitcoin,0
+-rCeGWV07UEKtckkpbkfow,Toys & Co,Cotswold,242 S Sharon Amity Rd,Charlotte,NC,28211,35.1761,-80.8021,4,15,1,-rCeGWV07UEKtckkpbkfow,BusinessAcceptsCreditCards,1
+-rCeGWV07UEKtckkpbkfow,Toys & Co,Cotswold,242 S Sharon Amity Rd,Charlotte,NC,28211,35.1761,-80.8021,4,15,1,-rCeGWV07UEKtckkpbkfow,BusinessParking,"{""garage"": false, ""street"": true, ""validated"": false, ""lot"": true, ""valet"": false}"
+-rCeGWV07UEKtckkpbkfow,Toys & Co,Cotswold,242 S Sharon Amity Rd,Charlotte,NC,28211,35.1761,-80.8021,4,15,1,-rCeGWV07UEKtckkpbkfow,DogsAllowed,1
+-rCeGWV07UEKtckkpbkfow,Toys & Co,Cotswold,242 S Sharon Amity Rd,Charlotte,NC,28211,35.1761,-80.8021,4,15,1,-rCeGWV07UEKtckkpbkfow,RestaurantsPriceRange2,2
+-rCeGWV07UEKtckkpbkfow,Toys & Co,Cotswold,242 S Sharon Amity Rd,Charlotte,NC,28211,35.1761,-80.8021,4,15,1,-rCeGWV07UEKtckkpbkfow,WheelchairAccessible,1
+-rdjYy7_iqDoylkUpdolDQ,Just Fresh,Uptown,301 S College St,Charlotte,NC,28202,35.2237,-80.8444,3.5,13,1,-rdjYy7_iqDoylkUpdolDQ,Alcohol,none
+-rdjYy7_iqDoylkUpdolDQ,Just Fresh,Uptown,301 S College St,Charlotte,NC,28202,35.2237,-80.8444,3.5,13,1,-rdjYy7_iqDoylkUpdolDQ,Ambience,"{""romantic"": false, ""intimate"": false, ""classy"": false, ""hipster"": false, ""divey"": false, ""touristy"": false, ""trendy"": false, ""upscale"": false, ""casual"": false}"
+-rdjYy7_iqDoylkUpdolDQ,Just Fresh,Uptown,301 S College St,Charlotte,NC,28202,35.2237,-80.8444,3.5,13,1,-rdjYy7_iqDoylkUpdolDQ,BikeParking,1
+-rdjYy7_iqDoylkUpdolDQ,Just Fresh,Uptown,301 S College St,Charlotte,NC,28202,35.2237,-80.8444,3.5,13,1,-rdjYy7_iqDoylkUpdolDQ,BusinessAcceptsCreditCards,1
+-rdjYy7_iqDoylkUpdolDQ,Just Fresh,Uptown,301 S College St,Charlotte,NC,28202,35.2237,-80.8444,3.5,13,1,-rdjYy7_iqDoylkUpdolDQ,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": false, ""valet"": false}"
+-rdjYy7_iqDoylkUpdolDQ,Just Fresh,Uptown,301 S College St,Charlotte,NC,28202,35.2237,-80.8444,3.5,13,1,-rdjYy7_iqDoylkUpdolDQ,Caters,1
+-rdjYy7_iqDoylkUpdolDQ,Just Fresh,Uptown,301 S College St,Charlotte,NC,28202,35.2237,-80.8444,3.5,13,1,-rdjYy7_iqDoylkUpdolDQ,GoodForKids,0
+-rdjYy7_iqDoylkUpdolDQ,Just Fresh,Uptown,301 S College St,Charlotte,NC,28202,35.2237,-80.8444,3.5,13,1,-rdjYy7_iqDoylkUpdolDQ,GoodForMeal,"{""dessert"": false, ""latenight"": false, ""lunch"": true, ""dinner"": false, ""breakfast"": false, ""brunch"": false}"
+-rdjYy7_iqDoylkUpdolDQ,Just Fresh,Uptown,301 S College St,Charlotte,NC,28202,35.2237,-80.8444,3.5,13,1,-rdjYy7_iqDoylkUpdolDQ,HasTV,0
+-rdjYy7_iqDoylkUpdolDQ,Just Fresh,Uptown,301 S College St,Charlotte,NC,28202,35.2237,-80.8444,3.5,13,1,-rdjYy7_iqDoylkUpdolDQ,NoiseLevel,average
+-rdjYy7_iqDoylkUpdolDQ,Just Fresh,Uptown,301 S College St,Charlotte,NC,28202,35.2237,-80.8444,3.5,13,1,-rdjYy7_iqDoylkUpdolDQ,OutdoorSeating,0
+-rdjYy7_iqDoylkUpdolDQ,Just Fresh,Uptown,301 S College St,Charlotte,NC,28202,35.2237,-80.8444,3.5,13,1,-rdjYy7_iqDoylkUpdolDQ,RestaurantsAttire,casual
+-rdjYy7_iqDoylkUpdolDQ,Just Fresh,Uptown,301 S College St,Charlotte,NC,28202,35.2237,-80.8444,3.5,13,1,-rdjYy7_iqDoylkUpdolDQ,RestaurantsDelivery,1
+-rdjYy7_iqDoylkUpdolDQ,Just Fresh,Uptown,301 S College St,Charlotte,NC,28202,35.2237,-80.8444,3.5,13,1,-rdjYy7_iqDoylkUpdolDQ,RestaurantsGoodForGroups,0
+-rdjYy7_iqDoylkUpdolDQ,Just Fresh,Uptown,301 S College St,Charlotte,NC,28202,35.2237,-80.8444,3.5,13,1,-rdjYy7_iqDoylkUpdolDQ,RestaurantsPriceRange2,1
+-rdjYy7_iqDoylkUpdolDQ,Just Fresh,Uptown,301 S College St,Charlotte,NC,28202,35.2237,-80.8444,3.5,13,1,-rdjYy7_iqDoylkUpdolDQ,RestaurantsReservations,0
+-rdjYy7_iqDoylkUpdolDQ,Just Fresh,Uptown,301 S College St,Charlotte,NC,28202,35.2237,-80.8444,3.5,13,1,-rdjYy7_iqDoylkUpdolDQ,RestaurantsTableService,0
+-rdjYy7_iqDoylkUpdolDQ,Just Fresh,Uptown,301 S College St,Charlotte,NC,28202,35.2237,-80.8444,3.5,13,1,-rdjYy7_iqDoylkUpdolDQ,RestaurantsTakeOut,1
+-rdjYy7_iqDoylkUpdolDQ,Just Fresh,Uptown,301 S College St,Charlotte,NC,28202,35.2237,-80.8444,3.5,13,1,-rdjYy7_iqDoylkUpdolDQ,WiFi,no
+-re6UtqoZYQirigO6eHf9Q,7-Eleven,South End,2601 South Blvd,Charlotte,NC,28209,35.202,-80.865,3,4,1,-re6UtqoZYQirigO6eHf9Q,BikeParking,1
+-re6UtqoZYQirigO6eHf9Q,7-Eleven,South End,2601 South Blvd,Charlotte,NC,28209,35.202,-80.865,3,4,1,-re6UtqoZYQirigO6eHf9Q,BusinessAcceptsCreditCards,1
+-re6UtqoZYQirigO6eHf9Q,7-Eleven,South End,2601 South Blvd,Charlotte,NC,28209,35.202,-80.865,3,4,1,-re6UtqoZYQirigO6eHf9Q,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": false, ""valet"": false}"
+-re6UtqoZYQirigO6eHf9Q,7-Eleven,South End,2601 South Blvd,Charlotte,NC,28209,35.202,-80.865,3,4,1,-re6UtqoZYQirigO6eHf9Q,RestaurantsPriceRange2,1
+-re6UtqoZYQirigO6eHf9Q,7-Eleven,South End,2601 South Blvd,Charlotte,NC,28209,35.202,-80.865,3,4,1,-re6UtqoZYQirigO6eHf9Q,RestaurantsTakeOut,0
+-RP7Sw9lqHySxzzRFaeYiQ,Bojangles' Famous Chicken 'n Biscuits,North Charlotte,1101 W Sugar Creek Rd,Charlotte,NC,28213,35.2756,-80.7939,2,12,1,-RP7Sw9lqHySxzzRFaeYiQ,Alcohol,none
+-RP7Sw9lqHySxzzRFaeYiQ,Bojangles' Famous Chicken 'n Biscuits,North Charlotte,1101 W Sugar Creek Rd,Charlotte,NC,28213,35.2756,-80.7939,2,12,1,-RP7Sw9lqHySxzzRFaeYiQ,Ambience,"{""romantic"": false, ""intimate"": false, ""classy"": false, ""hipster"": false, ""divey"": false, ""touristy"": false, ""trendy"": false, ""upscale"": false, ""casual"": false}"
+-RP7Sw9lqHySxzzRFaeYiQ,Bojangles' Famous Chicken 'n Biscuits,North Charlotte,1101 W Sugar Creek Rd,Charlotte,NC,28213,35.2756,-80.7939,2,12,1,-RP7Sw9lqHySxzzRFaeYiQ,BikeParking,0
+-RP7Sw9lqHySxzzRFaeYiQ,Bojangles' Famous Chicken 'n Biscuits,North Charlotte,1101 W Sugar Creek Rd,Charlotte,NC,28213,35.2756,-80.7939,2,12,1,-RP7Sw9lqHySxzzRFaeYiQ,BusinessAcceptsCreditCards,1
+-RP7Sw9lqHySxzzRFaeYiQ,Bojangles' Famous Chicken 'n Biscuits,North Charlotte,1101 W Sugar Creek Rd,Charlotte,NC,28213,35.2756,-80.7939,2,12,1,-RP7Sw9lqHySxzzRFaeYiQ,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": false, ""valet"": false}"
+-RP7Sw9lqHySxzzRFaeYiQ,Bojangles' Famous Chicken 'n Biscuits,North Charlotte,1101 W Sugar Creek Rd,Charlotte,NC,28213,35.2756,-80.7939,2,12,1,-RP7Sw9lqHySxzzRFaeYiQ,Caters,0
+-RP7Sw9lqHySxzzRFaeYiQ,Bojangles' Famous Chicken 'n Biscuits,North Charlotte,1101 W Sugar Creek Rd,Charlotte,NC,28213,35.2756,-80.7939,2,12,1,-RP7Sw9lqHySxzzRFaeYiQ,GoodForKids,1
+-RP7Sw9lqHySxzzRFaeYiQ,Bojangles' Famous Chicken 'n Biscuits,North Charlotte,1101 W Sugar Creek Rd,Charlotte,NC,28213,35.2756,-80.7939,2,12,1,-RP7Sw9lqHySxzzRFaeYiQ,GoodForMeal,"{""dessert"": false, ""latenight"": false, ""lunch"": true, ""dinner"": false, ""breakfast"": true, ""brunch"": false}"
+-RP7Sw9lqHySxzzRFaeYiQ,Bojangles' Famous Chicken 'n Biscuits,North Charlotte,1101 W Sugar Creek Rd,Charlotte,NC,28213,35.2756,-80.7939,2,12,1,-RP7Sw9lqHySxzzRFaeYiQ,HasTV,0
+-RP7Sw9lqHySxzzRFaeYiQ,Bojangles' Famous Chicken 'n Biscuits,North Charlotte,1101 W Sugar Creek Rd,Charlotte,NC,28213,35.2756,-80.7939,2,12,1,-RP7Sw9lqHySxzzRFaeYiQ,NoiseLevel,average
+-RP7Sw9lqHySxzzRFaeYiQ,Bojangles' Famous Chicken 'n Biscuits,North Charlotte,1101 W Sugar Creek Rd,Charlotte,NC,28213,35.2756,-80.7939,2,12,1,-RP7Sw9lqHySxzzRFaeYiQ,OutdoorSeating,0
+-RP7Sw9lqHySxzzRFaeYiQ,Bojangles' Famous Chicken 'n Biscuits,North Charlotte,1101 W Sugar Creek Rd,Charlotte,NC,28213,35.2756,-80.7939,2,12,1,-RP7Sw9lqHySxzzRFaeYiQ,RestaurantsAttire,casual
+-RP7Sw9lqHySxzzRFaeYiQ,Bojangles' Famous Chicken 'n Biscuits,North Charlotte,1101 W Sugar Creek Rd,Charlotte,NC,28213,35.2756,-80.7939,2,12,1,-RP7Sw9lqHySxzzRFaeYiQ,RestaurantsDelivery,0
+-RP7Sw9lqHySxzzRFaeYiQ,Bojangles' Famous Chicken 'n Biscuits,North Charlotte,1101 W Sugar Creek Rd,Charlotte,NC,28213,35.2756,-80.7939,2,12,1,-RP7Sw9lqHySxzzRFaeYiQ,RestaurantsGoodForGroups,1
+-RP7Sw9lqHySxzzRFaeYiQ,Bojangles' Famous Chicken 'n Biscuits,North Charlotte,1101 W Sugar Creek Rd,Charlotte,NC,28213,35.2756,-80.7939,2,12,1,-RP7Sw9lqHySxzzRFaeYiQ,RestaurantsPriceRange2,1
+-RP7Sw9lqHySxzzRFaeYiQ,Bojangles' Famous Chicken 'n Biscuits,North Charlotte,1101 W Sugar Creek Rd,Charlotte,NC,28213,35.2756,-80.7939,2,12,1,-RP7Sw9lqHySxzzRFaeYiQ,RestaurantsReservations,0
+-RP7Sw9lqHySxzzRFaeYiQ,Bojangles' Famous Chicken 'n Biscuits,North Charlotte,1101 W Sugar Creek Rd,Charlotte,NC,28213,35.2756,-80.7939,2,12,1,-RP7Sw9lqHySxzzRFaeYiQ,RestaurantsTableService,0
+-RP7Sw9lqHySxzzRFaeYiQ,Bojangles' Famous Chicken 'n Biscuits,North Charlotte,1101 W Sugar Creek Rd,Charlotte,NC,28213,35.2756,-80.7939,2,12,1,-RP7Sw9lqHySxzzRFaeYiQ,RestaurantsTakeOut,1
+-sUf12Imjs68dBrmELiwzQ,Yama Izakaya,Plaza Midwood,1324 Central Ave,Charlotte,NC,28205,35.2206,-80.8156,4,171,1,-sUf12Imjs68dBrmELiwzQ,Alcohol,full_bar
+-sUf12Imjs68dBrmELiwzQ,Yama Izakaya,Plaza Midwood,1324 Central Ave,Charlotte,NC,28205,35.2206,-80.8156,4,171,1,-sUf12Imjs68dBrmELiwzQ,Ambience,"{""romantic"": false, ""intimate"": false, ""classy"": false, ""hipster"": false, ""divey"": false, ""touristy"": false, ""trendy"": true, ""upscale"": false, ""casual"": true}"
+-sUf12Imjs68dBrmELiwzQ,Yama Izakaya,Plaza Midwood,1324 Central Ave,Charlotte,NC,28205,35.2206,-80.8156,4,171,1,-sUf12Imjs68dBrmELiwzQ,BestNights,"{""monday"": false, ""tuesday"": false, ""friday"": true, ""wednesday"": false, ""thursday"": true, ""sunday"": false, ""saturday"": true}"
+-sUf12Imjs68dBrmELiwzQ,Yama Izakaya,Plaza Midwood,1324 Central Ave,Charlotte,NC,28205,35.2206,-80.8156,4,171,1,-sUf12Imjs68dBrmELiwzQ,BikeParking,1
+-sUf12Imjs68dBrmELiwzQ,Yama Izakaya,Plaza Midwood,1324 Central Ave,Charlotte,NC,28205,35.2206,-80.8156,4,171,1,-sUf12Imjs68dBrmELiwzQ,BusinessAcceptsCreditCards,1
+-sUf12Imjs68dBrmELiwzQ,Yama Izakaya,Plaza Midwood,1324 Central Ave,Charlotte,NC,28205,35.2206,-80.8156,4,171,1,-sUf12Imjs68dBrmELiwzQ,BusinessParking,"{""garage"": false, ""street"": true, ""validated"": false, ""lot"": true, ""valet"": false}"
+-sUf12Imjs68dBrmELiwzQ,Yama Izakaya,Plaza Midwood,1324 Central Ave,Charlotte,NC,28205,35.2206,-80.8156,4,171,1,-sUf12Imjs68dBrmELiwzQ,Caters,1
+-sUf12Imjs68dBrmELiwzQ,Yama Izakaya,Plaza Midwood,1324 Central Ave,Charlotte,NC,28205,35.2206,-80.8156,4,171,1,-sUf12Imjs68dBrmELiwzQ,CoatCheck,0
+-sUf12Imjs68dBrmELiwzQ,Yama Izakaya,Plaza Midwood,1324 Central Ave,Charlotte,NC,28205,35.2206,-80.8156,4,171,1,-sUf12Imjs68dBrmELiwzQ,GoodForDancing,0
+-sUf12Imjs68dBrmELiwzQ,Yama Izakaya,Plaza Midwood,1324 Central Ave,Charlotte,NC,28205,35.2206,-80.8156,4,171,1,-sUf12Imjs68dBrmELiwzQ,GoodForKids,1
+-sUf12Imjs68dBrmELiwzQ,Yama Izakaya,Plaza Midwood,1324 Central Ave,Charlotte,NC,28205,35.2206,-80.8156,4,171,1,-sUf12Imjs68dBrmELiwzQ,GoodForMeal,"{""dessert"": false, ""latenight"": false, ""lunch"": false, ""dinner"": true, ""breakfast"": false, ""brunch"": false}"
+-sUf12Imjs68dBrmELiwzQ,Yama Izakaya,Plaza Midwood,1324 Central Ave,Charlotte,NC,28205,35.2206,-80.8156,4,171,1,-sUf12Imjs68dBrmELiwzQ,HappyHour,1
+-sUf12Imjs68dBrmELiwzQ,Yama Izakaya,Plaza Midwood,1324 Central Ave,Charlotte,NC,28205,35.2206,-80.8156,4,171,1,-sUf12Imjs68dBrmELiwzQ,HasTV,1
+-sUf12Imjs68dBrmELiwzQ,Yama Izakaya,Plaza Midwood,1324 Central Ave,Charlotte,NC,28205,35.2206,-80.8156,4,171,1,-sUf12Imjs68dBrmELiwzQ,Music,"{""dj"": false, ""background_music"": false, ""no_music"": false, ""karaoke"": false, ""live"": false, ""video"": false, ""jukebox"": false}"
+-sUf12Imjs68dBrmELiwzQ,Yama Izakaya,Plaza Midwood,1324 Central Ave,Charlotte,NC,28205,35.2206,-80.8156,4,171,1,-sUf12Imjs68dBrmELiwzQ,NoiseLevel,average
+-sUf12Imjs68dBrmELiwzQ,Yama Izakaya,Plaza Midwood,1324 Central Ave,Charlotte,NC,28205,35.2206,-80.8156,4,171,1,-sUf12Imjs68dBrmELiwzQ,OutdoorSeating,1
+-sUf12Imjs68dBrmELiwzQ,Yama Izakaya,Plaza Midwood,1324 Central Ave,Charlotte,NC,28205,35.2206,-80.8156,4,171,1,-sUf12Imjs68dBrmELiwzQ,RestaurantsAttire,casual
+-sUf12Imjs68dBrmELiwzQ,Yama Izakaya,Plaza Midwood,1324 Central Ave,Charlotte,NC,28205,35.2206,-80.8156,4,171,1,-sUf12Imjs68dBrmELiwzQ,RestaurantsDelivery,0
+-sUf12Imjs68dBrmELiwzQ,Yama Izakaya,Plaza Midwood,1324 Central Ave,Charlotte,NC,28205,35.2206,-80.8156,4,171,1,-sUf12Imjs68dBrmELiwzQ,RestaurantsGoodForGroups,1
+-sUf12Imjs68dBrmELiwzQ,Yama Izakaya,Plaza Midwood,1324 Central Ave,Charlotte,NC,28205,35.2206,-80.8156,4,171,1,-sUf12Imjs68dBrmELiwzQ,RestaurantsPriceRange2,2
+-sUf12Imjs68dBrmELiwzQ,Yama Izakaya,Plaza Midwood,1324 Central Ave,Charlotte,NC,28205,35.2206,-80.8156,4,171,1,-sUf12Imjs68dBrmELiwzQ,RestaurantsReservations,1
+-sUf12Imjs68dBrmELiwzQ,Yama Izakaya,Plaza Midwood,1324 Central Ave,Charlotte,NC,28205,35.2206,-80.8156,4,171,1,-sUf12Imjs68dBrmELiwzQ,RestaurantsTableService,1
+-sUf12Imjs68dBrmELiwzQ,Yama Izakaya,Plaza Midwood,1324 Central Ave,Charlotte,NC,28205,35.2206,-80.8156,4,171,1,-sUf12Imjs68dBrmELiwzQ,RestaurantsTakeOut,1
+-sUf12Imjs68dBrmELiwzQ,Yama Izakaya,Plaza Midwood,1324 Central Ave,Charlotte,NC,28205,35.2206,-80.8156,4,171,1,-sUf12Imjs68dBrmELiwzQ,Smoking,no
+-sUf12Imjs68dBrmELiwzQ,Yama Izakaya,Plaza Midwood,1324 Central Ave,Charlotte,NC,28205,35.2206,-80.8156,4,171,1,-sUf12Imjs68dBrmELiwzQ,WheelchairAccessible,1
+-sUf12Imjs68dBrmELiwzQ,Yama Izakaya,Plaza Midwood,1324 Central Ave,Charlotte,NC,28205,35.2206,-80.8156,4,171,1,-sUf12Imjs68dBrmELiwzQ,WiFi,free
+-T0M3exc6tC6sw5LjtVdDQ,Silver Bullet Diner,Eastland,6003 Albemarle Rd,Charlotte,NC,28212,35.2035,-80.7435,3.5,8,1,-T0M3exc6tC6sw5LjtVdDQ,Ambience,"{""romantic"": false, ""intimate"": false, ""classy"": false, ""hipster"": false, ""divey"": false, ""touristy"": false, ""trendy"": false, ""upscale"": false, ""casual"": false}"
+-T0M3exc6tC6sw5LjtVdDQ,Silver Bullet Diner,Eastland,6003 Albemarle Rd,Charlotte,NC,28212,35.2035,-80.7435,3.5,8,1,-T0M3exc6tC6sw5LjtVdDQ,BikeParking,1
+-T0M3exc6tC6sw5LjtVdDQ,Silver Bullet Diner,Eastland,6003 Albemarle Rd,Charlotte,NC,28212,35.2035,-80.7435,3.5,8,1,-T0M3exc6tC6sw5LjtVdDQ,BusinessAcceptsCreditCards,1
+-T0M3exc6tC6sw5LjtVdDQ,Silver Bullet Diner,Eastland,6003 Albemarle Rd,Charlotte,NC,28212,35.2035,-80.7435,3.5,8,1,-T0M3exc6tC6sw5LjtVdDQ,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": false, ""valet"": false}"
+-T0M3exc6tC6sw5LjtVdDQ,Silver Bullet Diner,Eastland,6003 Albemarle Rd,Charlotte,NC,28212,35.2035,-80.7435,3.5,8,1,-T0M3exc6tC6sw5LjtVdDQ,Caters,1
+-T0M3exc6tC6sw5LjtVdDQ,Silver Bullet Diner,Eastland,6003 Albemarle Rd,Charlotte,NC,28212,35.2035,-80.7435,3.5,8,1,-T0M3exc6tC6sw5LjtVdDQ,DriveThru,0
+-T0M3exc6tC6sw5LjtVdDQ,Silver Bullet Diner,Eastland,6003 Albemarle Rd,Charlotte,NC,28212,35.2035,-80.7435,3.5,8,1,-T0M3exc6tC6sw5LjtVdDQ,GoodForKids,1
+-T0M3exc6tC6sw5LjtVdDQ,Silver Bullet Diner,Eastland,6003 Albemarle Rd,Charlotte,NC,28212,35.2035,-80.7435,3.5,8,1,-T0M3exc6tC6sw5LjtVdDQ,GoodForMeal,"{""dessert"": false, ""latenight"": false, ""lunch"": false, ""dinner"": false, ""breakfast"": false, ""brunch"": false}"
+-T0M3exc6tC6sw5LjtVdDQ,Silver Bullet Diner,Eastland,6003 Albemarle Rd,Charlotte,NC,28212,35.2035,-80.7435,3.5,8,1,-T0M3exc6tC6sw5LjtVdDQ,HasTV,1
+-T0M3exc6tC6sw5LjtVdDQ,Silver Bullet Diner,Eastland,6003 Albemarle Rd,Charlotte,NC,28212,35.2035,-80.7435,3.5,8,1,-T0M3exc6tC6sw5LjtVdDQ,OutdoorSeating,0
+-T0M3exc6tC6sw5LjtVdDQ,Silver Bullet Diner,Eastland,6003 Albemarle Rd,Charlotte,NC,28212,35.2035,-80.7435,3.5,8,1,-T0M3exc6tC6sw5LjtVdDQ,RestaurantsAttire,casual
+-T0M3exc6tC6sw5LjtVdDQ,Silver Bullet Diner,Eastland,6003 Albemarle Rd,Charlotte,NC,28212,35.2035,-80.7435,3.5,8,1,-T0M3exc6tC6sw5LjtVdDQ,RestaurantsDelivery,0
+-T0M3exc6tC6sw5LjtVdDQ,Silver Bullet Diner,Eastland,6003 Albemarle Rd,Charlotte,NC,28212,35.2035,-80.7435,3.5,8,1,-T0M3exc6tC6sw5LjtVdDQ,RestaurantsGoodForGroups,1
+-T0M3exc6tC6sw5LjtVdDQ,Silver Bullet Diner,Eastland,6003 Albemarle Rd,Charlotte,NC,28212,35.2035,-80.7435,3.5,8,1,-T0M3exc6tC6sw5LjtVdDQ,RestaurantsPriceRange2,1
+-T0M3exc6tC6sw5LjtVdDQ,Silver Bullet Diner,Eastland,6003 Albemarle Rd,Charlotte,NC,28212,35.2035,-80.7435,3.5,8,1,-T0M3exc6tC6sw5LjtVdDQ,RestaurantsReservations,1
+-T0M3exc6tC6sw5LjtVdDQ,Silver Bullet Diner,Eastland,6003 Albemarle Rd,Charlotte,NC,28212,35.2035,-80.7435,3.5,8,1,-T0M3exc6tC6sw5LjtVdDQ,RestaurantsTakeOut,1
+-t8HvfwItdforAZaHDzlpw,Charlotte Taekwondo America,,9818 Monroe Rd,Charlotte,NC,28270,35.1385,-80.7388,3,3,0,-t8HvfwItdforAZaHDzlpw,GoodForKids,1
+-t9CUeB3TeqM88Zn90ta4Q,Publix,Ballantyne,11222 Providence Rd W,Charlotte,NC,28277,35.0423,-80.8474,4.5,35,1,-t9CUeB3TeqM88Zn90ta4Q,BikeParking,1
+-t9CUeB3TeqM88Zn90ta4Q,Publix,Ballantyne,11222 Providence Rd W,Charlotte,NC,28277,35.0423,-80.8474,4.5,35,1,-t9CUeB3TeqM88Zn90ta4Q,BusinessAcceptsCreditCards,1
+-t9CUeB3TeqM88Zn90ta4Q,Publix,Ballantyne,11222 Providence Rd W,Charlotte,NC,28277,35.0423,-80.8474,4.5,35,1,-t9CUeB3TeqM88Zn90ta4Q,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": true, ""valet"": false}"
+-t9CUeB3TeqM88Zn90ta4Q,Publix,Ballantyne,11222 Providence Rd W,Charlotte,NC,28277,35.0423,-80.8474,4.5,35,1,-t9CUeB3TeqM88Zn90ta4Q,Caters,1
+-t9CUeB3TeqM88Zn90ta4Q,Publix,Ballantyne,11222 Providence Rd W,Charlotte,NC,28277,35.0423,-80.8474,4.5,35,1,-t9CUeB3TeqM88Zn90ta4Q,RestaurantsPriceRange2,2
+-t9CUeB3TeqM88Zn90ta4Q,Publix,Ballantyne,11222 Providence Rd W,Charlotte,NC,28277,35.0423,-80.8474,4.5,35,1,-t9CUeB3TeqM88Zn90ta4Q,RestaurantsTakeOut,1
+-TFv_KaosUSnkJFUb9MUaA,River Birch Apartments,,8200 Riverbirch Dr,Charlotte,NC,28210,35.1155,-80.8701,1,5,1,-TFv_KaosUSnkJFUb9MUaA,BusinessAcceptsCreditCards,1
+-TFv_KaosUSnkJFUb9MUaA,River Birch Apartments,,8200 Riverbirch Dr,Charlotte,NC,28210,35.1155,-80.8701,1,5,1,-TFv_KaosUSnkJFUb9MUaA,ByAppointmentOnly,0
+-TGcWqOKS4nOPObfjFEqqQ,Ghorshi Family Dentistry,,"11301 Golf Links Dr N, Ste 201",Charlotte,NC,28277,35.0553,-80.7703,5,3,1,-TGcWqOKS4nOPObfjFEqqQ,AcceptsInsurance,1
+-TGcWqOKS4nOPObfjFEqqQ,Ghorshi Family Dentistry,,"11301 Golf Links Dr N, Ste 201",Charlotte,NC,28277,35.0553,-80.7703,5,3,1,-TGcWqOKS4nOPObfjFEqqQ,BusinessAcceptsCreditCards,1
+-TGcWqOKS4nOPObfjFEqqQ,Ghorshi Family Dentistry,,"11301 Golf Links Dr N, Ste 201",Charlotte,NC,28277,35.0553,-80.7703,5,3,1,-TGcWqOKS4nOPObfjFEqqQ,ByAppointmentOnly,1
+-u0dtJz6sBkhgLhAIBY_1A,Polished Nail Bar,Elizabeth,605 Providence Rd,Charlotte,NC,28207,35.2017,-80.8246,2.5,52,1,-u0dtJz6sBkhgLhAIBY_1A,BikeParking,1
+-u0dtJz6sBkhgLhAIBY_1A,Polished Nail Bar,Elizabeth,605 Providence Rd,Charlotte,NC,28207,35.2017,-80.8246,2.5,52,1,-u0dtJz6sBkhgLhAIBY_1A,BusinessAcceptsCreditCards,1
+-u0dtJz6sBkhgLhAIBY_1A,Polished Nail Bar,Elizabeth,605 Providence Rd,Charlotte,NC,28207,35.2017,-80.8246,2.5,52,1,-u0dtJz6sBkhgLhAIBY_1A,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": true, ""valet"": false}"
+-u0dtJz6sBkhgLhAIBY_1A,Polished Nail Bar,Elizabeth,605 Providence Rd,Charlotte,NC,28207,35.2017,-80.8246,2.5,52,1,-u0dtJz6sBkhgLhAIBY_1A,ByAppointmentOnly,0
+-u0dtJz6sBkhgLhAIBY_1A,Polished Nail Bar,Elizabeth,605 Providence Rd,Charlotte,NC,28207,35.2017,-80.8246,2.5,52,1,-u0dtJz6sBkhgLhAIBY_1A,RestaurantsPriceRange2,2
+-U0liwRSHGYBEMYVj8kFmQ,Mickey & Mooch,Arboretum,8128 Providence Rd,Charlotte,NC,28277,35.096,-80.7801,3,95,1,-U0liwRSHGYBEMYVj8kFmQ,Alcohol,full_bar
+-U0liwRSHGYBEMYVj8kFmQ,Mickey & Mooch,Arboretum,8128 Providence Rd,Charlotte,NC,28277,35.096,-80.7801,3,95,1,-U0liwRSHGYBEMYVj8kFmQ,Ambience,"{""romantic"": false, ""intimate"": false, ""classy"": true, ""hipster"": false, ""divey"": false, ""touristy"": false, ""trendy"": false, ""upscale"": false, ""casual"": false}"
+-U0liwRSHGYBEMYVj8kFmQ,Mickey & Mooch,Arboretum,8128 Providence Rd,Charlotte,NC,28277,35.096,-80.7801,3,95,1,-U0liwRSHGYBEMYVj8kFmQ,BikeParking,0
+-U0liwRSHGYBEMYVj8kFmQ,Mickey & Mooch,Arboretum,8128 Providence Rd,Charlotte,NC,28277,35.096,-80.7801,3,95,1,-U0liwRSHGYBEMYVj8kFmQ,BusinessAcceptsCreditCards,1
+-U0liwRSHGYBEMYVj8kFmQ,Mickey & Mooch,Arboretum,8128 Providence Rd,Charlotte,NC,28277,35.096,-80.7801,3,95,1,-U0liwRSHGYBEMYVj8kFmQ,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": true, ""valet"": false}"
+-U0liwRSHGYBEMYVj8kFmQ,Mickey & Mooch,Arboretum,8128 Providence Rd,Charlotte,NC,28277,35.096,-80.7801,3,95,1,-U0liwRSHGYBEMYVj8kFmQ,Caters,0
+-U0liwRSHGYBEMYVj8kFmQ,Mickey & Mooch,Arboretum,8128 Providence Rd,Charlotte,NC,28277,35.096,-80.7801,3,95,1,-U0liwRSHGYBEMYVj8kFmQ,GoodForKids,0
+-U0liwRSHGYBEMYVj8kFmQ,Mickey & Mooch,Arboretum,8128 Providence Rd,Charlotte,NC,28277,35.096,-80.7801,3,95,1,-U0liwRSHGYBEMYVj8kFmQ,GoodForMeal,"{""dessert"": false, ""latenight"": false, ""lunch"": false, ""dinner"": true, ""breakfast"": false, ""brunch"": false}"
+-U0liwRSHGYBEMYVj8kFmQ,Mickey & Mooch,Arboretum,8128 Providence Rd,Charlotte,NC,28277,35.096,-80.7801,3,95,1,-U0liwRSHGYBEMYVj8kFmQ,HasTV,1
+-U0liwRSHGYBEMYVj8kFmQ,Mickey & Mooch,Arboretum,8128 Providence Rd,Charlotte,NC,28277,35.096,-80.7801,3,95,1,-U0liwRSHGYBEMYVj8kFmQ,NoiseLevel,average
+-U0liwRSHGYBEMYVj8kFmQ,Mickey & Mooch,Arboretum,8128 Providence Rd,Charlotte,NC,28277,35.096,-80.7801,3,95,1,-U0liwRSHGYBEMYVj8kFmQ,OutdoorSeating,1
+-U0liwRSHGYBEMYVj8kFmQ,Mickey & Mooch,Arboretum,8128 Providence Rd,Charlotte,NC,28277,35.096,-80.7801,3,95,1,-U0liwRSHGYBEMYVj8kFmQ,RestaurantsAttire,casual
+-U0liwRSHGYBEMYVj8kFmQ,Mickey & Mooch,Arboretum,8128 Providence Rd,Charlotte,NC,28277,35.096,-80.7801,3,95,1,-U0liwRSHGYBEMYVj8kFmQ,RestaurantsDelivery,0
+-U0liwRSHGYBEMYVj8kFmQ,Mickey & Mooch,Arboretum,8128 Providence Rd,Charlotte,NC,28277,35.096,-80.7801,3,95,1,-U0liwRSHGYBEMYVj8kFmQ,RestaurantsGoodForGroups,1
+-U0liwRSHGYBEMYVj8kFmQ,Mickey & Mooch,Arboretum,8128 Providence Rd,Charlotte,NC,28277,35.096,-80.7801,3,95,1,-U0liwRSHGYBEMYVj8kFmQ,RestaurantsPriceRange2,3
+-U0liwRSHGYBEMYVj8kFmQ,Mickey & Mooch,Arboretum,8128 Providence Rd,Charlotte,NC,28277,35.096,-80.7801,3,95,1,-U0liwRSHGYBEMYVj8kFmQ,RestaurantsReservations,1
+-U0liwRSHGYBEMYVj8kFmQ,Mickey & Mooch,Arboretum,8128 Providence Rd,Charlotte,NC,28277,35.096,-80.7801,3,95,1,-U0liwRSHGYBEMYVj8kFmQ,RestaurantsTableService,1
+-U0liwRSHGYBEMYVj8kFmQ,Mickey & Mooch,Arboretum,8128 Providence Rd,Charlotte,NC,28277,35.096,-80.7801,3,95,1,-U0liwRSHGYBEMYVj8kFmQ,RestaurantsTakeOut,1
+-U0liwRSHGYBEMYVj8kFmQ,Mickey & Mooch,Arboretum,8128 Providence Rd,Charlotte,NC,28277,35.096,-80.7801,3,95,1,-U0liwRSHGYBEMYVj8kFmQ,WheelchairAccessible,1
+-U0liwRSHGYBEMYVj8kFmQ,Mickey & Mooch,Arboretum,8128 Providence Rd,Charlotte,NC,28277,35.096,-80.7801,3,95,1,-U0liwRSHGYBEMYVj8kFmQ,WiFi,no
+-ub4sJzrd7v3NW72qY1pmQ,Planet 21,South End,"325 Arlington Ave, Ste 140",Charlotte,NC,28203,35.2168,-80.8521,5,3,1,-ub4sJzrd7v3NW72qY1pmQ,BikeParking,1
+-ub4sJzrd7v3NW72qY1pmQ,Planet 21,South End,"325 Arlington Ave, Ste 140",Charlotte,NC,28203,35.2168,-80.8521,5,3,1,-ub4sJzrd7v3NW72qY1pmQ,BusinessAcceptsCreditCards,1
+-ub4sJzrd7v3NW72qY1pmQ,Planet 21,South End,"325 Arlington Ave, Ste 140",Charlotte,NC,28203,35.2168,-80.8521,5,3,1,-ub4sJzrd7v3NW72qY1pmQ,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": false, ""valet"": false}"
+-ub4sJzrd7v3NW72qY1pmQ,Planet 21,South End,"325 Arlington Ave, Ste 140",Charlotte,NC,28203,35.2168,-80.8521,5,3,1,-ub4sJzrd7v3NW72qY1pmQ,ByAppointmentOnly,1
+-ub4sJzrd7v3NW72qY1pmQ,Planet 21,South End,"325 Arlington Ave, Ste 140",Charlotte,NC,28203,35.2168,-80.8521,5,3,1,-ub4sJzrd7v3NW72qY1pmQ,GoodForKids,1
+-ub4sJzrd7v3NW72qY1pmQ,Planet 21,South End,"325 Arlington Ave, Ste 140",Charlotte,NC,28203,35.2168,-80.8521,5,3,1,-ub4sJzrd7v3NW72qY1pmQ,RestaurantsPriceRange2,2
+-UQE0keLbAUuaaw1twT6zg,Zoë Massage & Bodywork,,"4728 Park Rd, Ste D",Charlotte,NC,28209,35.1655,-80.8513,5,16,1,-UQE0keLbAUuaaw1twT6zg,AcceptsInsurance,0
+-UQE0keLbAUuaaw1twT6zg,Zoë Massage & Bodywork,,"4728 Park Rd, Ste D",Charlotte,NC,28209,35.1655,-80.8513,5,16,1,-UQE0keLbAUuaaw1twT6zg,BikeParking,1
+-UQE0keLbAUuaaw1twT6zg,Zoë Massage & Bodywork,,"4728 Park Rd, Ste D",Charlotte,NC,28209,35.1655,-80.8513,5,16,1,-UQE0keLbAUuaaw1twT6zg,BusinessAcceptsBitcoin,0
+-UQE0keLbAUuaaw1twT6zg,Zoë Massage & Bodywork,,"4728 Park Rd, Ste D",Charlotte,NC,28209,35.1655,-80.8513,5,16,1,-UQE0keLbAUuaaw1twT6zg,BusinessAcceptsCreditCards,1
+-UQE0keLbAUuaaw1twT6zg,Zoë Massage & Bodywork,,"4728 Park Rd, Ste D",Charlotte,NC,28209,35.1655,-80.8513,5,16,1,-UQE0keLbAUuaaw1twT6zg,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": true, ""valet"": false}"
+-UQE0keLbAUuaaw1twT6zg,Zoë Massage & Bodywork,,"4728 Park Rd, Ste D",Charlotte,NC,28209,35.1655,-80.8513,5,16,1,-UQE0keLbAUuaaw1twT6zg,ByAppointmentOnly,1
+-UQE0keLbAUuaaw1twT6zg,Zoë Massage & Bodywork,,"4728 Park Rd, Ste D",Charlotte,NC,28209,35.1655,-80.8513,5,16,1,-UQE0keLbAUuaaw1twT6zg,WheelchairAccessible,0
+-UV2tt3gy57-5a29paA_4w,Sub One Hoagie House,Fourth Ward,516 N Graham St,Charlotte,NC,28202,35.234,-80.8418,4.5,38,1,-UV2tt3gy57-5a29paA_4w,Alcohol,none
+-UV2tt3gy57-5a29paA_4w,Sub One Hoagie House,Fourth Ward,516 N Graham St,Charlotte,NC,28202,35.234,-80.8418,4.5,38,1,-UV2tt3gy57-5a29paA_4w,Ambience,"{""romantic"": false, ""intimate"": false, ""classy"": false, ""hipster"": false, ""divey"": false, ""touristy"": false, ""trendy"": false, ""upscale"": false, ""casual"": true}"
+-UV2tt3gy57-5a29paA_4w,Sub One Hoagie House,Fourth Ward,516 N Graham St,Charlotte,NC,28202,35.234,-80.8418,4.5,38,1,-UV2tt3gy57-5a29paA_4w,BikeParking,1
+-UV2tt3gy57-5a29paA_4w,Sub One Hoagie House,Fourth Ward,516 N Graham St,Charlotte,NC,28202,35.234,-80.8418,4.5,38,1,-UV2tt3gy57-5a29paA_4w,BusinessAcceptsCreditCards,1
+-UV2tt3gy57-5a29paA_4w,Sub One Hoagie House,Fourth Ward,516 N Graham St,Charlotte,NC,28202,35.234,-80.8418,4.5,38,1,-UV2tt3gy57-5a29paA_4w,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": true, ""valet"": false}"
+-UV2tt3gy57-5a29paA_4w,Sub One Hoagie House,Fourth Ward,516 N Graham St,Charlotte,NC,28202,35.234,-80.8418,4.5,38,1,-UV2tt3gy57-5a29paA_4w,Caters,1
+-UV2tt3gy57-5a29paA_4w,Sub One Hoagie House,Fourth Ward,516 N Graham St,Charlotte,NC,28202,35.234,-80.8418,4.5,38,1,-UV2tt3gy57-5a29paA_4w,GoodForKids,1
+-UV2tt3gy57-5a29paA_4w,Sub One Hoagie House,Fourth Ward,516 N Graham St,Charlotte,NC,28202,35.234,-80.8418,4.5,38,1,-UV2tt3gy57-5a29paA_4w,GoodForMeal,"{""dessert"": false, ""latenight"": false, ""lunch"": true, ""dinner"": false, ""breakfast"": false, ""brunch"": false}"
+-UV2tt3gy57-5a29paA_4w,Sub One Hoagie House,Fourth Ward,516 N Graham St,Charlotte,NC,28202,35.234,-80.8418,4.5,38,1,-UV2tt3gy57-5a29paA_4w,HasTV,1
+-UV2tt3gy57-5a29paA_4w,Sub One Hoagie House,Fourth Ward,516 N Graham St,Charlotte,NC,28202,35.234,-80.8418,4.5,38,1,-UV2tt3gy57-5a29paA_4w,NoiseLevel,average
+-UV2tt3gy57-5a29paA_4w,Sub One Hoagie House,Fourth Ward,516 N Graham St,Charlotte,NC,28202,35.234,-80.8418,4.5,38,1,-UV2tt3gy57-5a29paA_4w,OutdoorSeating,0
+-UV2tt3gy57-5a29paA_4w,Sub One Hoagie House,Fourth Ward,516 N Graham St,Charlotte,NC,28202,35.234,-80.8418,4.5,38,1,-UV2tt3gy57-5a29paA_4w,RestaurantsAttire,casual
+-UV2tt3gy57-5a29paA_4w,Sub One Hoagie House,Fourth Ward,516 N Graham St,Charlotte,NC,28202,35.234,-80.8418,4.5,38,1,-UV2tt3gy57-5a29paA_4w,RestaurantsDelivery,0
+-UV2tt3gy57-5a29paA_4w,Sub One Hoagie House,Fourth Ward,516 N Graham St,Charlotte,NC,28202,35.234,-80.8418,4.5,38,1,-UV2tt3gy57-5a29paA_4w,RestaurantsGoodForGroups,1
+-UV2tt3gy57-5a29paA_4w,Sub One Hoagie House,Fourth Ward,516 N Graham St,Charlotte,NC,28202,35.234,-80.8418,4.5,38,1,-UV2tt3gy57-5a29paA_4w,RestaurantsPriceRange2,1
+-UV2tt3gy57-5a29paA_4w,Sub One Hoagie House,Fourth Ward,516 N Graham St,Charlotte,NC,28202,35.234,-80.8418,4.5,38,1,-UV2tt3gy57-5a29paA_4w,RestaurantsReservations,0
+-UV2tt3gy57-5a29paA_4w,Sub One Hoagie House,Fourth Ward,516 N Graham St,Charlotte,NC,28202,35.234,-80.8418,4.5,38,1,-UV2tt3gy57-5a29paA_4w,RestaurantsTableService,0
+-UV2tt3gy57-5a29paA_4w,Sub One Hoagie House,Fourth Ward,516 N Graham St,Charlotte,NC,28202,35.234,-80.8418,4.5,38,1,-UV2tt3gy57-5a29paA_4w,RestaurantsTakeOut,1
+-UV2tt3gy57-5a29paA_4w,Sub One Hoagie House,Fourth Ward,516 N Graham St,Charlotte,NC,28202,35.234,-80.8418,4.5,38,1,-UV2tt3gy57-5a29paA_4w,WheelchairAccessible,1
+-UV2tt3gy57-5a29paA_4w,Sub One Hoagie House,Fourth Ward,516 N Graham St,Charlotte,NC,28202,35.234,-80.8418,4.5,38,1,-UV2tt3gy57-5a29paA_4w,WiFi,no
+-uYnPpNwsjSpGv3IB219RQ,The TV Shop,,3501-D S Tryon St,Charlotte,NC,28217,35.1953,-80.877,2.5,3,1,-uYnPpNwsjSpGv3IB219RQ,BusinessAcceptsCreditCards,1
+-uYnPpNwsjSpGv3IB219RQ,The TV Shop,,3501-D S Tryon St,Charlotte,NC,28217,35.1953,-80.877,2.5,3,1,-uYnPpNwsjSpGv3IB219RQ,ByAppointmentOnly,0
+-v1R77LWYR635USZ2o6LSw,Parkway Cafe,,4944 Parkway Plaza Blvd,Charlotte,NC,28217,35.1834,-80.9035,3,7,1,-v1R77LWYR635USZ2o6LSw,Alcohol,none
+-v1R77LWYR635USZ2o6LSw,Parkway Cafe,,4944 Parkway Plaza Blvd,Charlotte,NC,28217,35.1834,-80.9035,3,7,1,-v1R77LWYR635USZ2o6LSw,Ambience,"{""romantic"": false, ""intimate"": false, ""classy"": false, ""hipster"": false, ""divey"": false, ""touristy"": false, ""trendy"": false, ""upscale"": false, ""casual"": false}"
+-v1R77LWYR635USZ2o6LSw,Parkway Cafe,,4944 Parkway Plaza Blvd,Charlotte,NC,28217,35.1834,-80.9035,3,7,1,-v1R77LWYR635USZ2o6LSw,BikeParking,1
+-v1R77LWYR635USZ2o6LSw,Parkway Cafe,,4944 Parkway Plaza Blvd,Charlotte,NC,28217,35.1834,-80.9035,3,7,1,-v1R77LWYR635USZ2o6LSw,BusinessAcceptsCreditCards,1
+-v1R77LWYR635USZ2o6LSw,Parkway Cafe,,4944 Parkway Plaza Blvd,Charlotte,NC,28217,35.1834,-80.9035,3,7,1,-v1R77LWYR635USZ2o6LSw,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": false, ""valet"": false}"
+-v1R77LWYR635USZ2o6LSw,Parkway Cafe,,4944 Parkway Plaza Blvd,Charlotte,NC,28217,35.1834,-80.9035,3,7,1,-v1R77LWYR635USZ2o6LSw,Caters,1
+-v1R77LWYR635USZ2o6LSw,Parkway Cafe,,4944 Parkway Plaza Blvd,Charlotte,NC,28217,35.1834,-80.9035,3,7,1,-v1R77LWYR635USZ2o6LSw,GoodForKids,1
+-v1R77LWYR635USZ2o6LSw,Parkway Cafe,,4944 Parkway Plaza Blvd,Charlotte,NC,28217,35.1834,-80.9035,3,7,1,-v1R77LWYR635USZ2o6LSw,GoodForMeal,"{""dessert"": false, ""latenight"": false, ""lunch"": true, ""dinner"": false, ""breakfast"": true, ""brunch"": false}"
+-v1R77LWYR635USZ2o6LSw,Parkway Cafe,,4944 Parkway Plaza Blvd,Charlotte,NC,28217,35.1834,-80.9035,3,7,1,-v1R77LWYR635USZ2o6LSw,HasTV,0
+-v1R77LWYR635USZ2o6LSw,Parkway Cafe,,4944 Parkway Plaza Blvd,Charlotte,NC,28217,35.1834,-80.9035,3,7,1,-v1R77LWYR635USZ2o6LSw,OutdoorSeating,1
+-v1R77LWYR635USZ2o6LSw,Parkway Cafe,,4944 Parkway Plaza Blvd,Charlotte,NC,28217,35.1834,-80.9035,3,7,1,-v1R77LWYR635USZ2o6LSw,RestaurantsAttire,casual
+-v1R77LWYR635USZ2o6LSw,Parkway Cafe,,4944 Parkway Plaza Blvd,Charlotte,NC,28217,35.1834,-80.9035,3,7,1,-v1R77LWYR635USZ2o6LSw,RestaurantsDelivery,1
+-v1R77LWYR635USZ2o6LSw,Parkway Cafe,,4944 Parkway Plaza Blvd,Charlotte,NC,28217,35.1834,-80.9035,3,7,1,-v1R77LWYR635USZ2o6LSw,RestaurantsGoodForGroups,1
+-v1R77LWYR635USZ2o6LSw,Parkway Cafe,,4944 Parkway Plaza Blvd,Charlotte,NC,28217,35.1834,-80.9035,3,7,1,-v1R77LWYR635USZ2o6LSw,RestaurantsPriceRange2,1
+-v1R77LWYR635USZ2o6LSw,Parkway Cafe,,4944 Parkway Plaza Blvd,Charlotte,NC,28217,35.1834,-80.9035,3,7,1,-v1R77LWYR635USZ2o6LSw,RestaurantsReservations,0
+-v1R77LWYR635USZ2o6LSw,Parkway Cafe,,4944 Parkway Plaza Blvd,Charlotte,NC,28217,35.1834,-80.9035,3,7,1,-v1R77LWYR635USZ2o6LSw,RestaurantsTableService,1
+-v1R77LWYR635USZ2o6LSw,Parkway Cafe,,4944 Parkway Plaza Blvd,Charlotte,NC,28217,35.1834,-80.9035,3,7,1,-v1R77LWYR635USZ2o6LSw,RestaurantsTakeOut,1
+-v1R77LWYR635USZ2o6LSw,Parkway Cafe,,4944 Parkway Plaza Blvd,Charlotte,NC,28217,35.1834,-80.9035,3,7,1,-v1R77LWYR635USZ2o6LSw,WheelchairAccessible,1
+-v1R77LWYR635USZ2o6LSw,Parkway Cafe,,4944 Parkway Plaza Blvd,Charlotte,NC,28217,35.1834,-80.9035,3,7,1,-v1R77LWYR635USZ2o6LSw,WiFi,free
+-VlfL9rbFuI42CTFFtgMmw,Burger King,North Charlotte,3709 N Tryon St,Charlotte,NC,28206,35.255,-80.8022,2,5,1,-VlfL9rbFuI42CTFFtgMmw,Alcohol,none
+-VlfL9rbFuI42CTFFtgMmw,Burger King,North Charlotte,3709 N Tryon St,Charlotte,NC,28206,35.255,-80.8022,2,5,1,-VlfL9rbFuI42CTFFtgMmw,BusinessAcceptsCreditCards,1
+-VlfL9rbFuI42CTFFtgMmw,Burger King,North Charlotte,3709 N Tryon St,Charlotte,NC,28206,35.255,-80.8022,2,5,1,-VlfL9rbFuI42CTFFtgMmw,GoodForKids,1
+-VlfL9rbFuI42CTFFtgMmw,Burger King,North Charlotte,3709 N Tryon St,Charlotte,NC,28206,35.255,-80.8022,2,5,1,-VlfL9rbFuI42CTFFtgMmw,GoodForMeal,"{""dessert"": false, ""latenight"": false, ""lunch"": false, ""dinner"": false, ""breakfast"": false, ""brunch"": false}"
+-VlfL9rbFuI42CTFFtgMmw,Burger King,North Charlotte,3709 N Tryon St,Charlotte,NC,28206,35.255,-80.8022,2,5,1,-VlfL9rbFuI42CTFFtgMmw,NoiseLevel,average
+-VlfL9rbFuI42CTFFtgMmw,Burger King,North Charlotte,3709 N Tryon St,Charlotte,NC,28206,35.255,-80.8022,2,5,1,-VlfL9rbFuI42CTFFtgMmw,OutdoorSeating,0
+-VlfL9rbFuI42CTFFtgMmw,Burger King,North Charlotte,3709 N Tryon St,Charlotte,NC,28206,35.255,-80.8022,2,5,1,-VlfL9rbFuI42CTFFtgMmw,RestaurantsAttire,casual
+-VlfL9rbFuI42CTFFtgMmw,Burger King,North Charlotte,3709 N Tryon St,Charlotte,NC,28206,35.255,-80.8022,2,5,1,-VlfL9rbFuI42CTFFtgMmw,RestaurantsDelivery,0
+-VlfL9rbFuI42CTFFtgMmw,Burger King,North Charlotte,3709 N Tryon St,Charlotte,NC,28206,35.255,-80.8022,2,5,1,-VlfL9rbFuI42CTFFtgMmw,RestaurantsPriceRange2,1
+-VlfL9rbFuI42CTFFtgMmw,Burger King,North Charlotte,3709 N Tryon St,Charlotte,NC,28206,35.255,-80.8022,2,5,1,-VlfL9rbFuI42CTFFtgMmw,RestaurantsReservations,0
+-VlfL9rbFuI42CTFFtgMmw,Burger King,North Charlotte,3709 N Tryon St,Charlotte,NC,28206,35.255,-80.8022,2,5,1,-VlfL9rbFuI42CTFFtgMmw,RestaurantsTakeOut,1
+-vP9rja8YzbRRTX5C1K3dQ,Tacos La Hidalguense,,2635 Little Rock Rd,Charlotte,NC,28214,35.2423,-80.9377,3.5,4,1,-vP9rja8YzbRRTX5C1K3dQ,Ambience,"{""romantic"": false, ""intimate"": false, ""classy"": false, ""hipster"": false, ""divey"": false, ""touristy"": false, ""trendy"": false, ""upscale"": false, ""casual"": false}"
+-vP9rja8YzbRRTX5C1K3dQ,Tacos La Hidalguense,,2635 Little Rock Rd,Charlotte,NC,28214,35.2423,-80.9377,3.5,4,1,-vP9rja8YzbRRTX5C1K3dQ,BikeParking,0
+-vP9rja8YzbRRTX5C1K3dQ,Tacos La Hidalguense,,2635 Little Rock Rd,Charlotte,NC,28214,35.2423,-80.9377,3.5,4,1,-vP9rja8YzbRRTX5C1K3dQ,BusinessAcceptsCreditCards,0
+-vP9rja8YzbRRTX5C1K3dQ,Tacos La Hidalguense,,2635 Little Rock Rd,Charlotte,NC,28214,35.2423,-80.9377,3.5,4,1,-vP9rja8YzbRRTX5C1K3dQ,GoodForKids,1
+-vP9rja8YzbRRTX5C1K3dQ,Tacos La Hidalguense,,2635 Little Rock Rd,Charlotte,NC,28214,35.2423,-80.9377,3.5,4,1,-vP9rja8YzbRRTX5C1K3dQ,HasTV,0
+-vP9rja8YzbRRTX5C1K3dQ,Tacos La Hidalguense,,2635 Little Rock Rd,Charlotte,NC,28214,35.2423,-80.9377,3.5,4,1,-vP9rja8YzbRRTX5C1K3dQ,RestaurantsAttire,casual
+-vP9rja8YzbRRTX5C1K3dQ,Tacos La Hidalguense,,2635 Little Rock Rd,Charlotte,NC,28214,35.2423,-80.9377,3.5,4,1,-vP9rja8YzbRRTX5C1K3dQ,RestaurantsDelivery,0
+-vP9rja8YzbRRTX5C1K3dQ,Tacos La Hidalguense,,2635 Little Rock Rd,Charlotte,NC,28214,35.2423,-80.9377,3.5,4,1,-vP9rja8YzbRRTX5C1K3dQ,RestaurantsGoodForGroups,0
+-vP9rja8YzbRRTX5C1K3dQ,Tacos La Hidalguense,,2635 Little Rock Rd,Charlotte,NC,28214,35.2423,-80.9377,3.5,4,1,-vP9rja8YzbRRTX5C1K3dQ,RestaurantsPriceRange2,1
+-vP9rja8YzbRRTX5C1K3dQ,Tacos La Hidalguense,,2635 Little Rock Rd,Charlotte,NC,28214,35.2423,-80.9377,3.5,4,1,-vP9rja8YzbRRTX5C1K3dQ,RestaurantsReservations,0
+-vP9rja8YzbRRTX5C1K3dQ,Tacos La Hidalguense,,2635 Little Rock Rd,Charlotte,NC,28214,35.2423,-80.9377,3.5,4,1,-vP9rja8YzbRRTX5C1K3dQ,RestaurantsTakeOut,1
+-w82J_sPNAGsTBHbfGrexA,Dollar Tree,,5401 South Blvd,Charlotte,NC,28217,35.1625,-80.875,3.5,12,1,-w82J_sPNAGsTBHbfGrexA,BikeParking,1
+-w82J_sPNAGsTBHbfGrexA,Dollar Tree,,5401 South Blvd,Charlotte,NC,28217,35.1625,-80.875,3.5,12,1,-w82J_sPNAGsTBHbfGrexA,BusinessAcceptsCreditCards,1
+-w82J_sPNAGsTBHbfGrexA,Dollar Tree,,5401 South Blvd,Charlotte,NC,28217,35.1625,-80.875,3.5,12,1,-w82J_sPNAGsTBHbfGrexA,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": true, ""valet"": false}"
+-w82J_sPNAGsTBHbfGrexA,Dollar Tree,,5401 South Blvd,Charlotte,NC,28217,35.1625,-80.875,3.5,12,1,-w82J_sPNAGsTBHbfGrexA,RestaurantsPriceRange2,1
+-WnpBf7pAJNNFdvhv2sE5g,Chuck's Grill,,8001 Old Statesville Rd,Charlotte,NC,28269,35.4277,-80.8429,4,41,1,-WnpBf7pAJNNFdvhv2sE5g,Alcohol,none
+-WnpBf7pAJNNFdvhv2sE5g,Chuck's Grill,,8001 Old Statesville Rd,Charlotte,NC,28269,35.4277,-80.8429,4,41,1,-WnpBf7pAJNNFdvhv2sE5g,Ambience,"{""romantic"": false, ""intimate"": false, ""classy"": false, ""hipster"": false, ""divey"": false, ""touristy"": false, ""trendy"": false, ""upscale"": false, ""casual"": false}"
+-WnpBf7pAJNNFdvhv2sE5g,Chuck's Grill,,8001 Old Statesville Rd,Charlotte,NC,28269,35.4277,-80.8429,4,41,1,-WnpBf7pAJNNFdvhv2sE5g,BikeParking,0
+-WnpBf7pAJNNFdvhv2sE5g,Chuck's Grill,,8001 Old Statesville Rd,Charlotte,NC,28269,35.4277,-80.8429,4,41,1,-WnpBf7pAJNNFdvhv2sE5g,BusinessAcceptsCreditCards,1
+-WnpBf7pAJNNFdvhv2sE5g,Chuck's Grill,,8001 Old Statesville Rd,Charlotte,NC,28269,35.4277,-80.8429,4,41,1,-WnpBf7pAJNNFdvhv2sE5g,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": true, ""valet"": false}"
+-WnpBf7pAJNNFdvhv2sE5g,Chuck's Grill,,8001 Old Statesville Rd,Charlotte,NC,28269,35.4277,-80.8429,4,41,1,-WnpBf7pAJNNFdvhv2sE5g,Caters,0
+-WnpBf7pAJNNFdvhv2sE5g,Chuck's Grill,,8001 Old Statesville Rd,Charlotte,NC,28269,35.4277,-80.8429,4,41,1,-WnpBf7pAJNNFdvhv2sE5g,GoodForKids,1
+-WnpBf7pAJNNFdvhv2sE5g,Chuck's Grill,,8001 Old Statesville Rd,Charlotte,NC,28269,35.4277,-80.8429,4,41,1,-WnpBf7pAJNNFdvhv2sE5g,GoodForMeal,"{""dessert"": false, ""latenight"": false, ""lunch"": false, ""dinner"": false, ""breakfast"": true, ""brunch"": false}"
+-WnpBf7pAJNNFdvhv2sE5g,Chuck's Grill,,8001 Old Statesville Rd,Charlotte,NC,28269,35.4277,-80.8429,4,41,1,-WnpBf7pAJNNFdvhv2sE5g,HasTV,1
+-WnpBf7pAJNNFdvhv2sE5g,Chuck's Grill,,8001 Old Statesville Rd,Charlotte,NC,28269,35.4277,-80.8429,4,41,1,-WnpBf7pAJNNFdvhv2sE5g,NoiseLevel,average
+-WnpBf7pAJNNFdvhv2sE5g,Chuck's Grill,,8001 Old Statesville Rd,Charlotte,NC,28269,35.4277,-80.8429,4,41,1,-WnpBf7pAJNNFdvhv2sE5g,OutdoorSeating,0
+-WnpBf7pAJNNFdvhv2sE5g,Chuck's Grill,,8001 Old Statesville Rd,Charlotte,NC,28269,35.4277,-80.8429,4,41,1,-WnpBf7pAJNNFdvhv2sE5g,RestaurantsAttire,casual
+-WnpBf7pAJNNFdvhv2sE5g,Chuck's Grill,,8001 Old Statesville Rd,Charlotte,NC,28269,35.4277,-80.8429,4,41,1,-WnpBf7pAJNNFdvhv2sE5g,RestaurantsDelivery,0
+-WnpBf7pAJNNFdvhv2sE5g,Chuck's Grill,,8001 Old Statesville Rd,Charlotte,NC,28269,35.4277,-80.8429,4,41,1,-WnpBf7pAJNNFdvhv2sE5g,RestaurantsGoodForGroups,1
+-WnpBf7pAJNNFdvhv2sE5g,Chuck's Grill,,8001 Old Statesville Rd,Charlotte,NC,28269,35.4277,-80.8429,4,41,1,-WnpBf7pAJNNFdvhv2sE5g,RestaurantsPriceRange2,1
+-WnpBf7pAJNNFdvhv2sE5g,Chuck's Grill,,8001 Old Statesville Rd,Charlotte,NC,28269,35.4277,-80.8429,4,41,1,-WnpBf7pAJNNFdvhv2sE5g,RestaurantsReservations,0
+-WnpBf7pAJNNFdvhv2sE5g,Chuck's Grill,,8001 Old Statesville Rd,Charlotte,NC,28269,35.4277,-80.8429,4,41,1,-WnpBf7pAJNNFdvhv2sE5g,RestaurantsTableService,1
+-WnpBf7pAJNNFdvhv2sE5g,Chuck's Grill,,8001 Old Statesville Rd,Charlotte,NC,28269,35.4277,-80.8429,4,41,1,-WnpBf7pAJNNFdvhv2sE5g,RestaurantsTakeOut,1
+-WnpBf7pAJNNFdvhv2sE5g,Chuck's Grill,,8001 Old Statesville Rd,Charlotte,NC,28269,35.4277,-80.8429,4,41,1,-WnpBf7pAJNNFdvhv2sE5g,WiFi,no
+-wtdaWBWrUOXKCcGxzOtwA,Sticky Fingers Smokehouse,Ballantyne,12410 Johnston Rd,Charlotte,NC,28277,35.0702,-80.8435,3,49,0,-wtdaWBWrUOXKCcGxzOtwA,Alcohol,full_bar
+-wtdaWBWrUOXKCcGxzOtwA,Sticky Fingers Smokehouse,Ballantyne,12410 Johnston Rd,Charlotte,NC,28277,35.0702,-80.8435,3,49,0,-wtdaWBWrUOXKCcGxzOtwA,Ambience,"{""romantic"": false, ""intimate"": false, ""classy"": false, ""hipster"": false, ""divey"": false, ""touristy"": false, ""trendy"": false, ""upscale"": false, ""casual"": true}"
+-wtdaWBWrUOXKCcGxzOtwA,Sticky Fingers Smokehouse,Ballantyne,12410 Johnston Rd,Charlotte,NC,28277,35.0702,-80.8435,3,49,0,-wtdaWBWrUOXKCcGxzOtwA,BikeParking,1
+-wtdaWBWrUOXKCcGxzOtwA,Sticky Fingers Smokehouse,Ballantyne,12410 Johnston Rd,Charlotte,NC,28277,35.0702,-80.8435,3,49,0,-wtdaWBWrUOXKCcGxzOtwA,BusinessAcceptsCreditCards,1
+-wtdaWBWrUOXKCcGxzOtwA,Sticky Fingers Smokehouse,Ballantyne,12410 Johnston Rd,Charlotte,NC,28277,35.0702,-80.8435,3,49,0,-wtdaWBWrUOXKCcGxzOtwA,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": true, ""valet"": false}"
+-wtdaWBWrUOXKCcGxzOtwA,Sticky Fingers Smokehouse,Ballantyne,12410 Johnston Rd,Charlotte,NC,28277,35.0702,-80.8435,3,49,0,-wtdaWBWrUOXKCcGxzOtwA,Caters,1
+-wtdaWBWrUOXKCcGxzOtwA,Sticky Fingers Smokehouse,Ballantyne,12410 Johnston Rd,Charlotte,NC,28277,35.0702,-80.8435,3,49,0,-wtdaWBWrUOXKCcGxzOtwA,GoodForKids,1
+-wtdaWBWrUOXKCcGxzOtwA,Sticky Fingers Smokehouse,Ballantyne,12410 Johnston Rd,Charlotte,NC,28277,35.0702,-80.8435,3,49,0,-wtdaWBWrUOXKCcGxzOtwA,GoodForMeal,"{""dessert"": false, ""latenight"": false, ""lunch"": false, ""dinner"": true, ""breakfast"": false, ""brunch"": false}"
+-wtdaWBWrUOXKCcGxzOtwA,Sticky Fingers Smokehouse,Ballantyne,12410 Johnston Rd,Charlotte,NC,28277,35.0702,-80.8435,3,49,0,-wtdaWBWrUOXKCcGxzOtwA,HasTV,1
+-wtdaWBWrUOXKCcGxzOtwA,Sticky Fingers Smokehouse,Ballantyne,12410 Johnston Rd,Charlotte,NC,28277,35.0702,-80.8435,3,49,0,-wtdaWBWrUOXKCcGxzOtwA,NoiseLevel,average
+-wtdaWBWrUOXKCcGxzOtwA,Sticky Fingers Smokehouse,Ballantyne,12410 Johnston Rd,Charlotte,NC,28277,35.0702,-80.8435,3,49,0,-wtdaWBWrUOXKCcGxzOtwA,OutdoorSeating,1
+-wtdaWBWrUOXKCcGxzOtwA,Sticky Fingers Smokehouse,Ballantyne,12410 Johnston Rd,Charlotte,NC,28277,35.0702,-80.8435,3,49,0,-wtdaWBWrUOXKCcGxzOtwA,RestaurantsAttire,casual
+-wtdaWBWrUOXKCcGxzOtwA,Sticky Fingers Smokehouse,Ballantyne,12410 Johnston Rd,Charlotte,NC,28277,35.0702,-80.8435,3,49,0,-wtdaWBWrUOXKCcGxzOtwA,RestaurantsDelivery,0
+-wtdaWBWrUOXKCcGxzOtwA,Sticky Fingers Smokehouse,Ballantyne,12410 Johnston Rd,Charlotte,NC,28277,35.0702,-80.8435,3,49,0,-wtdaWBWrUOXKCcGxzOtwA,RestaurantsGoodForGroups,1
+-wtdaWBWrUOXKCcGxzOtwA,Sticky Fingers Smokehouse,Ballantyne,12410 Johnston Rd,Charlotte,NC,28277,35.0702,-80.8435,3,49,0,-wtdaWBWrUOXKCcGxzOtwA,RestaurantsPriceRange2,2
+-wtdaWBWrUOXKCcGxzOtwA,Sticky Fingers Smokehouse,Ballantyne,12410 Johnston Rd,Charlotte,NC,28277,35.0702,-80.8435,3,49,0,-wtdaWBWrUOXKCcGxzOtwA,RestaurantsReservations,0
+-wtdaWBWrUOXKCcGxzOtwA,Sticky Fingers Smokehouse,Ballantyne,12410 Johnston Rd,Charlotte,NC,28277,35.0702,-80.8435,3,49,0,-wtdaWBWrUOXKCcGxzOtwA,RestaurantsTableService,1
+-wtdaWBWrUOXKCcGxzOtwA,Sticky Fingers Smokehouse,Ballantyne,12410 Johnston Rd,Charlotte,NC,28277,35.0702,-80.8435,3,49,0,-wtdaWBWrUOXKCcGxzOtwA,RestaurantsTakeOut,1
+-wtdaWBWrUOXKCcGxzOtwA,Sticky Fingers Smokehouse,Ballantyne,12410 Johnston Rd,Charlotte,NC,28277,35.0702,-80.8435,3,49,0,-wtdaWBWrUOXKCcGxzOtwA,WheelchairAccessible,1
+-wtdaWBWrUOXKCcGxzOtwA,Sticky Fingers Smokehouse,Ballantyne,12410 Johnston Rd,Charlotte,NC,28277,35.0702,-80.8435,3,49,0,-wtdaWBWrUOXKCcGxzOtwA,WiFi,free
+-WZODoBei3z9QyWOUkgCxA,Chickie & Pete's,Steele Creek,14523 Carowinds Blvd,Charlotte,NC,28273,35.1032,-80.9438,2,6,1,-WZODoBei3z9QyWOUkgCxA,BikeParking,0
+-WZODoBei3z9QyWOUkgCxA,Chickie & Pete's,Steele Creek,14523 Carowinds Blvd,Charlotte,NC,28273,35.1032,-80.9438,2,6,1,-WZODoBei3z9QyWOUkgCxA,BusinessAcceptsCreditCards,1
+-WZODoBei3z9QyWOUkgCxA,Chickie & Pete's,Steele Creek,14523 Carowinds Blvd,Charlotte,NC,28273,35.1032,-80.9438,2,6,1,-WZODoBei3z9QyWOUkgCxA,GoodForKids,1
+-WZODoBei3z9QyWOUkgCxA,Chickie & Pete's,Steele Creek,14523 Carowinds Blvd,Charlotte,NC,28273,35.1032,-80.9438,2,6,1,-WZODoBei3z9QyWOUkgCxA,GoodForMeal,"{""dessert"": false, ""latenight"": false, ""lunch"": false, ""dinner"": false, ""breakfast"": false, ""brunch"": false}"
+-WZODoBei3z9QyWOUkgCxA,Chickie & Pete's,Steele Creek,14523 Carowinds Blvd,Charlotte,NC,28273,35.1032,-80.9438,2,6,1,-WZODoBei3z9QyWOUkgCxA,HasTV,0
+-WZODoBei3z9QyWOUkgCxA,Chickie & Pete's,Steele Creek,14523 Carowinds Blvd,Charlotte,NC,28273,35.1032,-80.9438,2,6,1,-WZODoBei3z9QyWOUkgCxA,OutdoorSeating,1
+-WZODoBei3z9QyWOUkgCxA,Chickie & Pete's,Steele Creek,14523 Carowinds Blvd,Charlotte,NC,28273,35.1032,-80.9438,2,6,1,-WZODoBei3z9QyWOUkgCxA,RestaurantsAttire,casual
+-WZODoBei3z9QyWOUkgCxA,Chickie & Pete's,Steele Creek,14523 Carowinds Blvd,Charlotte,NC,28273,35.1032,-80.9438,2,6,1,-WZODoBei3z9QyWOUkgCxA,RestaurantsDelivery,0
+-WZODoBei3z9QyWOUkgCxA,Chickie & Pete's,Steele Creek,14523 Carowinds Blvd,Charlotte,NC,28273,35.1032,-80.9438,2,6,1,-WZODoBei3z9QyWOUkgCxA,RestaurantsGoodForGroups,1
+-WZODoBei3z9QyWOUkgCxA,Chickie & Pete's,Steele Creek,14523 Carowinds Blvd,Charlotte,NC,28273,35.1032,-80.9438,2,6,1,-WZODoBei3z9QyWOUkgCxA,RestaurantsPriceRange2,3
+-WZODoBei3z9QyWOUkgCxA,Chickie & Pete's,Steele Creek,14523 Carowinds Blvd,Charlotte,NC,28273,35.1032,-80.9438,2,6,1,-WZODoBei3z9QyWOUkgCxA,RestaurantsReservations,0
+-WZODoBei3z9QyWOUkgCxA,Chickie & Pete's,Steele Creek,14523 Carowinds Blvd,Charlotte,NC,28273,35.1032,-80.9438,2,6,1,-WZODoBei3z9QyWOUkgCxA,RestaurantsTakeOut,0
+-X05rsrc5TkgnNdIyew6Ew,TCBY,Steele Creek,14318 Rivergate Pkwy,Charlotte,NC,28273,35.099,-80.989,3,4,1,-X05rsrc5TkgnNdIyew6Ew,BikeParking,1
+-X05rsrc5TkgnNdIyew6Ew,TCBY,Steele Creek,14318 Rivergate Pkwy,Charlotte,NC,28273,35.099,-80.989,3,4,1,-X05rsrc5TkgnNdIyew6Ew,BusinessAcceptsCreditCards,1
+-X05rsrc5TkgnNdIyew6Ew,TCBY,Steele Creek,14318 Rivergate Pkwy,Charlotte,NC,28273,35.099,-80.989,3,4,1,-X05rsrc5TkgnNdIyew6Ew,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": false, ""valet"": false}"
+-X05rsrc5TkgnNdIyew6Ew,TCBY,Steele Creek,14318 Rivergate Pkwy,Charlotte,NC,28273,35.099,-80.989,3,4,1,-X05rsrc5TkgnNdIyew6Ew,Caters,0
+-X05rsrc5TkgnNdIyew6Ew,TCBY,Steele Creek,14318 Rivergate Pkwy,Charlotte,NC,28273,35.099,-80.989,3,4,1,-X05rsrc5TkgnNdIyew6Ew,RestaurantsPriceRange2,2
+-X05rsrc5TkgnNdIyew6Ew,TCBY,Steele Creek,14318 Rivergate Pkwy,Charlotte,NC,28273,35.099,-80.989,3,4,1,-X05rsrc5TkgnNdIyew6Ew,RestaurantsTakeOut,1
+-X05rsrc5TkgnNdIyew6Ew,TCBY,Steele Creek,14318 Rivergate Pkwy,Charlotte,NC,28273,35.099,-80.989,3,4,1,-X05rsrc5TkgnNdIyew6Ew,WiFi,no
+-x2tiFz2Belrwz6q1S5ELg,NC Guitar Works,Third Ward,"817 Hamilton St, Ste 300",Charlotte,NC,28206,35.2398,-80.847,5,5,1,-x2tiFz2Belrwz6q1S5ELg,BusinessAcceptsBitcoin,0
+-x2tiFz2Belrwz6q1S5ELg,NC Guitar Works,Third Ward,"817 Hamilton St, Ste 300",Charlotte,NC,28206,35.2398,-80.847,5,5,1,-x2tiFz2Belrwz6q1S5ELg,BusinessAcceptsCreditCards,1
+-xjyKKg8O8_LGngT9kHNZg,LC 21 Latin Fusion Bar & Bistro,,1920 Sardis Rd N,Charlotte,NC,28270,35.1416,-80.7332,3,19,0,-xjyKKg8O8_LGngT9kHNZg,Alcohol,full_bar
+-xjyKKg8O8_LGngT9kHNZg,LC 21 Latin Fusion Bar & Bistro,,1920 Sardis Rd N,Charlotte,NC,28270,35.1416,-80.7332,3,19,0,-xjyKKg8O8_LGngT9kHNZg,Ambience,"{""romantic"": false, ""intimate"": false, ""classy"": false, ""hipster"": false, ""divey"": false, ""touristy"": false, ""trendy"": false, ""upscale"": false, ""casual"": true}"
+-xjyKKg8O8_LGngT9kHNZg,LC 21 Latin Fusion Bar & Bistro,,1920 Sardis Rd N,Charlotte,NC,28270,35.1416,-80.7332,3,19,0,-xjyKKg8O8_LGngT9kHNZg,BusinessAcceptsCreditCards,1
+-xjyKKg8O8_LGngT9kHNZg,LC 21 Latin Fusion Bar & Bistro,,1920 Sardis Rd N,Charlotte,NC,28270,35.1416,-80.7332,3,19,0,-xjyKKg8O8_LGngT9kHNZg,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": true, ""valet"": false}"
+-xjyKKg8O8_LGngT9kHNZg,LC 21 Latin Fusion Bar & Bistro,,1920 Sardis Rd N,Charlotte,NC,28270,35.1416,-80.7332,3,19,0,-xjyKKg8O8_LGngT9kHNZg,GoodForKids,1
+-xjyKKg8O8_LGngT9kHNZg,LC 21 Latin Fusion Bar & Bistro,,1920 Sardis Rd N,Charlotte,NC,28270,35.1416,-80.7332,3,19,0,-xjyKKg8O8_LGngT9kHNZg,GoodForMeal,"{""dessert"": false, ""latenight"": false, ""lunch"": true, ""dinner"": false, ""breakfast"": false, ""brunch"": false}"
+-xjyKKg8O8_LGngT9kHNZg,LC 21 Latin Fusion Bar & Bistro,,1920 Sardis Rd N,Charlotte,NC,28270,35.1416,-80.7332,3,19,0,-xjyKKg8O8_LGngT9kHNZg,HasTV,1
+-xjyKKg8O8_LGngT9kHNZg,LC 21 Latin Fusion Bar & Bistro,,1920 Sardis Rd N,Charlotte,NC,28270,35.1416,-80.7332,3,19,0,-xjyKKg8O8_LGngT9kHNZg,NoiseLevel,average
+-xjyKKg8O8_LGngT9kHNZg,LC 21 Latin Fusion Bar & Bistro,,1920 Sardis Rd N,Charlotte,NC,28270,35.1416,-80.7332,3,19,0,-xjyKKg8O8_LGngT9kHNZg,OutdoorSeating,0
+-xjyKKg8O8_LGngT9kHNZg,LC 21 Latin Fusion Bar & Bistro,,1920 Sardis Rd N,Charlotte,NC,28270,35.1416,-80.7332,3,19,0,-xjyKKg8O8_LGngT9kHNZg,RestaurantsAttire,casual
+-xjyKKg8O8_LGngT9kHNZg,LC 21 Latin Fusion Bar & Bistro,,1920 Sardis Rd N,Charlotte,NC,28270,35.1416,-80.7332,3,19,0,-xjyKKg8O8_LGngT9kHNZg,RestaurantsDelivery,0
+-xjyKKg8O8_LGngT9kHNZg,LC 21 Latin Fusion Bar & Bistro,,1920 Sardis Rd N,Charlotte,NC,28270,35.1416,-80.7332,3,19,0,-xjyKKg8O8_LGngT9kHNZg,RestaurantsGoodForGroups,1
+-xjyKKg8O8_LGngT9kHNZg,LC 21 Latin Fusion Bar & Bistro,,1920 Sardis Rd N,Charlotte,NC,28270,35.1416,-80.7332,3,19,0,-xjyKKg8O8_LGngT9kHNZg,RestaurantsPriceRange2,2
+-xjyKKg8O8_LGngT9kHNZg,LC 21 Latin Fusion Bar & Bistro,,1920 Sardis Rd N,Charlotte,NC,28270,35.1416,-80.7332,3,19,0,-xjyKKg8O8_LGngT9kHNZg,RestaurantsReservations,1
+-xjyKKg8O8_LGngT9kHNZg,LC 21 Latin Fusion Bar & Bistro,,1920 Sardis Rd N,Charlotte,NC,28270,35.1416,-80.7332,3,19,0,-xjyKKg8O8_LGngT9kHNZg,RestaurantsTableService,1
+-xjyKKg8O8_LGngT9kHNZg,LC 21 Latin Fusion Bar & Bistro,,1920 Sardis Rd N,Charlotte,NC,28270,35.1416,-80.7332,3,19,0,-xjyKKg8O8_LGngT9kHNZg,RestaurantsTakeOut,1
+-xjyKKg8O8_LGngT9kHNZg,LC 21 Latin Fusion Bar & Bistro,,1920 Sardis Rd N,Charlotte,NC,28270,35.1416,-80.7332,3,19,0,-xjyKKg8O8_LGngT9kHNZg,WiFi,free
+-XY6oXm6qeKvzH_q0FIpuQ,Michaels,Steele Creek,"13540 Hoover Creek Blvd, Ste 800",Charlotte,NC,28273,35.0977,-80.9888,4,6,1,-XY6oXm6qeKvzH_q0FIpuQ,BikeParking,0
+-XY6oXm6qeKvzH_q0FIpuQ,Michaels,Steele Creek,"13540 Hoover Creek Blvd, Ste 800",Charlotte,NC,28273,35.0977,-80.9888,4,6,1,-XY6oXm6qeKvzH_q0FIpuQ,BusinessAcceptsCreditCards,1
+-XY6oXm6qeKvzH_q0FIpuQ,Michaels,Steele Creek,"13540 Hoover Creek Blvd, Ste 800",Charlotte,NC,28273,35.0977,-80.9888,4,6,1,-XY6oXm6qeKvzH_q0FIpuQ,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": false, ""valet"": false}"
+-XY6oXm6qeKvzH_q0FIpuQ,Michaels,Steele Creek,"13540 Hoover Creek Blvd, Ste 800",Charlotte,NC,28273,35.0977,-80.9888,4,6,1,-XY6oXm6qeKvzH_q0FIpuQ,ByAppointmentOnly,0
+-XY6oXm6qeKvzH_q0FIpuQ,Michaels,Steele Creek,"13540 Hoover Creek Blvd, Ste 800",Charlotte,NC,28273,35.0977,-80.9888,4,6,1,-XY6oXm6qeKvzH_q0FIpuQ,RestaurantsPriceRange2,2
+-y-7ejoKDEJSbb0YKdPoxw,KŪRE Vaporium & Lounge - University,University City,"440 E McCullough Dr, Ste A111",Charlotte,NC,28262,35.3025,-80.7475,4.5,7,1,-y-7ejoKDEJSbb0YKdPoxw,Alcohol,beer_and_wine
+-y-7ejoKDEJSbb0YKdPoxw,KŪRE Vaporium & Lounge - University,University City,"440 E McCullough Dr, Ste A111",Charlotte,NC,28262,35.3025,-80.7475,4.5,7,1,-y-7ejoKDEJSbb0YKdPoxw,Ambience,"{""romantic"": false, ""intimate"": false, ""classy"": false, ""hipster"": false, ""divey"": false, ""touristy"": false, ""trendy"": false, ""upscale"": false, ""casual"": false}"
+-y-7ejoKDEJSbb0YKdPoxw,KŪRE Vaporium & Lounge - University,University City,"440 E McCullough Dr, Ste A111",Charlotte,NC,28262,35.3025,-80.7475,4.5,7,1,-y-7ejoKDEJSbb0YKdPoxw,BikeParking,1
+-y-7ejoKDEJSbb0YKdPoxw,KŪRE Vaporium & Lounge - University,University City,"440 E McCullough Dr, Ste A111",Charlotte,NC,28262,35.3025,-80.7475,4.5,7,1,-y-7ejoKDEJSbb0YKdPoxw,BusinessAcceptsBitcoin,0
+-y-7ejoKDEJSbb0YKdPoxw,KŪRE Vaporium & Lounge - University,University City,"440 E McCullough Dr, Ste A111",Charlotte,NC,28262,35.3025,-80.7475,4.5,7,1,-y-7ejoKDEJSbb0YKdPoxw,BusinessAcceptsCreditCards,1
+-y-7ejoKDEJSbb0YKdPoxw,KŪRE Vaporium & Lounge - University,University City,"440 E McCullough Dr, Ste A111",Charlotte,NC,28262,35.3025,-80.7475,4.5,7,1,-y-7ejoKDEJSbb0YKdPoxw,BusinessParking,"{""garage"": true, ""street"": false, ""validated"": false, ""lot"": true, ""valet"": false}"
+-y-7ejoKDEJSbb0YKdPoxw,KŪRE Vaporium & Lounge - University,University City,"440 E McCullough Dr, Ste A111",Charlotte,NC,28262,35.3025,-80.7475,4.5,7,1,-y-7ejoKDEJSbb0YKdPoxw,CoatCheck,0
+-y-7ejoKDEJSbb0YKdPoxw,KŪRE Vaporium & Lounge - University,University City,"440 E McCullough Dr, Ste A111",Charlotte,NC,28262,35.3025,-80.7475,4.5,7,1,-y-7ejoKDEJSbb0YKdPoxw,DogsAllowed,0
+-y-7ejoKDEJSbb0YKdPoxw,KŪRE Vaporium & Lounge - University,University City,"440 E McCullough Dr, Ste A111",Charlotte,NC,28262,35.3025,-80.7475,4.5,7,1,-y-7ejoKDEJSbb0YKdPoxw,GoodForKids,0
+-y-7ejoKDEJSbb0YKdPoxw,KŪRE Vaporium & Lounge - University,University City,"440 E McCullough Dr, Ste A111",Charlotte,NC,28262,35.3025,-80.7475,4.5,7,1,-y-7ejoKDEJSbb0YKdPoxw,HappyHour,0
+-y-7ejoKDEJSbb0YKdPoxw,KŪRE Vaporium & Lounge - University,University City,"440 E McCullough Dr, Ste A111",Charlotte,NC,28262,35.3025,-80.7475,4.5,7,1,-y-7ejoKDEJSbb0YKdPoxw,HasTV,1
+-y-7ejoKDEJSbb0YKdPoxw,KŪRE Vaporium & Lounge - University,University City,"440 E McCullough Dr, Ste A111",Charlotte,NC,28262,35.3025,-80.7475,4.5,7,1,-y-7ejoKDEJSbb0YKdPoxw,OutdoorSeating,1
+-y-7ejoKDEJSbb0YKdPoxw,KŪRE Vaporium & Lounge - University,University City,"440 E McCullough Dr, Ste A111",Charlotte,NC,28262,35.3025,-80.7475,4.5,7,1,-y-7ejoKDEJSbb0YKdPoxw,RestaurantsGoodForGroups,1
+-y-7ejoKDEJSbb0YKdPoxw,KŪRE Vaporium & Lounge - University,University City,"440 E McCullough Dr, Ste A111",Charlotte,NC,28262,35.3025,-80.7475,4.5,7,1,-y-7ejoKDEJSbb0YKdPoxw,RestaurantsPriceRange2,1
+-y-7ejoKDEJSbb0YKdPoxw,KŪRE Vaporium & Lounge - University,University City,"440 E McCullough Dr, Ste A111",Charlotte,NC,28262,35.3025,-80.7475,4.5,7,1,-y-7ejoKDEJSbb0YKdPoxw,RestaurantsReservations,0
+-y-7ejoKDEJSbb0YKdPoxw,KŪRE Vaporium & Lounge - University,University City,"440 E McCullough Dr, Ste A111",Charlotte,NC,28262,35.3025,-80.7475,4.5,7,1,-y-7ejoKDEJSbb0YKdPoxw,Smoking,yes
+-y-7ejoKDEJSbb0YKdPoxw,KŪRE Vaporium & Lounge - University,University City,"440 E McCullough Dr, Ste A111",Charlotte,NC,28262,35.3025,-80.7475,4.5,7,1,-y-7ejoKDEJSbb0YKdPoxw,WheelchairAccessible,1
+-y1NyDkEDIDr5VsukVOq1A,Griffin Tire & Auto Your Neighborhood Tire Pros,Biddleville,4600 Brookshire Blvd,Charlotte,NC,28216,35.2718,-80.8838,4.5,3,1,-y1NyDkEDIDr5VsukVOq1A,BusinessAcceptsCreditCards,1
+-YeNeazqbsEi7l6jOgRvGA,Amity Barber Stylist,Cotswold,4360 Colwick Rd,Charlotte,NC,28211,35.1773,-80.7985,3.5,3,1,-YeNeazqbsEi7l6jOgRvGA,BusinessAcceptsCreditCards,1
+-YeNeazqbsEi7l6jOgRvGA,Amity Barber Stylist,Cotswold,4360 Colwick Rd,Charlotte,NC,28211,35.1773,-80.7985,3.5,3,1,-YeNeazqbsEi7l6jOgRvGA,BusinessParking,"{""garage"": false, ""street"": false, ""validated"": false, ""lot"": false, ""valet"": false}"
+-YeNeazqbsEi7l6jOgRvGA,Amity Barber Stylist,Cotswold,4360 Colwick Rd,Charlotte,NC,28211,35.1773,-80.7985,3.5,3,1,-YeNeazqbsEi7l6jOgRvGA,ByAppointmentOnly,0
